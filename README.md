@@ -21,21 +21,21 @@
 <br/>  
 
 
-## My Skillst  
+## My Skills  
 <table><tr><td valign="top" width="33%">
 
 
 
-### Frontend  
+### Coding 
 <div align="center">  
-<img src ="https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=dark">
+<img src ="https://skillicons.dev/icons?i=angular,bootstrap,wordpress,vue,ts,unity,sass,rust,ruby,redux,react,py,php,nodejs,lua,kotlin,jquery,js,java,html,flutter,dotnet,dart,css,cpp,bootstrap,bash,linux,nuxtjs,nextjs,laravel,mysql&theme=dark">
 </div>
 
 
 
 </td><td valign="top" width="33%">
 
-### Backend  
+### Apps  
 <div align="center">  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
