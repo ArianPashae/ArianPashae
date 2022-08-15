@@ -212,21 +212,21 @@
 <h2> Connect with me</h2>
     <div align="top"> 
   <a href="https://discord.gg/ZdHqFgbb4X" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="35" alt="discord logo"  /></a>
-<br><br>
+    <img src="https://img.shields.io/static/v1?message=instagram&logo=instagram&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="35" alt="discord logo"  /></a>
+<br>
   <a href="https://discord.gg/ZdHqFgbb4X" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="35" alt="discord logo"  />
 
   </a>
-<br><br>
+<br>
   <a href="https://youtube.com/channel/UCVGyudTRJBkRWJBoNEYUsM" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="35" alt="youtube logo"  />
   </a>
- <br><br>
+<br>
   <a href="https://t.me/webkhooneh" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="35" alt="telegram logo"  />
   </a>
-<br><br>
+<br>
   <a href="https://wa.me/message/OIP26GZ2R4B6J1" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="35" alt="whatsapp logo"  />
   </a>
