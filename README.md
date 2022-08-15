@@ -5,76 +5,124 @@
 <br clear="both">
 
 <div align="center">
-  <img height="1012" src="https://mrarian.ir/assets/images/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3436383134313332343930363932313938342f313030373633303533363036313233393330362f742e706e673f73697a653d34303.png"  />
+  <img height="auto" src="https://mrarian.ir/assets/images/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3436383134313332343930363932313938342f313030373633303533363036313233393330362f742e706e673f73697a653d34303.png"  />
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&username=A" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=A" height="150" alt="languages graph"  />
-</div>
+## 🌗Language [EN]
 
-###
+Hi👋🏻
+I am **[Mr.SIN RE](https://zil.ink/sobhan.srza)** and my real name is *Sobhan*
 
-<br clear="both">
+Apart from starting YouTube for fun, I also started bot programming a few months ago and built a [bot fun](https://discord.com/oauth2/authorize?client_id=914445178201337877&scope=bot+applications.commands+identify+guilds+applications.commands.permissions.update&response_type=code&permissions=2080374975)
 
-<div align="center">
-  <a href="htts://instagram.com/arianpashae" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="35" alt="instagram logo"  />
+My programming is not very strong and I do not even claim to be a developer because I am not a professional.
+
+I also work in the field of YouTube and gaming, and I also configure the server in addition to coding
+
+I have one server for [supporting and pass the time](https://discord.gg/WMhke7BW7J).
+
+[My Bots Support Server And Gaming Server](https://discord.gg/WMhke7BW7J)
+
+---
+ ## 💻Coding Activity
+
+<p align="center">
+  <img alt="Followers" src="https://img.shields.io/github/followers/Sobhan-SRZA?style=social">
+  <img alt="Total Stars" src="https://img.shields.io/github/stars/Sobhan-SRZA?style=social">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Sobhan-SRZA/How-Create-Discord-Bot">
+  <img src="https://komarev.com/ghpvc/?username=Sobhan-SRZA">
+  <a href="https://discord.gg/WMhke7BW7J" target="_blank"> 
+    <img src="https://discordapp.com/api/guilds/912596015075455016/widget.png?style=shield" alt="shield.png">
   </a>
-  <a href="https://discord.gg/ZdHqFgbb4X" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="35" alt="discord logo"  />
+
+</p>
+
+
+
+
+<p align="center">
+    <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sobhan-SRZA&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+</p>
+    
+---
+
+<p align="center">
+        <img title="h" alt="#streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=Sobhan-SRZA&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/>
+</p>
+
+<p align="center">
+   <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sobhan-SRZA&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+</p>
+    
+---
+
+
+<p align="center">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sobhan-SRZA&langs_count=10&count_private=true&theme=react&hide_border=true&layout=compact&bg_color=0D1117" />
+</p>
+
+---
+
+
+<p align="center">
+    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Sobhan-SRZA&theme=react&no-frame=true&no-bg=true&margin-w=5" />
+</p>
+
+---
+
+
+- **🌱 I’m currently learning :** &nbsp;
+<p align="center">
+  <a href="https://discord.gg/WMhke7BW7J">
+  <img height="50" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+  <img height="50" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+  <img height="50" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+  <img height="50" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png">
+  <img height="50" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+  <img height="50" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
   </a>
-  <a href="https://youtube.com/channel/UCVGyudTRJBkRWJBoNEYUsM" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="35" alt="youtube logo"  />
+</p>
+
+---
+
+- **📫 Contact me in :**
+
+
+<p align="center">
+  <a href="https://discord.gg/WMhke7BW7J">
+    <img alt="My Discord Account" src="https://discord.c99.nl/widget/theme-1/831934465609302056.png"  />
   </a>
-  <a href="https://t.me/webkhooneh" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="35" alt="telegram logo"  />
+</p>
+
+<p align="center">
+  <a href="https://discord.gg/WMhke7BW7J" target="_blank"> 
+    <img src="https://discord.com/api/guilds/912596015075455016/widget.png?style=banner2" alt="sizar-team.png">
   </a>
-  <a href="https://wa.me/message/OIP26GZ2R4B6J1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="35" alt="whatsapp logo"  />
+</p>
+
+---
+
+- **📫 Another way:**
+<p align="center">
+  <a href="https://discord.gg/WMhke7BW7J">
+    <img alt="Discord Server" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" width="50px"/>
   </a>
-</div>
+  <a href="https://t.me/SobhanSRZA">
+    <img alt="Telegram" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" width="50px"/>
+  </a>
+  <a href="https://www.instagram.com/srza._.gamer/">
+    <img alt="Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="50px"/>
+  </a>
+  <a href="https://www.twitch.tv/sobhan_srza">
+    <img alt="Twitch" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" width="50px"/>
+  </a>
+  <a href="https://b2n.ir/srza-.-gamer">
+    <img alt="YouTube" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" width="50px"/>
+  </a>
+  <a href="https://github.com/Sobhan-SRZA">
+    <img alt="Github" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="50px"/>
+  </a>
+</p>
 
-###
-
-<h3 align="center">Some of the Languages, Tools & etc that i use: 🔧</h3>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="42" alt="linux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" height="30" width="42" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" width="42" alt="vuejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="42" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="30" width="42" alt="nuxtjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="30" width="42" alt="php logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="42" alt="bootstrap logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/A/count.svg?"  />
-</div>
-
-###
-
-<img href="https://raw.githubusercontent.com/A/A/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=https://github.com/ArianPashae&theme=dark" alt="Layout with last medium posts"  />
-</div>
-
-###
-Profile Readme Generator
