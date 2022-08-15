@@ -28,7 +28,7 @@
 
 ### Frontend  
 <div align="center">  
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+<img src ="https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=dark">
 </div>
 
 </td><td valign="top" width="33%">
