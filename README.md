@@ -213,7 +213,7 @@
 
   <div align="top"> 
   <a href="htts://instagram.com/arianpashae/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=Instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="35" alt="Instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="35" alt="telegram logo"  />
   </a></div>
     <div align="top"> 
   <a href="https://discord.gg/ZdHqFgbb4X" target="_blank">
