@@ -28,7 +28,9 @@
 
 ### Coding 
 <div align="center">  
-<img src ="https://skillicons.dev/icons?i=angular,bootstrap,wordpress,vue,ts,unity,sass,  redux,react,py,php,nodejs,lua,kotlin,jquery,js,java,html,flutter,dotnet,dart,css,cpp,bootstrap,bash,linux,nuxtjs,nextjs,laravel,mysql,rust,ruby&theme=dark&perline=7">
+<img src ="https://skillicons.dev/icons?i=angular,bootstrap,wordpress,vue,ts,unity,sass&theme=dark">
+  jquery,js,java,html,flutter,dotnet,dart,css,cpp,bootstrap,bash,linux,nuxtjs,nextjs,laravel,mysql,rust,ruby
+  <img src ="https://skillicons.dev/icons?i=redux,react,py,php,nodejs,lua,kotlin&theme=dark">
 
   
 </div>
