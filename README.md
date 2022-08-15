@@ -111,7 +111,8 @@
   <a href="https://wa.me/message/OIP26GZ2R4B6J1" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="35" alt="whatsapp logo"  />
   </a>
-  </div><br><br>
+  </div>
+  <br><br>
  
 
 
