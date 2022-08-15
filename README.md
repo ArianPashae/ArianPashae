@@ -175,34 +175,5 @@
 <br />
 
 ----
-<h2>My GitHub Stats🎯</h2>
-<h3 align="left">Profile Views: 🧐</h3>
-  
-![Profile views](https://gpvc.arturio.dev/ArianPashae)
 
 
-<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArianPashae&hide_border=true&layout=compact&theme=midnight-purple" align="cneter" height="196"/></div>
-  
-<details><summary>Contribution Graph</summary>
-<p align="left">
-<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=ArianPashae&theme=redical&no-frame=true" /></p>
-</details>
-
-  
-<details><summary>Trophies</summary>
-<p align="left">
-<img width=900 src="https://github-profile-trophy.vercel.app/?username=ArianPashae&column=7&theme=onestar&no-frame=true"/>
-</details>
-  
-
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&username=ArianPashae" /> 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=avinash-218&theme=midnight-purple" />
-</p>  
-
-<a href="https://gitstalk.netlify.app/ArianPashae/" target="_blank"> See My Latest Activities Here</a>
-  
-
-<img src ="social_dashboard.svg" align = "left" width = 50%>
-(https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
-<img src ="https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=dark">
