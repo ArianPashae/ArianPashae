@@ -205,4 +205,4 @@
 
 <img src ="social_dashboard.svg" align = "left" width = 50%>
 (https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
-<img src ="[social_dashboard.svg](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)" align = "left" width = 50%>
+<img src ="https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light">
