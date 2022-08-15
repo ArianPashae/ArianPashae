@@ -212,7 +212,7 @@
 <h2> Connect with me</h2>
     <div align="top"> 
   <a href="https://instagram.com/arianpashae" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=instagram&logo=instagram&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="35" alt="discord logo"  /></a>
+    <img src="https://img.shields.io/static/v1?message=instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="35" alt="instagram logo"  /></a>
 <br>
   <a href="https://discord.gg/ZdHqFgbb4X" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="35" alt="discord logo"  />
