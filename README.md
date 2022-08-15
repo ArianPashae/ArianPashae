@@ -179,7 +179,7 @@
   
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=avinash-218&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" /> 
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArianPashae&hide_border=true&layout=compact&theme=midnight-purple" /> 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=avinash-218&theme=chartreuse-dark" />
 </p>  
 
