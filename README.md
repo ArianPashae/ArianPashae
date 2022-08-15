@@ -129,7 +129,7 @@
   
 
 <br/>  
-
+----
 <div align="center">
             <a href="https://paypal.me/ArianPashae" target="_blank" style="display: inline-block;">
                 <img
@@ -158,5 +158,5 @@
 <br />
 
 
---
+
 
