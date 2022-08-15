@@ -31,7 +31,7 @@
 <img src ="https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=dark">
 </div>
 
-</td><td valign="top" width="33%">
+
 
 
 
