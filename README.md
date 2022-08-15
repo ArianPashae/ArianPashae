@@ -21,7 +21,7 @@
 <br/>  
 
 
-## My Skills  
+## My Skills💻  
 <table><tr><td valign="top" width="33%">
 
 
@@ -60,7 +60,7 @@
 <br/>  
 
 <img src ="social_dashboard.svg" align = "left" width = 50%>
-<h2> Connect with me</h2>
+<h2> Connect with me📞</h2>
     <div align="top"> 
 
   <a href="https://instagram.com/arianpashae" target="_blank">
