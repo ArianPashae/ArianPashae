@@ -174,7 +174,7 @@
   
 <details><summary>Trophies</summary>
 <p align="left">
-<img width=900 src="https://github-profile-trophy.vercel.app/?username=avinash-218&column=7&theme=gruvbox&no-frame=true"/>
+<img width=900 src="https://github-profile-trophy.vercel.app/?username=ArianPashae&column=7&theme=tokyonight&no-frame=true"/>
 </details>
   
 
