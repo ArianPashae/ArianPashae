@@ -111,7 +111,7 @@
 <br/>  
 
 
-## Github Stats  
+ 
 <h2>My GitHub Stats🎯</h2>
 <h3 align="left">Profile Views: 🧐</h3>
   
@@ -207,7 +207,7 @@
 <a href="https://gitstalk.netlify.app/ArianPashae/" target="_blank"> See My Latest Activities Here</a>
   
 
-<img src ="Images/social_dashboard.svg" align = "left" width = 50%>
+<img src ="social_dashboard.svg" align = "left" width = 50%>
 <div>
 <h2> Connect with me</h2>
   
