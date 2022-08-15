@@ -118,13 +118,11 @@
 
 <a href="https://gitstalk.netlify.app/ArianPashae/" target="_blank"> See My Latest Activities Here</a>
 
-## Spotify Listening  
+## Spotify Listening🎵 
 <div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg"/></div>  
 
 <br/>  
 
-
-<br/>  
 
 <div align="center">
             <a href="https://paypal.me/ArianPashae" target="_blank" style="display: inline-block;">
