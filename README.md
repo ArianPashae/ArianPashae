@@ -210,11 +210,13 @@
 <img src ="social_dashboard.svg" align = "left" width = 50%>
 <div>
 <h2> Connect with me</h2>
-
-
+    <div align="top"> 
+  <a href="https://discord.gg/ZdHqFgbb4X" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="35" alt="discord logo"  /></a>
     <div align="top"> 
   <a href="https://discord.gg/ZdHqFgbb4X" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="35" alt="discord logo"  />
+
   </a></div>
        <div align="top"> 
   <a href="https://youtube.com/channel/UCVGyudTRJBkRWJBoNEYUsM" target="_blank">
