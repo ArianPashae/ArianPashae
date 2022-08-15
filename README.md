@@ -45,11 +45,12 @@
 <div align="center">  
 <img src ="https://skillicons.dev/icons?i=ae,androidstudio,au,autocad,blender,discord,figma&theme=dark">
   <img src ="https://skillicons.dev/icons?i=gamemakerstudio,git,idea,ai,ps,powershell,pr&theme=dark">
+  <img src ="https://skillicons.dev/icons?i=visualstudio,vscode&theme=dark">
+  
 </div>
 
-</td><td valign="top" width="33%">
 
-  ,,visualstudio,vscode
+
 
 
 ### Operating System  
