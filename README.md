@@ -211,10 +211,9 @@
 <div>
 <h2> Connect with me</h2>
 
-      <div align="top"> 
+  <div align="top"> 
   <a href="htts://instagram.com/arianpashae/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=Instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="35" alt="Instagram logo"  />
-  </a></div>
   </a></div>
     <div align="top"> 
   <a href="https://discord.gg/ZdHqFgbb4X" target="_blank">
