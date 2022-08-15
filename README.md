@@ -116,7 +116,7 @@
 
 
 ## Github Stats  
-<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=ArianPashae&show_icons=true&count_private=true&hide_border=true" align="right" /></div>  
+<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=ArianPashae&show_icons=true&count_private=true&hide_border=true&theme=midnight" align="right" /></div>  
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArianPashae&hide_border=true&layout=compact" align="center" /></div>  
 
