@@ -165,8 +165,8 @@
   
 ![Profile views](https://gpvc.arturio.dev/avinash-218)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avinash-218&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArianPashae&hide_border=true&layout=compact&theme=midnight-purple" align="cneter" height="196"/></div>
+[![Top Langs]
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArianPashae&hide_border=true&layout=compact&theme=midnight-purple" align="cneter" height="196"/></div>
   
 <details><summary>Contribution Graph</summary>
 <p align="left">
