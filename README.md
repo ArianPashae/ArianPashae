@@ -163,10 +163,10 @@
  
 <h3 align="left">Profile Views: 🧐</h3>
   
-![Profile views](https://gpvc.arturio.dev/avinash-218)
+![Profile views](https://gpvc.arturio.dev/ArianPashae)
 
-[![Top Langs]
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArianPashae&hide_border=true&layout=compact&theme=midnight-purple" align="cneter" height="196"/></div>
+
+<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArianPashae&hide_border=true&layout=compact&theme=midnight-purple" align="cneter" height="196"/></div>
   
 <details><summary>Contribution Graph</summary>
 <p align="left">
