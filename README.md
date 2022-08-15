@@ -158,7 +158,7 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<h2  > Connect with me</h2>
 ## &#x1f4c8; My GitHub Stats🎯
  
 <h3 align="left">Profile Views: 🧐</h3>
