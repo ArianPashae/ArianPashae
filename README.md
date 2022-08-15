@@ -110,7 +110,23 @@
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
+  div align="center">
+  <a href="htts://instagram.com/arianpashae" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://discord.gg/ZdHqFgbb4X" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://youtube.com/channel/UCVGyudTRJBkRWJBoNEYUsM" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://t.me/webkhooneh" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="35" alt="telegram logo"  />
+  </a>
+  <a href="https://wa.me/message/OIP26GZ2R4B6J1" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="35" alt="whatsapp logo"  />
+  </a>
+</div>
 
 <br/>  
 
