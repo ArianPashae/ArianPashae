@@ -28,7 +28,7 @@
 
 ### Coding 
 <div align="center">  
-<img src ="https://skillicons.dev/icons?i=angular,bootstrap,wordpress,vue,ts,unity,sass&theme=dark">
+<img src ="https://skillicons.dev/icons?i=angular,bootstrap,wordpress,vue,ts,unity,sass&theme=perline">
   
 </div>
 
