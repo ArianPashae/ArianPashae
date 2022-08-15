@@ -28,7 +28,8 @@
 
 ### Coding 
 <div align="center">  
-<img src ="https://skillicons.dev/icons?i=angular,bootstrap,wordpress,vue,ts,unity,sass,rust,ruby&theme=dark">
+<img src ="https://skillicons.dev/icons?i=angular,bootstrap,wordpress,vue,ts,unity,sass&theme=dark">
+  
 </div>
 
 
