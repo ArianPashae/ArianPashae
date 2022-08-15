@@ -90,6 +90,7 @@
 
 
 <h2> Connect with me</h2>
+<img src ="social_dashboard.svg" align = "left" width = 50%>
     <div align="top"> 
   <a href="https://instagram.com/arianpashae" target="_blank">
     <img src="https://img.shields.io/static/v1?message=instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="35" alt="instagram logo"  /></a>
