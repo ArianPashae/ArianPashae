@@ -168,7 +168,7 @@
   
 <details><summary>Contribution Graph</summary>
 <p align="left">
-<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=ArianPashae&theme=chartreuse-dark&no-frame=true" /></p>
+<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=ArianPashae&theme=redical&no-frame=true" /></p>
 </details>
 
   
