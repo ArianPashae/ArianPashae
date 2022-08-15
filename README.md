@@ -180,10 +180,10 @@
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&username=ArianPashae" /> 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=avinash-218&theme=chartreuse-dark" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=avinash-218&theme=midnight-purple" />
 </p>  
 
-<a href="https://gitstalk.netlify.app/avinash-218/" target="_blank"> See My Latest Activities Here</a>
+<a href="https://gitstalk.netlify.app/ArianPashae/" target="_blank"> See My Latest Activities Here</a>
   
 
 <img src ="Images/social_dashboard.svg" align = "left" width = 50%>
