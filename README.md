@@ -130,15 +130,10 @@
 
 
 <div align="center">
-            <a href="https://paypal.me/ArianPashae" target="_blank" style="display: inline-block;">
+            <a href="https://paypal.me/ArianPashae" target="_blank" style="display: inline-block;"> به من کافی بده
                 <img
                     src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
                     align="center"
                 />
             </a>
   </div>
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ArianPashae/ArianPashae/output/snake.svg" alt="Snake animation" />
-
-###
