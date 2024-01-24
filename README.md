@@ -97,7 +97,7 @@
 ![Profile views](https://gpvc.arturio.dev/ArianPashae)
 
 
-<div align="center">  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArianPashae&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true" height="150" alt="languages graph"  /></div>
+<div align="center">  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArianPashae&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true" height="200" alt="languages graph"  /></div>
   
 <details><summary>Contribution Graph</summary>
 <p align="center">
