@@ -72,7 +72,7 @@
   </a>
 <br>
   <a href="http://www.linkedin.com/in/arian-pashae/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linkdin&logo=linkdin&label=&color=0f7ab2&logoColor=white&labelColor=&style=flat" height="35" alt="linkdin logo"  />
+      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
   </a>
 <br>
   <a href="https://t.me/ArianPashae" target="_blank">
@@ -83,8 +83,8 @@
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="35" alt="whatsapp logo"  />
   </a>
   <br>
-  <a href="[https://wa.me/message/OIP26GZ2R4B6J1](https://wa.link/8x8t9x)" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=email&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="35" alt="whatsapp logo"  />
+  <a href="mailto:info@mrarian.ir" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="gmail logo"  />
   </a>
   </div>
   <br>
