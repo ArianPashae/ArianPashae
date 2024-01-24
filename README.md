@@ -107,6 +107,10 @@
   
 <details><summary>Trophies</summary>
 <p align="left">
+  <br clear="both">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArianPashae&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArianPashae&hide_border=true&area=true&theme=redical&bg_color=000" height="150" alt="activity-graph graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=ArianPashae&theme=discord&no-frame=true&no-bg=true" height="150" alt="trophy graph"  />
 <img width=900 src="https://github-profile-trophy.vercel.app/?username=ArianPashae&column=7&theme=onestar&no-frame=true"/>
 </details>
   
