@@ -97,11 +97,11 @@
 ![Profile views](https://gpvc.arturio.dev/ArianPashae)
 
 
-<div align="center">  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArianPashae&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true" height="200" alt="languages graph"  /></div>
+<div align="center">  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArianPashae&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true" height="170" alt="languages graph"  /></div>
   
 <details><summary>Contribution Graph</summary>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArianPashae&hide_border=true&area=true&bg_color=000000&title_color=9745f5&color=fff&line=9745f5&area_color=9745f5" height="150" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArianPashae&hide_border=true&area=true&bg_color=000000&title_color=9745f5&color=fff&line=9745f5&area_color=9745f5" height="170" alt="activity-graph graph"  />
 </details>
 
   
@@ -113,8 +113,8 @@
   
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArianPashae&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=ArianPashae&locale=en&mode=daily&theme=midnight-purple&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArianPashae&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true" height="170" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=ArianPashae&locale=en&mode=daily&theme=midnight-purple&hide_border=true&border_radius=5" height="170" alt="streak graph"  />
 </p>  
 
 <a href="https://gitstalk.netlify.app/ArianPashae/" target="_blank"> See My Latest Activities Here</a>
