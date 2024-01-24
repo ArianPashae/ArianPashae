@@ -130,10 +130,5 @@
 
 
 <div align="center">
-            <a href="https://paypal.me/ArianPashae" target="_blank" style="display: inline-block;"> به من کافی بده
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
-                    align="center"
-                />
-            </a>
+           <a href="https://www.coffeebede.com/arianpashae"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
   </div>
