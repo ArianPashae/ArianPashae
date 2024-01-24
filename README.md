@@ -93,8 +93,9 @@
  
 <h2>My GitHub Stats🎯</h2>
 <h3 align="left">Profile Views: 🧐</h3>
-  
-![Profile views](https://gpvc.arturio.dev/ArianPashae)
+  <div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ArianPashae.ArianPashae&right_color=blueviolet&left_text=Views"  />
+</div>
 
 
 <div align="center">  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArianPashae&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true" height="170" alt="languages graph"  /></div>
