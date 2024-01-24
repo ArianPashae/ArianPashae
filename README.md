@@ -3,13 +3,13 @@
 </div>  
   
 
-### <div align="center">Hi I'm Arian, a full-time full-stack freelance developer 👨‍💻 working remotely since 2019 🚀</div>  
+### <div align="center">Hi I'm Arian, a full-time full-stack Web developer 👨‍💻 working remotely since 2020🚀</div>  
   
 
 - 🔭 I’m currently working on [Webkhooneh](https://Webkhooneh.com)  
   
 
-- 🌱 I’m currently learning Machine  
+- 🌱 I’m currently learning DevOps
   
 
 - ❓ Ask me about anything related to Web and related technologies  
@@ -29,10 +29,10 @@
 ### Coding 
 <div align="center">  
 <img src ="https://skillicons.dev/icons?i=angular,bootstrap,wordpress,vue,ts,unity,sass&theme=dark">
-  <img src ="https://skillicons.dev/icons?i=redux,react,py,php,nodejs,lua,kotlin&theme=dark">
-  <img src ="https://skillicons.dev/icons?i=jquery,js,java,html,flutter,dotnet,dart&theme=dark">
-  <img src ="https://skillicons.dev/icons?i=css,cpp,bootstrap,bash,linux,nuxtjs,nextjs&theme=dark">
-    <img src ="https://skillicons.dev/icons?i=laravel,mysql,rust,ruby,solidity&theme=dark">
+  <img src ="https://skillicons.dev/icons?i=redux,react,php,nodejs,lua,mongodb,linux,firebase&theme=dark">
+  <img src ="https://skillicons.dev/icons?i=jquery,js,html,redis,nginx,mysql,express,electron&theme=dark">
+  <img src ="https://skillicons.dev/icons?i=css,bootstrap,bash,linux,nuxtjs,nextjs,docker&theme=dark">
+    <img src ="https://skillicons.dev/icons?i=laravel,mysql,unreal,threejs,tailwind,babel&theme=dark">
 
   
 </div>
