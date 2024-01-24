@@ -72,19 +72,19 @@
   </a>
 <br>
   <a href="http://www.linkedin.com/in/arian-pashae/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linkdin&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="35" alt="linkdin logo"  />
+    <img src="https://img.shields.io/static/v1?message=Linkdin&logo=linkdin&label=&color=0f7ab2&logoColor=white&labelColor=&style=flat" height="35" alt="linkdin logo"  />
   </a>
 <br>
   <a href="https://t.me/ArianPashae" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="35" alt="telegram logo"  />
   </a>
 <br>
-  <a href="[https://wa.me/message/OIP26GZ2R4B6J1](https://wa.link/8x8t9x)" target="_blank">
+  <a href="https://wa.link/8x8t9x" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="35" alt="whatsapp logo"  />
   </a>
   <br>
   <a href="[https://wa.me/message/OIP26GZ2R4B6J1](https://wa.link/8x8t9x)" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=mail&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="35" alt="whatsapp logo"  />
+    <img src="https://img.shields.io/static/v1?message=Email&logo=email&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="35" alt="whatsapp logo"  />
   </a>
   </div>
   <br>
