@@ -19,15 +19,15 @@
   
 
 <br/>  
-<div class="embed-container">
-  <iframe
-      src="https://mrarian.ir/wp-content/uploads/2023/09/vjzlL9KaoV.json"
-      width="700"
-      height="480"
-      frameborder="0"
-      allowfullscreen="">
-  </iframe>
-</div>
+<lottie-player
+    autoplay
+    controls
+    loop
+    mode="normal"
+    src="https://mrarian.ir/wp-content/uploads/2023/09/vjzlL9KaoV.json"
+    style="width: 320px"
+>
+</lottie-player>
 
 ## My Skills💻  
 <table><tr><td valign="top" width="33%">
