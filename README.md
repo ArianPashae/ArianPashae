@@ -113,8 +113,8 @@
   
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&username=ArianPashae" /> 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=avinash-218&theme=midnight-purple" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArianPashae&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=ArianPashae&locale=en&mode=daily&theme=midnight-purple&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
 </p>  
 
 <a href="https://gitstalk.netlify.app/ArianPashae/" target="_blank"> See My Latest Activities Here</a>
