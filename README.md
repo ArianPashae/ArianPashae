@@ -133,23 +133,8 @@
                 />
             </a>
   </div>
-
-<br clear="both">
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArianPashae&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArianPashae&hide_border=true&area=true&bg_color=000000&title_color=9745f5&color=fff&line=9745f5&area_color=9745f5" height="150" alt="activity-graph graph"  />
-</div>
-
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/ArianPashae/ArianPashae/output/snake.svg" alt="Snake animation" />
 
 ###
-
-###
-
-----
