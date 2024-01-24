@@ -106,13 +106,13 @@
 
   
 <details><summary>Trophies</summary>
-<p align="left">
+<p align="center">
   <br clear="both">
   <img src="https://github-profile-trophy.vercel.app?username=ArianPashae&theme=discord&no-frame=true&no-bg=true" height="150" alt="trophy graph"  />
 </details>
   
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ArianPashae&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=ArianPashae&locale=en&mode=daily&theme=midnight-purple&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
 </p>  
