@@ -130,5 +130,5 @@
 
 
 <div align="center">
-           <a href="https://www.coffeebede.com/arianpashae"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
+           <a href="https://www.coffeebede.com/arianpashae"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" height="50" /></a>
   </div>
