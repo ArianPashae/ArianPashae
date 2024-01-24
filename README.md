@@ -26,13 +26,13 @@
 
 
 
-### Coding 
+
 <div align="center">  
 <img src ="https://skillicons.dev/icons?i=angular,bootstrap,wordpress,vue,ts,unity,sass&theme=dark">
   <img src ="https://skillicons.dev/icons?i=redux,react,php,nodejs,lua,mongodb,linux,firebase&theme=dark">
   <img src ="https://skillicons.dev/icons?i=jquery,js,html,redis,nginx,mysql,express,electron&theme=dark">
-  <img src ="https://skillicons.dev/icons?i=css,bootstrap,bash,linux,nuxtjs,nextjs,docker&theme=dark">
-    <img src ="https://skillicons.dev/icons?i=laravel,mysql,unreal,threejs,tailwind,babel&theme=dark">
+  <img src ="https://skillicons.dev/icons?i=css,bash,linux,nuxtjs,nextjs,docker&theme=dark">
+    <img src ="https://skillicons.dev/icons?i=cloudflare,laravel,mysql,unreal,threejs,tailwind,babel&theme=dark">
 
   
 </div>
@@ -41,7 +41,7 @@
 
 </td><td valign="top" width="33%">
 
-### Apps  
+
 <div align="center">  
 <img src ="https://skillicons.dev/icons?i=ae,androidstudio,au,autocad,blender,discord,figma&theme=dark">
   <img src ="https://skillicons.dev/icons?i=gamemakerstudio,git,idea,ai,ps,powershell,pr&theme=dark">
