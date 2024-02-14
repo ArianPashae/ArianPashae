@@ -25,6 +25,8 @@
 <iframe src="https://lottie.host/embed/dfab6632-0231-4855-80d3-edef94e29a55/3CQcfmwEvj.json"></iframe>
 <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
 <lottie-player src="https://lottie.host/dfab6632-0231-4855-80d3-edef94e29a55/3CQcfmwEvj.json" background="transparent" speed="1" style="width: 300px; height: 300px" direction="1" mode="normal" loop controls autoplay></lottie-player>
+<script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"></script>
+<dotlottie-player src="https://lottie.host/dfab6632-0231-4855-80d3-edef94e29a55/3CQcfmwEvj.json" background="transparent" speed="1" style="width: 300px; height: 300px" direction="1" playMode="normal" loop controls autoplay></dotlottie-player>
 ## My Skills💻  
 <table><tr><td valign="top" width="33%">
 
