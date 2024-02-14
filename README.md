@@ -19,7 +19,7 @@
   
 
 <br/>  
-## My Skills💻  
+<h2> My Skills💻</h2>
 <table><tr><td valign="top" width="33%">
 
 
