@@ -19,7 +19,7 @@
   
 
 <br/>  
-<img src="https://mrarian.ir/5128f35c9b4be13788ba41bdb6d1fc1f/2024/02/Animation-1707946336474.gif" align="center"  />
+<img src="[https://mrarian.ir/5128f35c9b4be13788ba41bdb6d1fc1f/2024/02/Animation-1707946336474.gif](https://mrarian.ir/5128f35c9b4be13788ba41bdb6d1fc1f/2024/02/Animation-1707946336474-1.gif)" align="center"  />
 
 ## My Skills💻  
 <table><tr><td valign="top" width="33%">
