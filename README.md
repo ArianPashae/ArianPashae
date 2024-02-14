@@ -51,7 +51,7 @@
 
 
 <div align="center">  
-<img src ="https://skillicons.dev/icons?i=ae,au,autocad,blender,discord,figma&theme=dark">
+<img src ="https://skillicons.dev/icons?i=ae,bots,au,autocad,blender,discord,figma&theme=dark">
   <img src ="https://skillicons.dev/icons?i=gamemakerstudio,git,idea,ai,ps,powershell,pr&theme=dark">
   <img src ="https://skillicons.dev/icons?i=visualstudio,vscode&theme=dark">
   
