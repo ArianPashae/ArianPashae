@@ -58,6 +58,7 @@
 <br/>  
 
 <img src ="https://mrarian.ir/5128f35c9b4be13788ba41bdb6d1fc1f/2024/02/image-5.gif" align = "left" width="50%">
+  <br>
 <h2>📞Contact Me</h2>
     <div align="top"> 
 
@@ -87,9 +88,9 @@
   </div>
   <br>
   <br>
-    <br>
-        <br>
-            <br>
+  <br>
+  <br>
+  <br>
 
 
 
