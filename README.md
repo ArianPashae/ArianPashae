@@ -40,7 +40,7 @@
   <img src ="https://skillicons.dev/icons?i=redux,react,php,nodejs,lua,mongodb,linux,firebase&theme=dark">
   <img src ="https://skillicons.dev/icons?i=jquery,js,html,redis,nginx,mysql,express,electron&theme=dark">
   <img src ="https://skillicons.dev/icons?i=css,bash,linux,nuxtjs,nextjs,docker,dotnet&theme=dark">
-    <img src ="https://skillicons.dev/icons?i=cloudflare,laravel,mysql,unreal,threejs,tailwind,babel&theme=dark">
+    <img src ="https://skillicons.dev/icons?i=cloudflare,laravel,unreal,threejs,tailwind,babel&theme=dark">
 
   
 </div>
@@ -53,7 +53,7 @@
 <div align="center">  
 <img src ="https://skillicons.dev/icons?i=ae,bots,au,autocad,blender,discord,figma&theme=dark">
   <img src ="https://skillicons.dev/icons?i=gamemakerstudio,git,idea,ai,ps,powershell,pr&theme=dark">
-  <img src ="https://skillicons.dev/icons?i=visualstudio,vscode&theme=dark">
+  <img src ="https://skillicons.dev/icons?i=visualstudio,vscode,graphql,perl,solidjs,webpack&theme=dark">
   
 </div>
 
