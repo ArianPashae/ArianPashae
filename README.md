@@ -19,15 +19,7 @@
   
 
 <br/>  
-<lottie-player
-    autoplay
-    controls
-    loop
-    mode="normal"
-    src="https://mrarian.ir/wp-content/uploads/2023/09/vjzlL9KaoV.json"
-    style="width: 320px"
->
-</lottie-player>
+<img src="https://mrarian.ir/5128f35c9b4be13788ba41bdb6d1fc1f/2024/02/Animation-1707946336474.gif" align="center"  />
 
 ## My Skills💻  
 <table><tr><td valign="top" width="33%">
