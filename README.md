@@ -22,6 +22,7 @@
 <img src="https://mrarian.ir/5128f35c9b4be13788ba41bdb6d1fc1f/2024/02/Animation-1707946336474-1.gif" align="center"  />
 <script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"></script> 
 <dotlottie-player src="https://lottie.host/fed8873c-ca46-4552-9588-91d193512384/e7F9aLQSi4.json" background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay></dotlottie-player>
+<iframe src="https://lottie.host/embed/dfab6632-0231-4855-80d3-edef94e29a55/3CQcfmwEvj.json"></iframe>
 ## My Skills💻  
 <table><tr><td valign="top" width="33%">
 
