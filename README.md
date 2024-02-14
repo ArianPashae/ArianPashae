@@ -19,14 +19,7 @@
   
 
 <br/>  
-<img src="https://mrarian.ir/5128f35c9b4be13788ba41bdb6d1fc1f/2024/02/Animation-1707946336474-1.gif" align="center"  />
-<script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"></script> 
-<dotlottie-player src="https://lottie.host/fed8873c-ca46-4552-9588-91d193512384/e7F9aLQSi4.json" background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay></dotlottie-player>
-<iframe src="https://lottie.host/embed/dfab6632-0231-4855-80d3-edef94e29a55/3CQcfmwEvj.json"></iframe>
-<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
-<lottie-player src="https://lottie.host/dfab6632-0231-4855-80d3-edef94e29a55/3CQcfmwEvj.json" background="transparent" speed="1" style="width: 300px; height: 300px" direction="1" mode="normal" loop controls autoplay></lottie-player>
-<script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"></script>
-<dotlottie-player src="https://lottie.host/dfab6632-0231-4855-80d3-edef94e29a55/3CQcfmwEvj.json" background="transparent" speed="1" style="width: 300px; height: 300px" direction="1" playMode="normal" loop controls autoplay></dotlottie-player>
+<img src="https://mrarian.ir/5128f35c9b4be13788ba41bdb6d1fc1f/2024/02/image-4.gif" align="center"  />
 ## My Skills💻  
 <table><tr><td valign="top" width="33%">
 
@@ -65,7 +58,7 @@
 
 <br/>  
 
-<img src ="https://mrarian.ir/wp-content/uploads/2023/09/vjzlL9KaoV.json" align = "left" width = 50%>
+<img src ="https://mrarian.ir/5128f35c9b4be13788ba41bdb6d1fc1f/2024/02/image-4.gif" align = "left">
 <h2>📞Contact Me</h2>
     <div align="top"> 
 
