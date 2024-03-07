@@ -59,7 +59,7 @@
 
 <img src ="https://mrarian.ir/5128f35c9b4be13788ba41bdb6d1fc1f/2024/02/image-8.gif" align = "left" width="50%">
   <br>
-<span>📞Contact Me</span>
+<h2>📞Contact Me</h2>
     <div align="top"> 
 
   <a href="https://instagram.com/arianpashae" target="_blank">
