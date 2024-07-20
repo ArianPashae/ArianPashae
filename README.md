@@ -56,9 +56,8 @@
 </td></tr></table>  
 
 <br>  
-
-  <br>
-<h3 align="left">📞Contact Me</h3>
+<h2 align="left">📞Contact Me</h2>
+<br>  
 <img src ="https://arianpashae.com/5128f35c9b4be13788ba41bdb6d1fc1f/2024/07/modern-3d-office-illustration_7023-470747-removebg.webp" align = "left" width="50%">
     <div align="top"> 
 
