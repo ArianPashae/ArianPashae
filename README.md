@@ -87,14 +87,6 @@
   </div>
   <br>
   <br>
-  <br>
-  <br>
-  <br>
-
-
-
-
- 
 <h2>My GitHub Stats🎯</h2>
 <h3 align="left">Profile Views: 🧐</h3>
   <div align="left">
