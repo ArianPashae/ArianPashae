@@ -117,7 +117,7 @@
 <a href="https://gitstalk.netlify.app/ArianPashae/" target="_blank"> See My Latest Activities Here</a>
 <br/>  
   <div align="center">
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/99794108b1606ef058fdf2ec1f529b6b7b0abebf2571fea175b787e8a0db445b/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667"><img src="https://camo.githubusercontent.com/99794108b1606ef058fdf2ec1f529b6b7b0abebf2571fea175b787e8a0db445b/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667" alt="Snake animation" data-canonical-src="https://profile-readme-generator.com/assets/snake.svg" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/99794108b1606ef058fdf2ec1f529b6b7b0abebf2571fea175b787e8a0db445b/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667"><img src="https://raw.githubusercontent.com/ArianPashae/ArianPashae/output/snake.svg" alt="Snake animation" data-canonical-src="https://profile-readme-generator.com/assets/snake.svg" style="max-width: 100%;"></a>
   </div>
 <div align="center">
            <a href="https://www.coffeebede.com/arianpashae"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" height="50" /></a>
