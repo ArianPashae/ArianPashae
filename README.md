@@ -1,39 +1,45 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,35:302B63,65:7F00FF,100:E100FF&height=220&section=header&text=Arian%20Pashae&fontSize=58&fontColor=ffffff&fontAlignY=34&animation=twinkling&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Automation%20Architect%20%E2%80%A2%20Creative%20Technologist&descSize=16&descAlignY=55" width="100%" alt="Arian Pashae Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,30:302B63,60:7F00FF,100:E100FF&height=230&section=header&text=Arian%20Pashae&fontSize=64&fontColor=ffffff&fontAlignY=34&animation=twinkling&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Automation%20Architect%20%E2%80%A2%20Creative%20Technologist&descSize=17&descAlignY=56" width="100%" alt="Arian Pashae Header" />
 
 <img src="https://arianpashae.com/fb611de45b88433d9f4dd604c90e9a2fc1be1843/2024/02/9bc27292880429.5e569ff84e4d0.gif" width="100%" alt="Arian Pashae Animated Banner" />
 
 <br />
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=31&duration=2300&pause=700&color=9745F5&center=true&vCenter=true&width=1100&lines=I+build+digital+products+that+feel+alive.;Full-Stack+Developer+%E2%9A%A1+AI+Builder+%F0%9F%A7%A0;From+clean+interfaces+to+intelligent+systems.;Web+%E2%80%A2+AI+%E2%80%A2+Automation+%E2%80%A2+Creative+Engineering" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&duration=2300&pause=650&color=9745F5&center=true&vCenter=true&width=1100&lines=I+build+digital+products+that+feel+alive.;Full-Stack+Developer+%E2%9A%A1+AI+Builder+%F0%9F%A7%A0;From+clean+interfaces+to+intelligent+systems.;Web+%E2%80%A2+AI+%E2%80%A2+Automation+%E2%80%A2+Creative+Engineering" alt="Typing SVG" />
 
 <br />
+<br />
 
-<p>
-  <a href="https://Webkhooneh.com" target="_blank"><img src="https://img.shields.io/badge/Currently%20Building-Webkhooneh-9745F5?style=for-the-badge&logo=rocket&logoColor=white" alt="Webkhooneh" /></a>
-  <img src="https://img.shields.io/badge/AI%20Builder-LLM%20%7C%20Automation%20%7C%20Agents-00D9FF?style=for-the-badge&logo=openai&logoColor=white" alt="AI Builder" />
-  <img src="https://img.shields.io/badge/Remote%20Developer-Since%202020-111111?style=for-the-badge&logo=github&logoColor=9745F5" alt="Remote Developer" />
-</p>
+<a href="https://Webkhooneh.com" target="_blank"><img src="https://img.shields.io/badge/Currently%20Building-Webkhooneh-9745F5?style=for-the-badge&logo=rocket&logoColor=white" alt="Webkhooneh" /></a>
+<img src="https://img.shields.io/badge/AI%20Builder-LLM%20%7C%20Automation%20%7C%20Agents-00D9FF?style=for-the-badge&logo=openai&logoColor=white" alt="AI Builder" />
+<img src="https://img.shields.io/badge/Remote%20Developer-Since%202020-111111?style=for-the-badge&logo=github&logoColor=9745F5" alt="Remote Developer" />
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=ArianPashae&label=Profile%20Views&color=9745f5&style=for-the-badge" alt="Profile Views" />
-  <a href="https://gitstalk.netlify.app/ArianPashae/" target="_blank"><img src="https://img.shields.io/badge/Live%20GitHub%20Activity-Open-9745F5?style=for-the-badge&logo=githubactions&logoColor=white" alt="Live Activity" /></a>
-  <img src="https://img.shields.io/badge/Tabs%20Over%20Spaces-Non--Negotiable-000000?style=for-the-badge&logo=visualstudiocode&logoColor=9745F5" alt="Tabs Over Spaces" />
-</p>
+<br />
+<br />
 
+<img src="https://komarev.com/ghpvc/?username=ArianPashae&label=Profile%20Views&color=9745f5&style=for-the-badge" alt="Profile Views" />
+<a href="https://gitstalk.netlify.app/ArianPashae/" target="_blank"><img src="https://img.shields.io/badge/Live%20GitHub%20Activity-Open-9745F5?style=for-the-badge&logo=githubactions&logoColor=white" alt="Live Activity" /></a>
+<img src="https://img.shields.io/badge/Tabs%20Over%20Spaces-Non--Negotiable-000000?style=for-the-badge&logo=visualstudiocode&logoColor=9745F5" alt="Tabs Over Spaces" />
+
+<br />
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="88%" alt="Neon Divider" />
+
+<br />
 <br />
 
 ```txt
-┌──────────────────────────────────────────────────────────────┐
-│  SYSTEM ONLINE: ARIAN PASHAE                                 │
+╭──────────────────────────────────────────────────────────────╮
+│  ARIAN PASHAE / DIGITAL SYSTEM ONLINE                       │
 ├──────────────────────────────────────────────────────────────┤
-│  MODE       : Full-Stack + AI + Automation                   │
-│  MISSION    : Build smart, scalable and unforgettable apps   │
-│  STACK      : Web, Backend, AI, DevOps, Creative Tech        │
-│  STATUS     : Shipping products, learning fast, leveling up  │
-└──────────────────────────────────────────────────────────────┘
+│  ROLE       Full-Stack Developer × AI Product Builder        │
+│  MODE       Web • AI • Automation • Creative Engineering     │
+│  MISSION    Build smart, scalable and unforgettable products │
+│  STATUS     Shipping, learning, optimizing, repeating        │
+╰──────────────────────────────────────────────────────────────╯
 ```
 
 </div>
@@ -54,9 +60,9 @@
 class ArianPashae {
 	identity = "Full-Stack Developer + AI Builder";
 	workingRemoteSince = 2020;
-	currentBase = "Webkhooneh";
+	currentlyBuilding = "Webkhooneh";
 
-	core = [
+	craft = [
 		"Full-stack web platforms",
 		"AI-powered applications",
 		"Automation systems",
@@ -64,27 +70,28 @@ class ArianPashae {
 		"Creative web experiences"
 	];
 
-	aiFocus = [
+	aiLab = [
 		"LLM integration",
 		"AI agents",
 		"Workflow automation",
-		"Intelligent user interfaces",
+		"Intelligent interfaces",
 		"Practical AI for real products"
 	];
 
-	principles = {
+	engineeringStyle = {
 		code: "clean",
-		ui: "beautiful",
+		interface: "sharp",
 		architecture: "scalable",
-		product: "useful",
-		mindset: "ship, learn, improve"
+		performance: "fast",
+		product: "useful"
 	};
 
+	motto = "Build smart. Ship fast. Make it beautiful.";
 	funFact = "Tabs > Spaces ⚡";
 }
 ```
 
-- 🔭 Building **[Webkhooneh](https://Webkhooneh.com)**
+- 🔭 Currently building **[Webkhooneh](https://Webkhooneh.com)**
 - 🧠 Working with **Artificial Intelligence, LLM workflows, automation and smart systems**
 - 🌱 Leveling up in **AI Engineering, DevOps, System Design and scalable architecture**
 - 💬 Ask me about **Full-Stack Development, AI products, APIs, dashboards, CMS, automation and deployment**
@@ -96,7 +103,7 @@ class ArianPashae {
 
 <div align="center">
 
-# 🧬 Digital DNA
+# 🧬 Engineering DNA
 
 </div>
 
@@ -105,7 +112,7 @@ class ArianPashae {
     <td align="center" width="25%">
       <h2>🧠</h2>
       <h3>AI Thinking</h3>
-      <p>Turning AI from hype into practical product features, workflows and systems.</p>
+      <p>Turning AI from hype into practical features, workflows and real product value.</p>
     </td>
     <td align="center" width="25%">
       <h2>⚡</h2>
@@ -228,13 +235,18 @@ class ArianPashae {
 <br />
 
 ### Creative Engineering
-<img src="https://skillicons.dev/icons?i=threejs,unity,unreal,blender,gamemakerstudio,lua,figma,ps,ai,ae,pr,au,autocad&theme=dark" alt="Creative Skills" />
+<img src="https://skillicons.dev/icons?i=threejs,unity,unreal,blender,lua,figma,ps,ai,ae,pr,au,autocad&theme=dark" alt="Creative Skills" />
 
 <br />
 <br />
 
 ### Tools I Like
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,electron,webpack,babel,wordpress,discord,bots,perl&theme=dark" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,electron,webpack,babel,wordpress,discord,perl&theme=dark" alt="Tools" />
+
+<br />
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" width="70%" alt="Divider" />
 
 </div>
 
