@@ -27,8 +27,8 @@
 </p>
 
 <p align="center">
-  <img src="https://hits.sh/github.com/ArianPashaei.svg?style=for-the-badge&label=Profile%20Views&color=9745f5&labelColor=111111" alt="Profile Views" />
-  <a href="https://gitstalk.netlify.app/ArianPashaei/" target="_blank"><img src="https://img.shields.io/badge/Live%20GitHub%20Activity-Open-9745F5?style=for-the-badge&logo=githubactions&logoColor=white" alt="Live Activity" /></a>
+  <img src="https://hits.sh/github.com/ArianPashae.svg?style=for-the-badge&label=Profile%20Views&color=9745f5&labelColor=111111" alt="Profile Views" />
+  <a href="https://gitstalk.netlify.app/ArianPashae/" target="_blank"><img src="https://img.shields.io/badge/Live%20GitHub%20Activity-Open-9745F5?style=for-the-badge&logo=githubactions&logoColor=white" alt="Live Activity" /></a>
   <img src="https://img.shields.io/badge/Tabs%20Over%20Spaces-Non--Negotiable-000000?style=for-the-badge&logo=visualstudiocode&logoColor=9745F5" alt="Tabs Over Spaces" />
 </p>
 
@@ -352,25 +352,25 @@ class ArianPashae {
 <table>
   <tr>
     <td align="center" valign="middle" width="50%">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=ArianPashaei&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github&custom_title=Arian%20GitHub%20Stats" alt="Arian's GitHub Stats" />
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=ArianPashae&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github&custom_title=Arian%20GitHub%20Stats" alt="Arian's GitHub Stats" />
     </td>
     <td align="center" valign="middle" width="50%">
-      <img width="100%" src="https://streak-stats.demolab.com?user=ArianPashaei&theme=midnight-purple&hide_border=true&border_radius=10" alt="GitHub Streak" />
+      <img width="100%" src="https://streak-stats.demolab.com?user=ArianPashae&theme=midnight-purple&hide_border=true&border_radius=10" alt="GitHub Streak" />
     </td>
   </tr>
   <tr>
     <td align="center" valign="middle" width="50%">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArianPashaei&layout=compact&langs_count=10&theme=midnight-purple&hide_border=true&custom_title=Language%20Matrix" alt="Top Languages" />
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArianPashae&layout=compact&langs_count=10&theme=midnight-purple&hide_border=true&custom_title=Language%20Matrix" alt="Top Languages" />
     </td>
     <td align="center" valign="middle" width="50%">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArianPashaei&theme=midnight_purple" alt="Contribution Summary" />
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArianPashae&theme=midnight_purple" alt="Contribution Summary" />
     </td>
   </tr>
 </table>
 
 <br />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArianPashaei&theme=midnight_purple" width="100%" alt="Contribution Signal & Profile Details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArianPashae&theme=midnight_purple" width="100%" alt="Contribution Signal & Profile Details" />
 
 </div>
 
@@ -378,7 +378,7 @@ class ArianPashae {
   <summary><b>🏆 Achievement Wall (Click to Expand)</b></summary>
   <br />
   <div align="center">
-    <img src="https://github-trophies.vercel.app/?username=ArianPashaei&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" alt="GitHub Trophies" />
+    <img src="https://github-trophies.vercel.app/?username=ArianPashae&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" alt="GitHub Trophies" />
   </div>
 </details>
 
