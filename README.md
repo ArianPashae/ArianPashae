@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ==================== HERO HEADER ==================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,30:302B63,60:7F00FF,100:E100FF&height=245&section=header&text=Arian%20Pashae&fontSize=68&fontColor=ffffff&fontAlignY=34&animation=twinkling&desc=Founder%20%40%20Landkhooneh%20Holding%20%E2%80%A2%20Full-Stack%20Architect%20%E2%80%A2%20AI%20Product%20Builder%20%E2%80%A2%20Automation%20Engineer&descSize=16&descAlignY=56" width="100%" alt="Arian Pashae Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,30:302B63,60:7F00FF,100:E100FF&height=245&section=header&text=Arian%20Pashae&fontSize=68&fontColor=ffffff&fontAlignY=34&animation=twinkling&desc=Founder%20%40%20Landkhooneh%20Holding%20%E2%80%A2%20Full-Stack%20Architect%20%E2%80%A2%20AI%20Product%20Builder%20%E2%80%A2%20Cloud%20Innovator&descSize=16&descAlignY=56" width="100%" alt="Arian Pashae Header" />
 
 <a href="https://arianpashae.com" target="_blank">
   <img src="https://arianpashae.com/fb611de45b88433d9f4dd604c90e9a2fc1be1843/2024/02/9bc27292880429.5e569ff84e4d0.gif" width="100%" alt="Arian Pashae Animated Banner" />
@@ -12,7 +12,7 @@
 
 <!-- ==================== TYPING INTRO ==================== -->
 <a href="https://arianpashae.com" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=27&duration=2300&pause=650&color=9745F5&center=true&vCenter=true&width=1000&lines=Architecting+digital+products+that+feel+alive.;Founder+%40+Landkhooneh+Holding+%2F%2F+5+Tech+Ventures;Full-Stack+Engineering+x+Autonomous+AI+Systems;From+pixel-perfect+interfaces+to+resilient+cloud+scale." width="100%" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=27&duration=2300&pause=650&color=9745F5&center=true&vCenter=true&width=1000&lines=Architecting+digital+products+that+feel+alive.;Founder+%40+Landkhooneh+Cloud+%26+Tech+Holding;Full-Stack+Engineering+x+Autonomous+AI+Systems;Web+%E2%80%A2+Cloud+Infra+%E2%80%A2+Telecom+APIs+%E2%80%A2+AI+Automation" width="100%" alt="Typing SVG" />
 </a>
 
 <br />
@@ -21,8 +21,8 @@
 <!-- ==================== PRIMARY COMMAND BAR BADGES ==================== -->
 <p align="center">
   <a href="https://arianpashae.com" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-arianpashae.com-9745F5?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=111111" alt="Portfolio" /></a>
-  <a href="https://arianpashae.com" target="_blank"><img src="https://img.shields.io/badge/HOLDING-Landkhooneh%20Group-E100FF?style=for-the-badge&logo=fireship&logoColor=white&labelColor=111111" alt="Landkhooneh Holding" /></a>
-  <a href="https://webkhooneh.com" target="_blank"><img src="https://img.shields.io/badge/FLAGSHIP-Webkhooneh.com-7F00FF?style=for-the-badge&logo=rocket&logoColor=white&labelColor=111111" alt="Webkhooneh" /></a>
+  <a href="https://landkhooneh.com" target="_blank"><img src="https://img.shields.io/badge/HOLDING-landkhooneh.com-E100FF?style=for-the-badge&logo=fireship&logoColor=white&labelColor=111111" alt="Landkhooneh Holding" /></a>
+  <a href="https://webkhooneh.com" target="_blank"><img src="https://img.shields.io/badge/SOFTWARE%20ARM-webkhooneh.com-7F00FF?style=for-the-badge&logo=rocket&logoColor=white&labelColor=111111" alt="Webkhooneh" /></a>
   <img src="https://img.shields.io/badge/AI%20SYSTEMS-LLM%20%7C%20Agents%20%7C%20RAG-00D9FF?style=for-the-badge&logo=openai&logoColor=black&labelColor=111111" alt="AI Builder" />
 </p>
 
@@ -41,15 +41,15 @@
 <br />
 
 ```txt
-╭──────────────────────────────────────────────────────────────────────────────╮
-│  ARIAN PASHAE  //  CORE SYSTEM ONLINE [v2026.4]                              │
-├──────────────────────────────────────────────────────────────────────────────┤
-│  IDENTITY     Full-Stack Software Architect × AI Product Builder             │
-│  LEADERSHIP   Founder & Chief Architect @ Landkhooneh Holding                │
-│  DIVISIONS    Webkhooneh • Hostkhooneh • SMSkhooneh • Learnkhooneh • Media   │
-│  SPECIALTY    Web Platforms • Autonomous AI • Cloud Infra • Smart Automation │
-│  DIRECTIVE    Engineer high-leverage products that dominate their category   │
-╰──────────────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────────────────╮
+│  ARIAN PASHAE  //  CORE SYSTEM ONLINE [v2026.4]                                │
+├────────────────────────────────────────────────────────────────────────────────┤
+│  IDENTITY     Full-Stack Software Architect × AI Product Builder               │
+│  HOLDING      Founder @ Landkhooneh Cloud Innovation & Tech Holding            │
+│  ECOSYSTEM    WEB khooneh • HOST khooneh • SMS khooneh • LEARN • MEDIA khooneh │
+│  SPECIALTY    Web Platforms • Cloud & NVMe Infra • <3s OTP APIs • AI Systems   │
+│  DIRECTIVE    Engineer high-leverage products that dominate their category     │
+╰────────────────────────────────────────────────────────────────────────────────╯
 ```
 
 </div>
@@ -60,7 +60,7 @@
 <div align="center">
   <img src="https://img.icons8.com/3d-fluency/94/microchip.png" width="58" alt="Architecture Icon" />
   <h1>Full-Stack Architect × AI Product Builder</h1>
-  <p><b>I architect, engineer, and scale high-impact digital products — uniting obsessive UI craft, resilient backend infrastructure, and autonomous AI workflows.</b></p>
+  <p><b>I architect, engineer, and scale high-impact digital ecosystems — uniting enterprise web software, high-speed cloud & telecom infrastructure, and autonomous AI workflows.</b></p>
 </div>
 
 <br />
@@ -72,22 +72,22 @@
 ```ts
 class ArianPashae {
 	readonly role = "Founder & Principal Full-Stack / AI Architect";
-	readonly holding = "Landkhooneh Holding";
+	readonly holding = "Landkhooneh — Cloud Innovation & Tech Development Holding";
 	readonly remoteSince = 2020;
 
-	readonly ecosystem = {
-		webkhooneh:   "Custom Web Engineering, SaaS & Enterprise Portals",
-		hostkhooneh:  "Cloud Hosting, Dedicated Servers & DevOps Infra",
-		smskhooneh:   "High-Throughput Messaging Gateways & OTP APIs",
-		learnkhooneh: "Tech Academy, Bootcamps & Developer Mentorship",
-		mediakhooneh: "Digital Media Production, Motion & Brand Studio"
+	readonly landkhoonehEcosystem = {
+		WEB_khooneh:   "Enterprise & E-Commerce Web Engineering, UI/UX & Technical SEO",
+		HOST_khooneh:  "NVMe Gen4 Cloud Hosting, LiteSpeed Servers & Managed Security",
+		SMS_khooneh:   "Smart SMS Gateway, <3s OTP APIs & Whitelisted Service Lines",
+		LEARN_khooneh: "Project-Driven IT Academy, Bootcamps & Career Mentorship",
+		MEDIA_khooneh: "Creative Studio, Video/Motion Production & Growth Campaigns"
 	};
 
 	readonly aiEngineering = [
 		"Multi-agent LLM orchestration & RAG knowledge systems",
-		"Function-calling copilots embedded into real business logic",
-		"Autonomous background workers & operational bots",
-		"Real-time executive telemetry & decision dashboards"
+		"Function-calling copilots embedded into core business logic",
+		"Autonomous background workers, bots & workflow pipelines",
+		"Real-time executive telemetry & decision control panels"
 	];
 
 	readonly philosophy = {
@@ -106,10 +106,10 @@ class ArianPashae {
       </a>
       <br />
       <br />
-      <a href="https://arianpashae.com" target="_blank"><img src="https://img.shields.io/badge/OFFICIAL%20PORTFOLIO-arianpashae.com-9745F5?style=for-the-badge&logo=safari&logoColor=white&labelColor=111111" alt="Website" /></a>
+      <a href="https://arianpashae.com" target="_blank"><img src="https://img.shields.io/badge/PERSONAL%20PORTFOLIO-arianpashae.com-9745F5?style=for-the-badge&logo=safari&logoColor=white&labelColor=111111" alt="Website" /></a>
       <br />
       <br />
-      <a href="mailto:info@arianpashae.com"><img src="https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20SELECT%20PROJECTS-00D9FF?style=flat-square&logo=sparkpost&logoColor=black&labelColor=111111" alt="Available" /></a>
+      <a href="https://landkhooneh.com" target="_blank"><img src="https://img.shields.io/badge/HOLDING%20ECOSYSTEM-landkhooneh.com-00D9FF?style=flat-square&logo=fireship&logoColor=black&labelColor=111111" alt="Landkhooneh" /></a>
     </td>
   </tr>
 </table>
@@ -121,7 +121,7 @@ class ArianPashae {
       <img src="https://img.icons8.com/nolan/96/rocket.png" width="38" alt="Ecosystem" />
     </td>
     <td valign="middle" width="92%">
-      <b>Ecosystem Leadership:</b> Founder of <a href="https://arianpashae.com" target="_blank"><b>Landkhooneh Holding</b></a> — spearheading product strategy and engineering across <b>Webkhooneh, Hostkhooneh, SMSkhooneh, Learnkhooneh, and Mediakhooneh</b>.
+      <b>Holding Leadership:</b> Founder of <a href="https://landkhooneh.com" target="_blank"><b>Landkhooneh Cloud Innovation & Tech Holding</b></a> — leading strategy and architecture across <b>WEB khooneh, HOST khooneh, SMS khooneh, LEARN khooneh, and MEDIA khooneh</b>.
     </td>
   </tr>
   <tr>
@@ -129,7 +129,7 @@ class ArianPashae {
       <img src="https://img.icons8.com/nolan/96/artificial-intelligence.png" width="38" alt="AI Engineering" />
     </td>
     <td valign="middle" width="92%">
-      <b>Production AI Systems:</b> Designing and deploying <b>LLM-powered platforms, autonomous AI agents, RAG pipelines, and workflow automation engines</b> that solve real operational bottlenecks.
+      <b>Production AI Systems:</b> Designing and deploying <b>LLM-powered platforms, autonomous AI agents, RAG pipelines, and workflow automation engines</b> that eliminate operational bottlenecks.
     </td>
   </tr>
   <tr>
@@ -137,7 +137,7 @@ class ArianPashae {
       <img src="https://img.icons8.com/nolan/96/layers.png" width="38" alt="Architecture" />
     </td>
     <td valign="middle" width="92%">
-      <b>Full-Lifecycle Architecture:</b> End-to-end ownership from <b>system design, database modeling, and high-throughput APIs</b> to <b>interactive 3D/modern frontends and zero-downtime cloud deployments</b>.
+      <b>360° Technical Ownership:</b> From <b>NVMe Gen4 cloud servers and sub-3-second OTP gateways</b> to <b>bespoke enterprise web software, technical SEO, and interactive UI/UX</b>.
     </td>
   </tr>
   <tr>
@@ -145,7 +145,7 @@ class ArianPashae {
       <img src="https://img.icons8.com/nolan/96/chat.png" width="38" alt="Consultation" />
     </td>
     <td valign="middle" width="92%">
-      <b>Core Advisory & Engineering:</b> Ask me about <b>Full-Stack SaaS Architecture, AI Integration, Custom ERP/CRM/CMS Platforms, DevOps Pipelines, and Scalable Infrastructure</b>.
+      <b>Advisory & Engineering:</b> Ask me about <b>Full-Stack SaaS Architecture, AI Integration, Custom E-Commerce/Enterprise Portals, High-Availability Hosting, and Telecom APIs</b>.
     </td>
   </tr>
   <tr>
@@ -153,7 +153,7 @@ class ArianPashae {
       <img src="https://img.icons8.com/nolan/96/target.png" width="38" alt="Standard" />
     </td>
     <td valign="middle" width="92%">
-      <b>Engineering Signature:</b> I build digital products that are <b>blisteringly fast, architecturally clean, commercially effective, and visually unforgettable</b>.
+      <b>Engineering Signature:</b> Every platform I ship is engineered to be <b>blisteringly fast, architecturally resilient, commercially effective, and visually unforgettable</b>.
     </td>
   </tr>
 </table>
@@ -163,8 +163,8 @@ class ArianPashae {
 <!-- ==================== LANDKHOONEH HOLDING & 5 SUBSIDIARIES ==================== -->
 <div align="center">
   <img src="https://img.icons8.com/3d-fluency/94/company.png" width="58" alt="Landkhooneh Holding" />
-  <h1>Landkhooneh Holding & Venture Ecosystem</h1>
-  <p><b>A multi-disciplinary technology holding group uniting software engineering, cloud infrastructure, telecom APIs, tech education, and digital media under one roof.</b></p>
+  <h1>Landkhooneh — Cloud Innovation & Technology Holding</h1>
+  <p><b>An integrated cloud innovation, software engineering, and digital growth ecosystem powering businesses through five specialized technology divisions.</b></p>
 
   <p align="center">
     <img src="https://img.shields.io/badge/150%2B-Custom%20Web%20Platforms-9745F5?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111111" alt="150+ Custom Websites" />
@@ -181,45 +181,45 @@ class ArianPashae {
   <tr>
     <td colspan="5" align="center" valign="middle">
       <img src="https://img.icons8.com/3d-fluency/94/briefcase.png" width="46" alt="Landkhooneh Holding" />
-      <h2><a href="https://arianpashae.com" target="_blank">Landkhooneh Holding</a> — Parent Technology Group</h2>
-      <p>Founded and architected by <b>Arian Pashae</b> to deliver an integrated 360° digital ecosystem — from code and cloud servers to messaging gateways, developer education, and visual media.</p>
+      <h2><a href="https://landkhooneh.com" target="_blank">Landkhooneh Holding</a> — Cloud Innovation & Tech Ecosystem</h2>
+      <p>As the parent technology holding group (<a href="https://landkhooneh.com" target="_blank"><b>landkhooneh.com</b></a>), Landkhooneh unites <b>custom software engineering, NVMe cloud infrastructure, high-speed telecom gateways, project-based IT education, and creative growth marketing</b> into one cohesive digital powerhouse.</p>
       <p>
-        <a href="https://arianpashae.com" target="_blank"><img src="https://img.shields.io/badge/HOLDING%20HQ-arianpashae.com-9745F5?style=flat-square&logo=fireship&logoColor=white&labelColor=111111" alt="Landkhooneh HQ" /></a>
-        <img src="https://img.shields.io/badge/SUBSIDIARIES-5%20ACTIVE%20DIVISIONS-00D9FF?style=flat-square&labelColor=111111" alt="5 Divisions" />
-        <img src="https://img.shields.io/badge/ROLE-FOUNDER%20%26%20CHIEF%20ARCHITECT-E100FF?style=flat-square&labelColor=111111" alt="Founder" />
+        <a href="https://landkhooneh.com" target="_blank"><img src="https://img.shields.io/badge/OFFICIAL%20HOLDING-landkhooneh.com-9745F5?style=flat-square&logo=fireship&logoColor=white&labelColor=111111" alt="Landkhooneh HQ" /></a>
+        <img src="https://img.shields.io/badge/ECOSYSTEM-5%20SPECIALIZED%20BRANDS-00D9FF?style=flat-square&labelColor=111111" alt="5 Divisions" />
+        <img src="https://img.shields.io/badge/LEADERSHIP-FOUNDER%20%26%20ARCHITECT-E100FF?style=flat-square&labelColor=111111" alt="Founder" />
       </p>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="20%">
-      <img src="https://img.icons8.com/3d-fluency/94/rocket.png" width="48" alt="Webkhooneh" />
-      <h3><a href="https://webkhooneh.com" target="_blank">Webkhooneh</a></h3>
-      <p>Flagship software studio engineering custom web platforms, SaaS products, enterprise portals, and full-stack applications.</p>
-      <a href="https://webkhooneh.com" target="_blank"><img src="https://img.shields.io/badge/WEB%20%26%20SAAS-9745F5?style=flat-square&labelColor=111111" alt="Webkhooneh" /></a>
+      <img src="https://img.icons8.com/3d-fluency/94/rocket.png" width="48" alt="WEB khooneh" />
+      <h3><a href="https://webkhooneh.com" target="_blank">WEB khooneh</a></h3>
+      <p><b>Software & Web Engineering Arm:</b> Custom corporate & e-commerce platforms, bespoke UI/UX design systems, full-stack web apps, and deep technical SEO architecture.</p>
+      <a href="https://webkhooneh.com" target="_blank"><img src="https://img.shields.io/badge/WEB%20%26%20UI%2FUX%20%26%20SEO-9745F5?style=flat-square&labelColor=111111" alt="Webkhooneh" /></a>
     </td>
     <td align="center" valign="top" width="20%">
-      <img src="https://img.icons8.com/3d-fluency/94/server.png" width="48" alt="Hostkhooneh" />
-      <h3>Hostkhooneh</h3>
-      <p>Cloud hosting and infrastructure division providing high-availability servers, NVMe hosting, domain routing, and DevOps care.</p>
-      <img src="https://img.shields.io/badge/CLOUD%20%26%20INFRA-00D9FF?style=flat-square&labelColor=111111" alt="Hostkhooneh" />
+      <img src="https://img.icons8.com/3d-fluency/94/server.png" width="48" alt="HOST khooneh" />
+      <h3>HOST khooneh</h3>
+      <p><b>Cloud & Hosting Infrastructure:</b> High-availability cloud hosting and dedicated servers powered by ultra-fast <b>NVMe Gen4</b> arrays, <b>LiteSpeed</b> web servers, and managed security.</p>
+      <img src="https://img.shields.io/badge/NVMe%20Gen4%20%26%20LiteSpeed-00D9FF?style=flat-square&labelColor=111111" alt="Hostkhooneh" />
     </td>
     <td align="center" valign="top" width="20%">
-      <img src="https://img.icons8.com/3d-fluency/94/paper-plane.png" width="48" alt="SMSkhooneh" />
-      <h3>SMSkhooneh</h3>
-      <p>Enterprise communication platform delivering high-throughput SMS gateways, OTP verification APIs, and automated alerts.</p>
-      <img src="https://img.shields.io/badge/MESSAGING%20API-7F00FF?style=flat-square&labelColor=111111" alt="SMSkhooneh" />
+      <img src="https://img.icons8.com/3d-fluency/94/paper-plane.png" width="48" alt="SMS khooneh" />
+      <h3>SMS khooneh</h3>
+      <p><b>Intelligent Messaging Gateway:</b> High-throughput SMS infrastructure featuring <b>sub-3-second OTP verification APIs</b>, blacklist-bypassing service lines, and bulk campaigns.</p>
+      <img src="https://img.shields.io/badge/%3C3s%20OTP%20%26%20SMS%20API-7F00FF?style=flat-square&labelColor=111111" alt="SMSkhooneh" />
     </td>
     <td align="center" valign="top" width="20%">
-      <img src="https://img.icons8.com/3d-fluency/94/graduation-cap.png" width="48" alt="Learnkhooneh" />
-      <h3>Learnkhooneh</h3>
-      <p>Specialized technology academy hosting 50+ practical bootcamps, coding workshops, and career-ready engineering tracks.</p>
-      <img src="https://img.shields.io/badge/TECH%20ACADEMY-E100FF?style=flat-square&labelColor=111111" alt="Learnkhooneh" />
+      <img src="https://img.icons8.com/3d-fluency/94/graduation-cap.png" width="48" alt="LEARN khooneh" />
+      <h3>LEARN khooneh</h3>
+      <p><b>Project-Based Tech Academy:</b> Specialized IT training center focused on hands-on, project-driven bootcamps and direct mentorship to launch job-ready engineers.</p>
+      <img src="https://img.shields.io/badge/IT%20ACADEMY%20%26%20MENTORSHIP-E100FF?style=flat-square&labelColor=111111" alt="Learnkhooneh" />
     </td>
     <td align="center" valign="top" width="20%">
-      <img src="https://img.icons8.com/3d-fluency/94/clapperboard.png" width="48" alt="Mediakhooneh" />
-      <h3>Mediakhooneh</h3>
-      <p>Creative production house crafting visual brand identities, motion graphics, product promos, and high-converting digital media.</p>
-      <img src="https://img.shields.io/badge/MEDIA%20STUDIO-302B63?style=flat-square&labelColor=111111" alt="Mediakhooneh" />
+      <img src="https://img.icons8.com/3d-fluency/94/clapperboard.png" width="48" alt="MEDIA khooneh" />
+      <h3>MEDIA khooneh</h3>
+      <p><b>Creative & Growth Studio:</b> Video production, motion graphics, dedicated Instagram management, content SEO, ad campaigns, and influencer marketing.</p>
+      <img src="https://img.shields.io/badge/MOTION%20%26%20GROWTH%20MEDIA-302B63?style=flat-square&labelColor=111111" alt="Mediakhooneh" />
     </td>
   </tr>
 </table>
@@ -349,14 +349,14 @@ class ArianPashae {
       <br />
       <img src="https://img.shields.io/badge/PHASE-04-E100FF?style=flat-square&labelColor=111111" alt="04" />
       <h3>Deploy</h3>
-      <p>Ship via automated CI/CD, edge caching, container orchestration, and real-time monitoring.</p>
+      <p>Ship via automated CI/CD, NVMe/LiteSpeed cloud clusters, edge caching, and live monitoring.</p>
     </td>
     <td align="center" valign="top" width="20%">
       <img src="https://img.icons8.com/nolan/96/combo-chart.png" width="44" alt="Scale" />
       <br />
       <img src="https://img.shields.io/badge/PHASE-05-302B63?style=flat-square&labelColor=111111" alt="05" />
       <h3>Scale</h3>
-      <p>Optimize performance, expand AI capabilities, and iterate on live user telemetry.</p>
+      <p>Optimize performance, expand AI capabilities, and accelerate growth via data telemetry.</p>
     </td>
   </tr>
 </table>
@@ -438,7 +438,7 @@ class ArianPashae {
   <tr>
     <td align="center" valign="top" width="50%">
       <h3><img src="https://img.icons8.com/nolan/96/cloud.png" width="30" align="absmiddle" alt="DevOps" /> Cloud Infrastructure, DevOps & Security</h3>
-      <p>Containerized deployments, Linux server administration, automated CI/CD pipelines, Cloudflare edge protection, and IaC.</p>
+      <p>Containerized deployments, NVMe/LiteSpeed Linux server management, automated CI/CD pipelines, Cloudflare WAF, and IaC.</p>
       <p align="center">
         <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,ubuntu,bash,powershell,aws,gcp,azure,cloudflare,vercel,netlify,githubactions,gitlab,jenkins,terraform&theme=dark&perline=8" alt="DevOps Stack" />
       </p>
@@ -491,13 +491,13 @@ class ArianPashae {
     </td>
     <td valign="top" width="33%">
       <img src="https://img.icons8.com/3d-fluency/94/company.png" width="46" alt="Business Platforms" />
-      <h3>Enterprise & SaaS Portals</h3>
-      <p>Bespoke CRM/ERP systems, multi-tenant admin dashboards, custom CMS platforms, financial/booking engines, and internal operations portals.</p>
+      <h3>Enterprise & E-Commerce Portals</h3>
+      <p>High-conversion online stores, bespoke CRM/ERP systems, multi-tenant admin dashboards, custom CMS platforms, and technical SEO architectures.</p>
     </td>
     <td valign="top" width="33%">
       <img src="https://img.icons8.com/3d-fluency/94/api-settings.png" width="46" alt="API Systems" />
-      <h3>High-Throughput APIs</h3>
-      <p>Scalable REST & GraphQL backends, payment/SMS/telecom gateways, webhook orchestrators, SSO auth flows, and tuned database clusters.</p>
+      <h3>High-Throughput APIs & Gateways</h3>
+      <p>Scalable REST & GraphQL backends, sub-3-second OTP/SMS telecom gateways, payment integrations, SSO auth flows, and tuned database clusters.</p>
     </td>
   </tr>
   <tr>
@@ -508,13 +508,13 @@ class ArianPashae {
     </td>
     <td valign="top" width="33%">
       <img src="https://img.icons8.com/3d-fluency/94/design.png" width="46" alt="Interactive Web" />
-      <h3>Interactive Web & 3D</h3>
-      <p>Flagship brand websites, high-converting landing pages, fluid motion UI, WebGL/Three.js 3D experiences, and custom design systems.</p>
+      <h3>Interactive Web, 3D & Media</h3>
+      <p>Flagship brand websites, high-converting landing pages, fluid motion UI, WebGL/Three.js 3D experiences, and growth media campaigns.</p>
     </td>
     <td valign="top" width="33%">
       <img src="https://img.icons8.com/3d-fluency/94/server.png" width="46" alt="Production Systems" />
-      <h3>Cloud & DevOps Systems</h3>
-      <p>Dockerized microservice deployments, Nginx reverse proxies, Cloudflare WAF hardening, automated CI/CD pipelines, and server optimization.</p>
+      <h3>Cloud & Managed Infrastructure</h3>
+      <p>NVMe Gen4 & LiteSpeed server setups, Dockerized microservices, Nginx reverse proxies, Cloudflare WAF hardening, and CI/CD pipelines.</p>
     </td>
   </tr>
 </table>
@@ -589,11 +589,12 @@ class ArianPashae {
 
   <p align="center">
     <a href="https://arianpashae.com" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-arianpashae.com-9745F5?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=111111" alt="Website" /></a>
+    <a href="https://landkhooneh.com" target="_blank"><img src="https://img.shields.io/badge/HOLDING-landkhooneh.com-E100FF?style=for-the-badge&logo=fireship&logoColor=white&labelColor=111111" alt="Landkhooneh" /></a>
     <a href="https://webkhooneh.com" target="_blank"><img src="https://img.shields.io/badge/WEBKHOONEH-webkhooneh.com-7F00FF?style=for-the-badge&logo=rocket&logoColor=white&labelColor=111111" alt="Webkhooneh" /></a>
     <a href="https://www.linkedin.com/in/arian-pashae/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-Arian%20Pashae-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111" alt="LinkedIn" /></a>
-    <a href="https://t.me/ArianPashae" target="_blank"><img src="https://img.shields.io/badge/TELEGRAM-@ArianPashae-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=111111" alt="Telegram" /></a>
   </p>
   <p align="center">
+    <a href="https://t.me/ArianPashae" target="_blank"><img src="https://img.shields.io/badge/TELEGRAM-@ArianPashae-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=111111" alt="Telegram" /></a>
     <a href="https://instagram.com/arianpashae" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-@arianpashae-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=111111" alt="Instagram" /></a>
     <a href="https://discordapp.com/users/941442983084040222" target="_blank"><img src="https://img.shields.io/badge/DISCORD-Arian%20Pashae-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=111111" alt="Discord" /></a>
     <a href="https://wa.link/8x8t9x" target="_blank"><img src="https://img.shields.io/badge/WHATSAPP-Direct%20Line-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=111111" alt="WhatsApp" /></a>
@@ -602,7 +603,7 @@ class ArianPashae {
 
   <br />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=20&duration=2800&pause=900&color=9745F5&center=true&vCenter=true&width=900&lines=Build+smart.+Ship+fast.+Make+it+beautiful.;Code+is+the+engine.+AI+is+the+accelerator.;Landkhooneh+Holding+%2F%2F+Arian+Pashae" width="100%" alt="Footer Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=20&duration=2800&pause=900&color=9745F5&center=true&vCenter=true&width=900&lines=Build+smart.+Ship+fast.+Make+it+beautiful.;Code+is+the+engine.+AI+is+the+accelerator.;Landkhooneh+Cloud+%26+Tech+Holding+%2F%2F+Arian+Pashae" width="100%" alt="Footer Typing" />
 
   <br />
   <br />
