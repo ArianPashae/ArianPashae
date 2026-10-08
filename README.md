@@ -64,10 +64,6 @@
 
 <br />
 
-<table>
-  <tr>
-    <td valign="middle" width="62%">
-
 ```ts
 class ArianPashae {
 	readonly role = "Founder & Principal Full-Stack / AI Architect";
@@ -98,18 +94,15 @@ class ArianPashae {
 }
 ```
 
-</td>
-<td valign="middle" align="center" width="38%">
-  <a href="https://arianpashae.com" target="_blank"><img src="https://arianpashae.com/fb611de45b88433d9f4dd604c90e9a2fc1be1843/2024/07/modern-3d-office-illustration_7023-470747-removebg.webp" width="100%" alt="Arian 3D Workspace" /></a>
-  <br />
-  <br />
-  <a href="https://arianpashae.com" target="_blank"><img src="https://img.shields.io/badge/PERSONAL%20PORTFOLIO-arianpashae.com-9745F5?style=for-the-badge&logo=safari&logoColor=white&labelColor=111111" alt="Website" /></a>
-  <br />
-  <br />
-  <a href="https://landkhooneh.com" target="_blank"><img src="https://img.shields.io/badge/HOLDING%20ECOSYSTEM-landkhooneh.com-00D9FF?style=flat-square&logo=fireship&logoColor=black&labelColor=111111" alt="Landkhooneh" /></a>
-</td>
-</tr>
-</table>
+<div align="center">
+  <a href="https://arianpashae.com">
+    <img src="https://img.shields.io/badge/PERSONAL%20PORTFOLIO-arianpashae.com-9745F5?style=for-the-badge&logo=safari&logoColor=white&labelColor=111111" alt="Personal Portfolio" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://landkhooneh.com">
+    <img src="https://img.shields.io/badge/HOLDING%20ECOSYSTEM-landkhooneh.com-00D9FF?style=for-the-badge&logo=fireship&logoColor=00D9FF&labelColor=111111" alt="Landkhooneh Holding" />
+  </a>
+</div>
 
 <!-- ==================== TELEMETRY HIGHLIGHTS ==================== -->
 <table>
@@ -606,3 +599,4 @@ class ArianPashae {
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E100FF,35:7F00FF,65:302B63,100:020024&height=160&section=footer" width="100%" alt="Footer" />
 </div>
+
