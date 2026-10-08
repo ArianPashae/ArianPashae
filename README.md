@@ -560,8 +560,8 @@ class ArianPashae {
 <!-- ==================== UPSTREAM OPEN-SOURCE CONTRIBUTIONS ==================== -->
 <div align="center">
   <img src="https://img.icons8.com/3d-fluency/94/source-code.png" width="58" alt="Open-Source Contributions" />
-  <h1>Upstream Open-Source Contributions</h1>
-  <p><b>Official contributor & upstream engineer across global developer CLI tools, high-scale proxy networks, and AI frameworks.</b></p>
+  <h1>Verified Upstream Contributions</h1>
+  <p><b>Official contributor & upstream engineer with merged production pull requests in global software ecosystems.</b></p>
 </div>
 
 <br />
@@ -579,34 +579,12 @@ class ArianPashae {
       </p>
     </td>
     <td valign="top" width="50%">
-      <img src="https://img.icons8.com/3d-fluency/94/cloud-connection.png" width="46" align="left" alt="v2rayA" />
-      <h3>&nbsp;<a href="https://github.com/v2rayA/v2rayA" target="_blank">v2rayA — Web GUI for V2Ray & Xray</a></h3>
-      <p>Root-caused and resolved SQLite foreign key cascade error <code>787</code> in bulk server deletion (Issue <a href="https://github.com/v2rayA/v2rayA/issues/2065" target="_blank">#2065</a>). Cleaned legacy table references post schema migration to prevent database constraint locks.</p>
+      <img src="https://img.icons8.com/3d-fluency/94/treasure-chest.png" width="46" align="left" alt="Ganjineh Street" />
+      <h3>&nbsp;<a href="https://github.com/salehghari/ganjineh-street" target="_blank">Ganjineh Street — Web Platform</a></h3>
+      <p>Official collaborator & core maintainer for the gamified treasure-hunt platform (<a href="https://ganjinehstreet.ir" target="_blank"><b>ganjinehstreet.ir</b></a>). Fixed Next.js 15 client dynamic routing bugs, optimized TypeScript props interfaces, and improved hydration stability.</p>
       <p>
-        <a href="https://github.com/v2rayA/v2rayA/pull/2080" target="_blank"><img src="https://img.shields.io/badge/PR%20%232080-OPEN-9745F5?style=flat-square&logo=github&labelColor=111111" alt="PR #2080" /></a>
-        <img src="https://img.shields.io/badge/STARS-15.6k%2B-FFB800?style=flat-square&logo=github&labelColor=111111" alt="Stars" />
-        <img src="https://img.shields.io/badge/STACK-Go%20%E2%80%A2%20SQLite%20%E2%80%A2%20Networking-00D9FF?style=flat-square&labelColor=111111" alt="Stack" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <img src="https://img.icons8.com/3d-fluency/94/radar.png" width="46" align="left" alt="SenPaiScanner" />
-      <h3>&nbsp;<a href="https://github.com/MatinSenPai/SenPaiScanner" target="_blank">SenPaiScanner — Cloudflare IP Scanner</a></h3>
-      <p>Patched <code>uint32</code> overflow in target range parsing, eliminated 8MB allocations via uniform rejection sampling, fixed IPv6 endpoint truncation in exports, and enforced RFC 3986 bracketed URL generation.</p>
-      <p>
-        <a href="https://github.com/MatinSenPai/SenPaiScanner/pull/142" target="_blank"><img src="https://img.shields.io/badge/PR%20%23142-OPEN-9745F5?style=flat-square&logo=github&labelColor=111111" alt="PR #142" /></a>
-        <img src="https://img.shields.io/badge/STARS-2.4k%2B-FFB800?style=flat-square&logo=github&labelColor=111111" alt="Stars" />
-        <img src="https://img.shields.io/badge/STACK-Go%20%E2%80%A2%20Wails%20%E2%80%A2%20Xray-E100FF?style=flat-square&labelColor=111111" alt="Stack" />
-      </p>
-    </td>
-    <td valign="top" width="50%">
-      <img src="https://img.icons8.com/3d-fluency/94/globe.png" width="46" align="left" alt="Open Source Ecosystem" />
-      <h3>&nbsp;Networking & AI Frameworks Ecosystem</h3>
-      <p>Active upstream patches, security enhancements, and feature contributions across <a href="https://github.com/patterniha/Xray-core" target="_blank"><b>Xray-core (PR #6)</b></a>, <a href="https://github.com/patterniha/PattNG" target="_blank"><b>PattNG (PR #36)</b></a>, <a href="https://github.com/patterniha/Serverless-for-Iran" target="_blank"><b>Serverless-for-Iran (PR #30)</b></a>, <a href="https://github.com/salehghari/ganjineh-street" target="_blank"><b>Ganjineh-Street (PR #2)</b></a>, and <a href="https://github.com/storytold/photocraft" target="_blank"><b>Photocraft</b></a>.</p>
-      <p>
-        <img src="https://img.shields.io/badge/LANGUAGES-Go%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Rust%20%E2%80%A2%20Kotlin-7F00FF?style=flat-square&labelColor=111111" alt="Languages" />
-        <img src="https://img.shields.io/badge/SCOPE-Networking%20%26%20Security-00D9FF?style=flat-square&labelColor=111111" alt="Scope" />
+        <a href="https://github.com/salehghari/ganjineh-street" target="_blank"><img src="https://img.shields.io/badge/ROLE-Collaborator-00D9FF?style=flat-square&logo=git&labelColor=111111" alt="Collaborator" /></a>
+        <img src="https://img.shields.io/badge/STACK-Next.js%2015%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Redux-9745F5?style=flat-square&labelColor=111111" alt="Stack" />
       </p>
     </td>
   </tr>
