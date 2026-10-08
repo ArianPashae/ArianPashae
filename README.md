@@ -511,6 +511,60 @@ class ArianPashae {
 
 ---
 
+<!-- ==================== FEATURED PROJECTS & OPEN-SOURCE ENGINEERING ==================== -->
+<div align="center">
+  <img src="https://img.icons8.com/3d-fluency/94/code-fork.png" width="58" alt="Featured Projects" />
+  <h1>Featured Repositories & Open-Source Engineering</h1>
+  <p><b>Production web platforms, developer tools, and upstream open-source contributions across AI, networking, and full-stack ecosystems.</b></p>
+</div>
+
+<br />
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://img.icons8.com/3d-fluency/94/treasure-chest.png" width="46" align="left" alt="Ganjineh Street" />
+      <h3>&nbsp;<a href="https://github.com/ArianPashae/ganjineh-street" target="_blank">Ganjineh Street — Gamified Treasure-Hunt Platform</a></h3>
+      <p>Interactive location-based puzzle & treasure-hunt web platform (<a href="https://ganjinehstreet.ir" target="_blank"><b>ganjinehstreet.ir</b></a>) featuring multi-stage missions, real-time hint countdowns, geolocation clues, RTL Material UI + Tailwind interfaces, Redux Toolkit state management, and GSAP scroll animations.</p>
+      <p>
+        <a href="https://github.com/ArianPashae/ganjineh-street" target="_blank"><img src="https://img.shields.io/badge/REPO-ArianPashae%2Fganjineh--street-9745F5?style=flat-square&logo=github&labelColor=111111" alt="Repo" /></a>
+        <a href="https://github.com/salehghari/ganjineh-street" target="_blank"><img src="https://img.shields.io/badge/UPSTREAM-Collaborator-00D9FF?style=flat-square&logo=git&labelColor=111111" alt="Upstream" /></a>
+        <img src="https://img.shields.io/badge/STACK-Next.js%2015%20%E2%80%A2%20TS%20%E2%80%A2%20Redux%20%E2%80%A2%20GSAP-E100FF?style=flat-square&labelColor=111111" alt="Stack" />
+      </p>
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://img.icons8.com/3d-fluency/94/paint-palette.png" width="46" align="left" alt="Discord Theme" />
+      <h3>&nbsp;<a href="https://github.com/ArianPashae/ArianPashae-Discord-Theme" target="_blank">Obsidian & Cyber-Violet Discord Theme</a></h3>
+      <p>Sleek, dark-mode glassmorphic theme engineered for <b>Vencord, BetterDiscord, and Vesktop</b> — built with modular CSS variables, neon cyber-violet accents, smooth micro-transitions, and customizable backdrop layers.</p>
+      <p>
+        <a href="https://github.com/ArianPashae/ArianPashae-Discord-Theme" target="_blank"><img src="https://img.shields.io/badge/REPO-ArianPashae--Discord--Theme-9745F5?style=flat-square&logo=github&labelColor=111111" alt="Discord Theme" /></a>
+        <img src="https://img.shields.io/badge/CLIENTS-Vencord%20%E2%80%A2%20BetterDiscord%20%E2%80%A2%20Vesktop-7F00FF?style=flat-square&labelColor=111111" alt="Clients" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://img.icons8.com/3d-fluency/94/telegram-app.png" width="46" align="left" alt="AzadWeekBot" />
+      <h3>&nbsp;<a href="https://github.com/ArianPashae/AzadWeekBot" target="_blank">AzadWeekBot — Academic Schedule Automation</a></h3>
+      <p>Lightweight Telegram bot that tracks university semester timelines and automatically resolves even/odd academic weeks with instant webhook responses and Jalaali calendar calculations.</p>
+      <p>
+        <a href="https://github.com/ArianPashae/AzadWeekBot" target="_blank"><img src="https://img.shields.io/badge/REPO-AzadWeekBot-00D9FF?style=flat-square&logo=github&labelColor=111111" alt="AzadWeekBot" /></a>
+        <img src="https://img.shields.io/badge/STACK-PHP%20%E2%80%A2%20Telegram%20Bot%20API-302B63?style=flat-square&labelColor=111111" alt="Stack" />
+      </p>
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://img.icons8.com/3d-fluency/94/globe.png" width="46" align="left" alt="Open Source" />
+      <h3>&nbsp;Open-Source Ecosystem Contributions</h3>
+      <p>Active contributor across networking cores, AI agent frameworks, and developer tooling — including <a href="https://github.com/patterniha/Xray-core" target="_blank"><b>Xray-core (Go)</b></a>, <a href="https://github.com/patterniha/PattNG" target="_blank"><b>PattNG (Kotlin)</b></a>, <a href="https://github.com/storytold/photocraft" target="_blank"><b>Photocraft (Rust)</b></a>, <a href="https://github.com/morluto/rea" target="_blank"><b>REA</b></a>, <a href="https://github.com/Jakubantalik/thinking-orbs" target="_blank"><b>Thinking Orbs</b></a>, and <a href="https://github.com/WhattheAj/Taskflow" target="_blank"><b>Taskflow</b></a>.</p>
+      <p>
+        <img src="https://img.shields.io/badge/LANGUAGES-TS%20%E2%80%A2%20Go%20%E2%80%A2%20Rust%20%E2%80%A2%20Python%20%E2%80%A2%20Kotlin%20%E2%80%A2%20Dart-E100FF?style=flat-square&labelColor=111111" alt="Languages" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 <!-- ==================== GITHUB COMMAND CENTER ==================== -->
 <div align="center">
   <img src="https://img.icons8.com/3d-fluency/94/combo-chart.png" width="58" alt="Analytics" />
