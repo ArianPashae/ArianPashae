@@ -27,8 +27,8 @@
 </p>
 
 <p align="center">
-  <img src="https://hits.sh/github.com/ArianPashaei.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=9745f5&labelColor=111111" alt="Profile Views" />
-  <a href="https://gitstalk.netlify.app/ArianPashaei/" target="_blank"><img src="https://img.shields.io/badge/GITHUB%20RADAR-LIVE%20STREAM-00D9FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=111111" alt="Live Activity" /></a>
+  <img src="https://hits.sh/github.com/ArianPashae.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=9745f5&labelColor=111111" alt="Profile Views" />
+  <a href="https://gitstalk.netlify.app/ArianPashae/" target="_blank"><img src="https://img.shields.io/badge/GITHUB%20RADAR-LIVE%20STREAM-00D9FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=111111" alt="Live Activity" /></a>
   <img src="https://img.shields.io/badge/REMOTE%20ARCHITECT-SINCE%202020-302B63?style=for-the-badge&logo=github&logoColor=9745F5&labelColor=111111" alt="Remote Developer" />
   <img src="https://img.shields.io/badge/TABS%20%3E%20SPACES-NON--NEGOTIABLE-9745F5?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=111111" alt="Tabs Over Spaces" />
 </p>
@@ -41,15 +41,15 @@
 <br />
 
 ```txt
-╭────────────────────────────────────────────────────────────────────────────────╮
-│  ARIAN PASHAE  //  CORE SYSTEM ONLINE [v2026.4]                                │
-├────────────────────────────────────────────────────────────────────────────────┤
-│  IDENTITY     Full-Stack Software Architect × AI Product Builder               │
-│  HOLDING      Founder @ Landkhooneh Cloud Innovation & Tech Holding            │
-│  ECOSYSTEM    WEB khooneh • HOST khooneh • SMS khooneh • LEARN • MEDIA khooneh │
-│  SPECIALTY    Web Platforms • Cloud & NVMe Infra • <3s OTP APIs • AI Systems   │
-│  DIRECTIVE    Engineer high-leverage products that dominate their category     │
-╰────────────────────────────────────────────────────────────────────────────────╯
+â•”â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•—
+â•‘  ARIAN PASHAE  //  CORE SYSTEM ONLINE [v2026.4]                              â•‘
+â• â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•£
+â•‘  IDENTITY     Full-Stack Software Architect x AI Product Builder             â•‘
+â•‘  HOLDING      Founder @ Landkhooneh Cloud Innovation & Tech Holding          â•‘
+â•‘  ECOSYSTEM    WEB khooneh â€¢ HOST khooneh â€¢ SMS khooneh â€¢ LEARN â€¢ MEDIA       â•‘
+â•‘  SPECIALTY    Web Platforms â€¢ Cloud & NVMe Infra â€¢ <3s OTP APIs â€¢ AI Systems â•‘
+â•‘  DIRECTIVE    Engineer high-leverage products that dominate their category   â•‘
+â•šâ•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
 ```
 
 </div>
@@ -137,7 +137,7 @@ class ArianPashae {
       <img src="https://img.icons8.com/nolan/96/layers.png" width="38" alt="Architecture" />
     </td>
     <td valign="middle" width="92%">
-      <b>360° Technical Ownership:</b> From <b>NVMe Gen4 cloud servers and sub-3-second OTP gateways</b> to <b>bespoke enterprise web software, technical SEO, and interactive UI/UX</b>.
+      <b>360Â° Technical Ownership:</b> From <b>NVMe Gen4 cloud servers and sub-3-second OTP gateways</b> to <b>bespoke enterprise web software, technical SEO, and interactive UI/UX</b>.
     </td>
   </tr>
   <tr>
@@ -532,25 +532,25 @@ class ArianPashae {
   <table>
     <tr>
       <td align="center" valign="middle" width="50%">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=ArianPashaei&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github&custom_title=Arian%20GitHub%20Stats" alt="Arian's GitHub Stats" />
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=ArianPashae&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github&custom_title=Arian%20GitHub%20Stats" alt="Arian's GitHub Stats" />
       </td>
       <td align="center" valign="middle" width="50%">
-        <img width="100%" src="https://streak-stats.demolab.com?user=ArianPashaei&theme=midnight-purple&hide_border=true&border_radius=10" alt="GitHub Streak" />
+        <img width="100%" src="https://streak-stats.demolab.com?user=ArianPashae&theme=midnight-purple&hide_border=true&border_radius=10" alt="GitHub Streak" />
       </td>
     </tr>
     <tr>
       <td align="center" valign="middle" width="50%">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArianPashaei&layout=compact&langs_count=10&theme=midnight-purple&hide_border=true&custom_title=Language%20Matrix" alt="Top Languages" />
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArianPashae&layout=compact&langs_count=10&theme=midnight-purple&hide_border=true&custom_title=Language%20Matrix" alt="Top Languages" />
       </td>
       <td align="center" valign="middle" width="50%">
-        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArianPashaei&theme=midnight_purple" alt="Contribution Summary" />
+        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArianPashae&theme=midnight_purple" alt="Contribution Summary" />
       </td>
     </tr>
   </table>
 
   <br />
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArianPashaei&theme=midnight_purple" width="100%" alt="Contribution Signal & Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArianPashae&theme=midnight_purple" width="100%" alt="Contribution Signal & Profile Details" />
 </div>
 
 <br />
@@ -559,7 +559,7 @@ class ArianPashae {
   <summary><img src="https://img.icons8.com/3d-fluency/94/trophy.png" width="22" align="absmiddle" alt="Trophy" /> <b>Achievement Wall (Click to Expand)</b></summary>
   <br />
   <div align="center">
-    <img src="https://github-trophies.vercel.app/?username=ArianPashaei&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" alt="GitHub Trophies" />
+    <img src="https://github-trophies.vercel.app/?username=ArianPashae&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" alt="GitHub Trophies" />
   </div>
 </details>
 
