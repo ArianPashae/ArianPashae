@@ -514,8 +514,8 @@ class ArianPashae {
 <!-- ==================== FEATURED PROJECTS & OPEN-SOURCE ENGINEERING ==================== -->
 <div align="center">
   <img src="https://img.icons8.com/3d-fluency/94/code-fork.png" width="58" alt="Featured Projects" />
-  <h1>Featured Repositories & Open-Source Engineering</h1>
-  <p><b>Production web platforms, developer tools, and upstream open-source contributions across AI, networking, and full-stack ecosystems.</b></p>
+  <h1>Featured Repositories & Flagship Software</h1>
+  <p><b>Production web platforms, developer tools, and interactive applications built with high craft and modern stacks.</b></p>
 </div>
 
 <br />
@@ -543,7 +543,7 @@ class ArianPashae {
     </td>
   </tr>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="100%" colspan="2">
       <img src="https://img.icons8.com/3d-fluency/94/telegram-app.png" width="46" align="left" alt="AzadWeekBot" />
       <h3>&nbsp;<a href="https://github.com/ArianPashae/AzadWeekBot" target="_blank">AzadWeekBot — Academic Schedule Automation</a></h3>
       <p>Lightweight Telegram bot that tracks university semester timelines and automatically resolves even/odd academic weeks with instant webhook responses and Jalaali calendar calculations.</p>
@@ -552,12 +552,61 @@ class ArianPashae {
         <img src="https://img.shields.io/badge/STACK-PHP%20%E2%80%A2%20Telegram%20Bot%20API-302B63?style=flat-square&labelColor=111111" alt="Stack" />
       </p>
     </td>
+  </tr>
+</table>
+
+<br />
+
+<!-- ==================== UPSTREAM OPEN-SOURCE CONTRIBUTIONS ==================== -->
+<div align="center">
+  <img src="https://img.icons8.com/3d-fluency/94/source-code.png" width="58" alt="Open-Source Contributions" />
+  <h1>Upstream Open-Source Contributions</h1>
+  <p><b>Official contributor & upstream engineer across global developer CLI tools, high-scale proxy networks, and AI frameworks.</b></p>
+</div>
+
+<br />
+
+<table>
+  <tr>
     <td valign="top" width="50%">
-      <img src="https://img.icons8.com/3d-fluency/94/globe.png" width="46" align="left" alt="Open Source" />
-      <h3>&nbsp;Open-Source Ecosystem Contributions</h3>
-      <p>Active contributor across networking cores, AI agent frameworks, and developer tooling — including <a href="https://github.com/patterniha/Xray-core" target="_blank"><b>Xray-core (Go)</b></a>, <a href="https://github.com/patterniha/PattNG" target="_blank"><b>PattNG (Kotlin)</b></a>, <a href="https://github.com/storytold/photocraft" target="_blank"><b>Photocraft (Rust)</b></a>, <a href="https://github.com/morluto/rea" target="_blank"><b>REA</b></a>, <a href="https://github.com/Jakubantalik/thinking-orbs" target="_blank"><b>Thinking Orbs</b></a>, and <a href="https://github.com/WhattheAj/Taskflow" target="_blank"><b>Taskflow</b></a>.</p>
+      <img src="https://img.icons8.com/3d-fluency/94/artificial-intelligence.png" width="46" align="left" alt="AI Blueprint" />
+      <h3>&nbsp;<a href="https://github.com/aiblueprinthq/ai-blueprint" target="_blank">AI Blueprint (by Brad Traversy)</a></h3>
+      <p>Hardened CLI dashboard resilience against Git worktree/index race crashes (Issue <a href="https://github.com/aiblueprinthq/ai-blueprint/issues/33" target="_blank">#33</a>). Designed porcelain error guards and regression test suites across 58 test cases. Reviewed, approved, and merged upstream by maintainer Brad Traversy.</p>
       <p>
-        <img src="https://img.shields.io/badge/LANGUAGES-TS%20%E2%80%A2%20Go%20%E2%80%A2%20Rust%20%E2%80%A2%20Python%20%E2%80%A2%20Kotlin%20%E2%80%A2%20Dart-E100FF?style=flat-square&labelColor=111111" alt="Languages" />
+        <a href="https://github.com/aiblueprinthq/ai-blueprint/pull/34" target="_blank"><img src="https://img.shields.io/badge/PR%20%2334-MERGED-success?style=flat-square&logo=github&labelColor=111111" alt="PR #34 Merged" /></a>
+        <img src="https://img.shields.io/badge/ROLE-Official%20Contributor-00D9FF?style=flat-square&logo=git&labelColor=111111" alt="Official Contributor" />
+        <img src="https://img.shields.io/badge/STACK-TypeScript%20%E2%80%A2%20CLI%20%E2%80%A2%20Git-E100FF?style=flat-square&labelColor=111111" alt="Stack" />
+      </p>
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://img.icons8.com/3d-fluency/94/cloud-connection.png" width="46" align="left" alt="v2rayA" />
+      <h3>&nbsp;<a href="https://github.com/v2rayA/v2rayA" target="_blank">v2rayA — Web GUI for V2Ray & Xray</a></h3>
+      <p>Root-caused and resolved SQLite foreign key cascade error <code>787</code> in bulk server deletion (Issue <a href="https://github.com/v2rayA/v2rayA/issues/2065" target="_blank">#2065</a>). Cleaned legacy table references post schema migration to prevent database constraint locks.</p>
+      <p>
+        <a href="https://github.com/v2rayA/v2rayA/pull/2080" target="_blank"><img src="https://img.shields.io/badge/PR%20%232080-OPEN-9745F5?style=flat-square&logo=github&labelColor=111111" alt="PR #2080" /></a>
+        <img src="https://img.shields.io/badge/STARS-15.6k%2B-FFB800?style=flat-square&logo=github&labelColor=111111" alt="Stars" />
+        <img src="https://img.shields.io/badge/STACK-Go%20%E2%80%A2%20SQLite%20%E2%80%A2%20Networking-00D9FF?style=flat-square&labelColor=111111" alt="Stack" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://img.icons8.com/3d-fluency/94/radar.png" width="46" align="left" alt="SenPaiScanner" />
+      <h3>&nbsp;<a href="https://github.com/MatinSenPai/SenPaiScanner" target="_blank">SenPaiScanner — Cloudflare IP Scanner</a></h3>
+      <p>Patched <code>uint32</code> overflow in target range parsing, eliminated 8MB allocations via uniform rejection sampling, fixed IPv6 endpoint truncation in exports, and enforced RFC 3986 bracketed URL generation.</p>
+      <p>
+        <a href="https://github.com/MatinSenPai/SenPaiScanner/pull/142" target="_blank"><img src="https://img.shields.io/badge/PR%20%23142-OPEN-9745F5?style=flat-square&logo=github&labelColor=111111" alt="PR #142" /></a>
+        <img src="https://img.shields.io/badge/STARS-2.4k%2B-FFB800?style=flat-square&logo=github&labelColor=111111" alt="Stars" />
+        <img src="https://img.shields.io/badge/STACK-Go%20%E2%80%A2%20Wails%20%E2%80%A2%20Xray-E100FF?style=flat-square&labelColor=111111" alt="Stack" />
+      </p>
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://img.icons8.com/3d-fluency/94/globe.png" width="46" align="left" alt="Open Source Ecosystem" />
+      <h3>&nbsp;Networking & AI Frameworks Ecosystem</h3>
+      <p>Active upstream patches, security enhancements, and feature contributions across <a href="https://github.com/patterniha/Xray-core" target="_blank"><b>Xray-core (PR #6)</b></a>, <a href="https://github.com/patterniha/PattNG" target="_blank"><b>PattNG (PR #36)</b></a>, <a href="https://github.com/patterniha/Serverless-for-Iran" target="_blank"><b>Serverless-for-Iran (PR #30)</b></a>, <a href="https://github.com/salehghari/ganjineh-street" target="_blank"><b>Ganjineh-Street (PR #2)</b></a>, and <a href="https://github.com/storytold/photocraft" target="_blank"><b>Photocraft</b></a>.</p>
+      <p>
+        <img src="https://img.shields.io/badge/LANGUAGES-Go%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Rust%20%E2%80%A2%20Kotlin-7F00FF?style=flat-square&labelColor=111111" alt="Languages" />
+        <img src="https://img.shields.io/badge/SCOPE-Networking%20%26%20Security-00D9FF?style=flat-square&labelColor=111111" alt="Scope" />
       </p>
     </td>
   </tr>
