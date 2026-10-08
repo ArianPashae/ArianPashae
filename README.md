@@ -523,6 +523,28 @@ class ArianPashae {
 <table>
   <tr>
     <td valign="top" width="50%">
+      <h3>🦀&nbsp;<a href="https://github.com/storytold/photocraft" target="_blank">Photocraft (26k+ ⭐ GPU Image Editor)</a></h3>
+      <p>Upstream contributor to the GPU-accelerated raster graphics editor. Hardened repository hygiene and build environments by resolving stray test/lint log artifacts and enforcing root ignore policies (Issue <a href="https://github.com/storytold/photocraft/issues/1154" target="_blank">#1154</a>). Reviewed and merged upstream into main.</p>
+      <p>
+        <a href="https://github.com/storytold/photocraft/pull/1155" target="_blank"><img src="https://img.shields.io/badge/PR%20%231155-MERGED-success?style=flat-square&logo=github&labelColor=111111" alt="PR #1155 Merged" /></a>
+        <img src="https://img.shields.io/badge/STARS-26.1k%2B-FFB800?style=flat-square&logo=github&labelColor=111111" alt="Stars" />
+        <img src="https://img.shields.io/badge/ROLE-Official%20Contributor-00D9FF?style=flat-square&logo=git&labelColor=111111" alt="Official Contributor" />
+        <img src="https://img.shields.io/badge/STACK-Rust%20%E2%80%A2%20WGPU%20%E2%80%A2%20Graphics-E100FF?style=flat-square&labelColor=111111" alt="Stack" />
+      </p>
+    </td>
+    <td valign="top" width="50%">
+      <h3>🧠&nbsp;<a href="https://github.com/morluto/rea" target="_blank">Rea (24k+ ⭐ Agentic Reverse Engineering)</a></h3>
+      <p>Upstream contributor to the agentic binary reverse engineering framework. Patched cross-platform installer execution under <code>set -u</code> on macOS Bash 3.2 environments, eliminating unbound variable aborts. Reviewed and merged upstream into main.</p>
+      <p>
+        <a href="https://github.com/morluto/rea/pull/1061" target="_blank"><img src="https://img.shields.io/badge/PR%20%231061-MERGED-success?style=flat-square&logo=github&labelColor=111111" alt="PR #1061 Merged" /></a>
+        <img src="https://img.shields.io/badge/STARS-24.6k%2B-FFB800?style=flat-square&logo=github&labelColor=111111" alt="Stars" />
+        <img src="https://img.shields.io/badge/ROLE-Official%20Contributor-00D9FF?style=flat-square&logo=git&labelColor=111111" alt="Official Contributor" />
+        <img src="https://img.shields.io/badge/STACK-Python%20%E2%80%A2%20Reverse%20Eng%20%E2%80%A2%20Agents-7F00FF?style=flat-square&labelColor=111111" alt="Stack" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
       <h3>🤖&nbsp;<a href="https://github.com/aiblueprinthq/ai-blueprint" target="_blank">AI Blueprint (by Brad Traversy)</a></h3>
       <p>Hardened CLI dashboard resilience against Git worktree/index race crashes (Issue <a href="https://github.com/aiblueprinthq/ai-blueprint/issues/33" target="_blank">#33</a>). Designed porcelain error guards and regression test suites across 58 test cases. Reviewed, approved, and merged upstream by maintainer Brad Traversy.</p>
       <p>
@@ -533,9 +555,10 @@ class ArianPashae {
     </td>
     <td valign="top" width="50%">
       <h3>🗺️&nbsp;<a href="https://github.com/salehghari/ganjineh-street" target="_blank">Ganjineh Street — Web Platform</a></h3>
-      <p>Official collaborator & core maintainer for the gamified treasure-hunt platform (<a href="https://ganjinehstreet.ir" target="_blank"><b>ganjinehstreet.ir</b></a>). Fixed Next.js 15 client dynamic routing bugs, optimized TypeScript props interfaces, and improved hydration stability.</p>
+      <p>Official collaborator & core maintainer for the gamified treasure-hunt platform (<a href="https://ganjinehstreet.ir" target="_blank"><b>ganjinehstreet.ir</b></a>). Fixed Next.js 15 client dynamic routing bugs, hint timer closure leaks, and improved hydration stability (PR <a href="https://github.com/salehghari/ganjineh-street/pull/2" target="_blank">#2</a>).</p>
       <p>
-        <a href="https://github.com/salehghari/ganjineh-street" target="_blank"><img src="https://img.shields.io/badge/ROLE-Collaborator-00D9FF?style=flat-square&logo=git&labelColor=111111" alt="Collaborator" /></a>
+        <a href="https://github.com/salehghari/ganjineh-street/pull/2" target="_blank"><img src="https://img.shields.io/badge/PR%20%232-MERGED-success?style=flat-square&logo=github&labelColor=111111" alt="PR #2 Merged" /></a>
+        <img src="https://img.shields.io/badge/ROLE-Collaborator-00D9FF?style=flat-square&logo=git&labelColor=111111" alt="Collaborator" />
         <img src="https://img.shields.io/badge/STACK-Next.js%2015%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Redux-9745F5?style=flat-square&labelColor=111111" alt="Stack" />
       </p>
     </td>
