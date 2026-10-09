@@ -563,6 +563,18 @@ class ArianPashae {
       </p>
     </td>
   </tr>
+  <tr>
+    <td valign="top" colspan="2">
+      <h3>⚡&nbsp;<a href="https://github.com/v2rayA/v2rayA" target="_blank">v2rayA (15.7k+ ⭐ Linux & Universal Routing Engine)</a></h3>
+      <p>Upstream contributor to the premier universal Linux network proxy GUI (15,700+ ⭐). Diagnosed and eliminated critical SQLite foreign key constraint failures (<code>SQLITE_CONSTRAINT_FOREIGNKEY</code> code 787) during batch proxy node deletions (Issue <a href="https://github.com/v2rayA/v2rayA/issues/2065" target="_blank">#2065</a>) by safely dropping obsolete legacy schema tables post-migration. Reviewed, approved, and merged upstream into master by lead maintainer @MarksonHon.</p>
+      <p>
+        <a href="https://github.com/v2rayA/v2rayA/pull/2080" target="_blank"><img src="https://img.shields.io/badge/PR%20%232080-MERGED-success?style=flat-square&logo=github&labelColor=111111" alt="PR #2080 Merged" /></a>
+        <img src="https://img.shields.io/badge/STARS-15.7k%2B-FFB800?style=flat-square&logo=github&labelColor=111111" alt="Stars" />
+        <img src="https://img.shields.io/badge/ROLE-Official%20Contributor-00D9FF?style=flat-square&logo=git&labelColor=111111" alt="Official Contributor" />
+        <img src="https://img.shields.io/badge/STACK-Go%20%E2%80%A2%20SQLite%20%E2%80%A2%20Networking%20%E2%80%A2%20Vue-9745F5?style=flat-square&labelColor=111111" alt="Stack" />
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
