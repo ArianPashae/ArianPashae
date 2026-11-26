@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ==================== HERO HEADER ==================== -->
-<img src="https://raw.githubusercontent.com/ArianPashae/ArianPashae/main/assets/header.svg?v=2" width="100%" alt="Arian Pashae Header" />
+<img src="https://raw.githubusercontent.com/ArianPashae/ArianPashae/main/assets/hero.svg" width="100%" alt="Arian Pashae Header" />
 
 <a href="https://arianpashae.com" target="_blank">
   <img src="https://arianpashae.com/fb611de45b88433d9f4dd604c90e9a2fc1be1843/2024/02/9bc27292880429.5e569ff84e4d0.gif" width="100%" alt="Arian Pashae Animated Banner" />
