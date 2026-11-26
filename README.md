@@ -1,510 +1,124 @@
 <div align="center">
 
 <!-- ==================== HERO HEADER ==================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,30:302B63,60:7F00FF,100:E100FF&height=245&section=header&text=Arian%20Pashae&fontSize=68&fontColor=ffffff&fontAlignY=34&animation=twinkling&desc=Founder%20%40%20Landkhooneh%20Holding%20%E2%80%A2%20Full-Stack%20Architect%20%E2%80%A2%20AI%20Product%20Builder%20%E2%80%A2%20Cloud%20Innovator&descSize=16&descAlignY=56" width="100%" alt="Arian Pashae Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,30:302B63,60:7F00FF,100:E100FF&height=215&section=header&text=Arian%20Pashae&fontSize=64&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=Founder%20%40%20Landkhooneh%20Holding%20%E2%80%A2%20Full-Stack%20Architect%20%E2%80%A2%20AI%20%26%20Systems%20Engineer&descSize=16&descAlignY=57" width="100%" alt="Arian Pashae Header" />
 
 <a href="https://arianpashae.com" target="_blank">
   <img src="https://arianpashae.com/fb611de45b88433d9f4dd604c90e9a2fc1be1843/2024/02/9bc27292880429.5e569ff84e4d0.gif" width="100%" alt="Arian Pashae Animated Banner" />
 </a>
 
-<br />
-<br />
+<br /><br />
 
 <!-- ==================== TYPING INTRO ==================== -->
 <a href="https://arianpashae.com" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=27&duration=2300&pause=650&color=9745F5&center=true&vCenter=true&width=1000&lines=Architecting+digital+products+that+feel+alive.;Founder+%40+Landkhooneh+Cloud+%26+Tech+Holding;Full-Stack+Engineering+x+Autonomous+AI+Systems;Web+%E2%80%A2+Cloud+Infra+%E2%80%A2+Telecom+APIs+%E2%80%A2+AI+Automation" width="100%" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&duration=2300&pause=650&color=9745F5&center=true&vCenter=true&width=940&lines=Architecting+digital+products+that+feel+alive.;Founder+%40+Landkhooneh+Cloud+%26+Tech+Holding;Full-Stack+Engineering+x+Autonomous+AI+Systems;Systems+Software+%E2%80%A2+Cloud+Infra+%E2%80%A2+Telecom+APIs" width="100%" alt="Typing SVG" />
 </a>
 
 <br />
-<br />
 
-<!-- ==================== PRIMARY COMMAND BAR BADGES ==================== -->
+<!-- ==================== PRIMARY COMMAND BAR ==================== -->
 <p align="center">
   <a href="https://arianpashae.com" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-arianpashae.com-9745F5?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=111111" alt="Portfolio" /></a>
   <a href="https://landkhooneh.com" target="_blank"><img src="https://img.shields.io/badge/HOLDING-landkhooneh.com-E100FF?style=for-the-badge&logo=fireship&logoColor=white&labelColor=111111" alt="Landkhooneh Holding" /></a>
-  <img src="https://img.shields.io/badge/AI%20SYSTEMS-LLM%20%7C%20Agents%20%7C%20RAG-00D9FF?style=for-the-badge&logo=openai&logoColor=black&labelColor=111111" alt="AI Builder" />
+  <img src="https://hits.sh/github.com/ArianPashae.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=00D9FF&labelColor=111111" alt="Profile Views" />
+  <a href="https://gitstalk.netlify.app/ArianPashae/" target="_blank"><img src="https://img.shields.io/badge/RADAR-LIVE%20ACTIVITY-7F00FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=111111" alt="Live Activity" /></a>
 </p>
-
-<p align="center">
-  <img src="https://hits.sh/github.com/ArianPashae.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=9745f5&labelColor=111111" alt="Profile Views" />
-  <a href="https://gitstalk.netlify.app/ArianPashae/" target="_blank"><img src="https://img.shields.io/badge/GITHUB%20RADAR-LIVE%20STREAM-00D9FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=111111" alt="Live Activity" /></a>
-  <img src="https://img.shields.io/badge/REMOTE%20ARCHITECT-SINCE%202020-302B63?style=for-the-badge&logo=github&logoColor=9745F5&labelColor=111111" alt="Remote Developer" />
-  <img src="https://img.shields.io/badge/TABS%20%3E%20SPACES-NON--NEGOTIABLE-9745F5?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=111111" alt="Tabs Over Spaces" />
-</p>
-
-<br />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="92%" alt="Neon Divider" />
 
-<br />
-<br />
-
-```txt
-╔══════════════════════════════════════════════════════════════════════════════╗
-║  ARIAN PASHAE  //  CORE SYSTEM ONLINE [v2026.11]                             ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║  IDENTITY     Full-Stack Software Architect x AI Product Builder             ║
-║  HOLDING      Founder @ Landkhooneh Cloud Innovation & Tech Holding          ║
-║  ECOSYSTEM    WEB khooneh • HOST khooneh • SMS khooneh • LEARN • MEDIA       ║
-║  SPECIALTY    Web Platforms • Cloud & NVMe Infra • <3s OTP APIs • AI Systems ║
-║  DIRECTIVE    Engineer high-leverage products that dominate their category   ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
 </div>
 
----
+<br />
 
-<!-- ==================== EXECUTIVE BIO & SYSTEM BLUEPRINT ==================== -->
+<!-- ==================== SYSTEM BLUEPRINT ==================== -->
 <div align="center">
-  <img src="https://img.icons8.com/3d-fluency/94/microchip.png" width="58" alt="Architecture Icon" />
-  <h1>Full-Stack Architect × AI Product Builder</h1>
-  <p><b>I architect, engineer, and scale high-impact digital ecosystems — uniting enterprise web software, high-speed cloud & telecom infrastructure, and autonomous AI workflows.</b></p>
+  <img src="https://img.icons8.com/3d-fluency/94/microchip.png" width="52" alt="Architecture Icon" />
+  <h2>Full-Stack Architect × AI & Systems Builder</h2>
+  <p><b>Building high-impact digital ecosystems — uniting enterprise web software, NVMe cloud & telecom infrastructure, autonomous AI workflows, and open-source systems engineering.</b></p>
 </div>
-
-<br />
 
 ```ts
 class ArianPashae {
 	readonly role = "Founder & Principal Full-Stack / AI Architect";
-	readonly holding = "Landkhooneh — Cloud Innovation & Tech Development Holding";
+	readonly holding = "Landkhooneh — Cloud Innovation & Tech Holding";
 	readonly remoteSince = 2020;
 
-	readonly landkhoonehEcosystem = {
-		WEB_khooneh:   "Enterprise & E-Commerce Web Engineering, UI/UX & Technical SEO",
-		HOST_khooneh:  "NVMe Gen4 Cloud Hosting, LiteSpeed Servers & Managed Security",
-		SMS_khooneh:   "Smart SMS Gateway, <3s OTP APIs & Whitelisted Service Lines",
-		LEARN_khooneh: "Project-Driven IT Academy, Bootcamps & Career Mentorship",
-		MEDIA_khooneh: "Creative Studio, Video/Motion Production & Growth Campaigns"
-	};
-
-	readonly aiEngineering = [
-		"Multi-agent LLM orchestration & RAG knowledge systems",
-		"Function-calling copilots embedded into core business logic",
-		"Autonomous background workers, bots & workflow pipelines",
-		"Real-time executive telemetry & decision control panels"
+	readonly coreFocus = [
+		"Enterprise Web Platforms, UI/UX & Technical SEO",
+		"Multi-Agent LLM Orchestration, RAG & Workflow Automation",
+		"NVMe Gen4 Cloud Servers & Sub-3s OTP Telecom Gateways",
+		"C / Go / Rust / TypeScript Upstream Systems Engineering"
 	];
 
-	readonly philosophy = {
-		codebase:     "Modular, strongly typed, built for longevity",
-		experience:   "Zero-friction UX with fluid motion & visual polish",
-		architecture: "Cloud-native, fault-tolerant, fast by default",
-		execution:    "Ship relentlessly. Measure everything. Iterate fast."
-	};
+	readonly philosophy = "Ship clean code. Craft sharp UX. Engineer for resilience.";
 }
 ```
 
-<div align="center">
-  <a href="https://arianpashae.com">
-    <img src="https://img.shields.io/badge/PERSONAL%20PORTFOLIO-arianpashae.com-9745F5?style=for-the-badge&logo=safari&logoColor=white&labelColor=111111" alt="Personal Portfolio" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://landkhooneh.com">
-    <img src="https://img.shields.io/badge/HOLDING%20ECOSYSTEM-landkhooneh.com-00D9FF?style=for-the-badge&logo=fireship&logoColor=00D9FF&labelColor=111111" alt="Landkhooneh Holding" />
-  </a>
-</div>
+<br />
 
-<!-- ==================== TELEMETRY HIGHLIGHTS ==================== -->
 <table>
   <tr>
-    <td valign="middle" align="center" width="8%">
-      <img src="https://img.icons8.com/nolan/96/rocket.png" width="38" alt="Ecosystem" />
+    <td valign="top" width="33%" align="center">
+      <img src="https://img.icons8.com/3d-fluency/94/brain.png" width="42" alt="AI Systems" />
+      <h4>AI & Automation Lab</h4>
+      <sub>LLM copilots, multi-step RAG pipelines, vector search, autonomous bots, and executive telemetry panels.</sub>
     </td>
-    <td valign="middle" width="92%">
-      <b>Holding Leadership:</b> Founder of <a href="https://landkhooneh.com" target="_blank"><b>Landkhooneh Cloud Innovation & Tech Holding</b></a> — leading strategy and architecture across <b><a href="https://webkhooneh.com" target="_blank">WEB khooneh</a>, HOST khooneh, <a href="https://smskhooneh.ir" target="_blank">SMS khooneh</a>, LEARN khooneh, and MEDIA khooneh</b>.
+    <td valign="top" width="33%" align="center">
+      <img src="https://img.icons8.com/3d-fluency/94/layers.png" width="42" alt="Full-Stack" />
+      <h4>Enterprise Web & APIs</h4>
+      <sub>Next.js / TypeScript portals, CRM/ERP architectures, REST & GraphQL backends, and sub-3s OTP gateways.</sub>
     </td>
-  </tr>
-  <tr>
-    <td valign="middle" align="center" width="8%">
-      <img src="https://img.icons8.com/nolan/96/artificial-intelligence.png" width="38" alt="AI Engineering" />
-    </td>
-    <td valign="middle" width="92%">
-      <b>Production AI Systems:</b> Designing and deploying <b>LLM-powered platforms, autonomous AI agents, RAG pipelines, and workflow automation engines</b> that eliminate operational bottlenecks.
-    </td>
-  </tr>
-  <tr>
-    <td valign="middle" align="center" width="8%">
-      <img src="https://img.icons8.com/nolan/96/layers.png" width="38" alt="Architecture" />
-    </td>
-    <td valign="middle" width="92%">
-      <b>360° Technical Ownership:</b> From <b>NVMe Gen4 cloud servers and sub-3-second OTP gateways</b> to <b>bespoke enterprise web software, technical SEO, and interactive UI/UX</b>.
-    </td>
-  </tr>
-  <tr>
-    <td valign="middle" align="center" width="8%">
-      <img src="https://img.icons8.com/nolan/96/chat.png" width="38" alt="Consultation" />
-    </td>
-    <td valign="middle" width="92%">
-      <b>Advisory & Engineering:</b> Ask me about <b>Full-Stack SaaS Architecture, AI Integration, Custom E-Commerce/Enterprise Portals, High-Availability Hosting, and Telecom APIs</b>.
-    </td>
-  </tr>
-  <tr>
-    <td valign="middle" align="center" width="8%">
-      <img src="https://img.icons8.com/nolan/96/target.png" width="38" alt="Standard" />
-    </td>
-    <td valign="middle" width="92%">
-      <b>Engineering Signature:</b> Every platform I ship is engineered to be <b>blisteringly fast, architecturally resilient, commercially effective, and visually unforgettable</b>.
+    <td valign="top" width="33%" align="center">
+      <img src="https://img.icons8.com/3d-fluency/94/server.png" width="42" alt="Cloud Infra" />
+      <h4>Cloud & Edge Infra</h4>
+      <sub>NVMe Gen4 & LiteSpeed clusters, Dockerized services, Nginx reverse proxies, Cloudflare WAF, and CI/CD.</sub>
     </td>
   </tr>
 </table>
 
 ---
 
-<!-- ==================== LANDKHOONEH HOLDING & 5 SUBSIDIARIES ==================== -->
+<!-- ==================== LANDKHOONEH HOLDING ECOSYSTEM ==================== -->
 <div align="center">
-  <img src="https://img.icons8.com/3d-fluency/94/company.png" width="58" alt="Landkhooneh Holding" />
-  <h1>Landkhooneh — Cloud Innovation & Technology Holding</h1>
-  <p><b>An integrated cloud innovation, software engineering, and digital growth ecosystem powering businesses through five specialized technology divisions.</b></p>
+  <img src="https://img.icons8.com/3d-fluency/94/company.png" width="52" alt="Landkhooneh Holding" />
+  <h2><a href="https://landkhooneh.com" target="_blank">Landkhooneh</a> — Cloud Innovation & Tech Holding</h2>
+  <p><b>Five specialized technology divisions delivering end-to-end digital infrastructure and software products.</b></p>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/150%2B-Custom%20Web%20Platforms-9745F5?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111111" alt="150+ Custom Websites" />
-    <img src="https://img.shields.io/badge/220%2B-WordPress%20Platforms-7F00FF?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=111111" alt="220+ WordPress Sites" />
-    <img src="https://img.shields.io/badge/50%2B-Custom%20Applications-00D9FF?style=for-the-badge&logo=android&logoColor=black&labelColor=111111" alt="50+ Custom Apps" />
-    <img src="https://img.shields.io/badge/50%2B-Tech%20Courses%20%26%20Bootcamps-E100FF?style=for-the-badge&logo=gitbook&logoColor=white&labelColor=111111" alt="50+ Courses" />
-    <img src="https://img.shields.io/badge/10%2B-Enterprise%20Systems-302B63?style=for-the-badge&logo=databricks&logoColor=9745F5&labelColor=111111" alt="10+ Enterprise Systems" />
+    <img src="https://img.shields.io/badge/150%2B-Custom%20Web%20Platforms-9745F5?style=flat-square&logo=vercel&logoColor=white&labelColor=111111" alt="150+ Custom Websites" />
+    <img src="https://img.shields.io/badge/220%2B-WordPress%20Platforms-7F00FF?style=flat-square&logo=wordpress&logoColor=white&labelColor=111111" alt="220+ WordPress Sites" />
+    <img src="https://img.shields.io/badge/50%2B-Custom%20Apps-00D9FF?style=flat-square&logo=android&logoColor=black&labelColor=111111" alt="50+ Custom Apps" />
+    <img src="https://img.shields.io/badge/50%2B-Tech%20Bootcamps-E100FF?style=flat-square&logo=gitbook&logoColor=white&labelColor=111111" alt="50+ Courses" />
+    <img src="https://img.shields.io/badge/10%2B-Enterprise%20Systems-302B63?style=flat-square&logo=databricks&logoColor=9745F5&labelColor=111111" alt="10+ Enterprise Systems" />
   </p>
 </div>
 
-<br />
-
-<table>
-  <tr>
-    <td colspan="5" align="center" valign="middle">
-      <img src="https://img.icons8.com/3d-fluency/94/briefcase.png" width="46" alt="Landkhooneh Holding" />
-      <h2><a href="https://landkhooneh.com" target="_blank">Landkhooneh Holding</a> — Cloud Innovation & Tech Ecosystem</h2>
-      <p>As the parent technology holding group (<a href="https://landkhooneh.com" target="_blank"><b>landkhooneh.com</b></a>), Landkhooneh unites <b>custom software engineering, NVMe cloud infrastructure, high-speed telecom gateways, project-based IT education, and creative growth marketing</b> into one cohesive digital powerhouse.</p>
-      <p>
-        <a href="https://landkhooneh.com" target="_blank"><img src="https://img.shields.io/badge/OFFICIAL%20HOLDING-landkhooneh.com-9745F5?style=flat-square&logo=fireship&logoColor=white&labelColor=111111" alt="Landkhooneh HQ" /></a>
-        <img src="https://img.shields.io/badge/ECOSYSTEM-5%20SPECIALIZED%20BRANDS-00D9FF?style=flat-square&labelColor=111111" alt="5 Divisions" />
-        <img src="https://img.shields.io/badge/LEADERSHIP-FOUNDER%20%26%20ARCHITECT-E100FF?style=flat-square&labelColor=111111" alt="Founder" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="20%">
-      <img src="https://img.icons8.com/3d-fluency/94/rocket.png" width="48" alt="WEB khooneh" />
-      <h3><a href="https://webkhooneh.com" target="_blank">WEB khooneh</a></h3>
-      <p><b>Software & Web Engineering Arm:</b> Custom corporate & e-commerce platforms, bespoke UI/UX design systems, full-stack web apps, and deep technical SEO architecture.</p>
-      <a href="https://webkhooneh.com" target="_blank"><img src="https://img.shields.io/badge/WEB%20%26%20UI%2FUX%20%26%20SEO-9745F5?style=flat-square&labelColor=111111" alt="Webkhooneh" /></a>
-    </td>
-    <td align="center" valign="top" width="20%">
-      <img src="https://img.icons8.com/3d-fluency/94/server.png" width="48" alt="HOST khooneh" />
-      <h3>HOST khooneh</h3>
-      <p><b>Cloud & Hosting Infrastructure:</b> High-availability cloud hosting and dedicated servers powered by ultra-fast <b>NVMe Gen4</b> arrays, <b>LiteSpeed</b> web servers, and managed security.</p>
-      <img src="https://img.shields.io/badge/NVMe%20Gen4%20%26%20LiteSpeed-00D9FF?style=flat-square&labelColor=111111" alt="Hostkhooneh" />
-    </td>
-    <td align="center" valign="top" width="20%">
-      <img src="https://img.icons8.com/3d-fluency/94/paper-plane.png" width="48" alt="SMS khooneh" />
-      <h3><a href="https://smskhooneh.ir" target="_blank">SMS khooneh</a></h3>
-      <p><b>Intelligent Messaging Gateway:</b> High-throughput SMS infrastructure featuring <b>sub-3-second OTP verification APIs</b>, blacklist-bypassing service lines, and bulk campaigns.</p>
-      <a href="https://smskhooneh.ir" target="_blank"><img src="https://img.shields.io/badge/%3C3s%20OTP%20%26%20SMS%20API-7F00FF?style=flat-square&labelColor=111111" alt="SMSkhooneh" /></a>
-    </td>
-    <td align="center" valign="top" width="20%">
-      <img src="https://img.icons8.com/3d-fluency/94/graduation-cap.png" width="48" alt="LEARN khooneh" />
-      <h3>LEARN khooneh</h3>
-      <p><b>Project-Based Tech Academy:</b> Specialized IT training center focused on hands-on, project-driven bootcamps and direct mentorship to launch job-ready engineers.</p>
-      <img src="https://img.shields.io/badge/IT%20ACADEMY%20%26%20MENTORSHIP-E100FF?style=flat-square&labelColor=111111" alt="Learnkhooneh" />
-    </td>
-    <td align="center" valign="top" width="20%">
-      <img src="https://img.icons8.com/3d-fluency/94/clapperboard.png" width="48" alt="MEDIA khooneh" />
-      <h3>MEDIA khooneh</h3>
-      <p><b>Creative & Growth Studio:</b> Video production, motion graphics, dedicated Instagram management, content SEO, ad campaigns, and influencer marketing.</p>
-      <img src="https://img.shields.io/badge/MOTION%20%26%20GROWTH%20MEDIA-302B63?style=flat-square&labelColor=111111" alt="Mediakhooneh" />
-    </td>
-  </tr>
-</table>
-
----
-
-<!-- ==================== ENGINEERING DNA ==================== -->
-<div align="center">
-  <img src="https://img.icons8.com/3d-fluency/94/mind-map.png" width="58" alt="Engineering DNA" />
-  <h1>Engineering DNA</h1>
-  <p><b>The four core principles that govern every architecture decision, line of code, and interface I ship.</b></p>
-</div>
-
-<br />
-
-<table>
-  <tr>
-    <td align="center" valign="top" width="25%">
-      <img src="https://img.icons8.com/3d-fluency/94/brain.png" width="54" alt="AI Thinking" />
-      <h3>AI-Native Thinking</h3>
-      <p>Embedding intelligence where it creates real leverage — turning LLMs and agents into reliable, revenue-driving product capabilities.</p>
-      <img src="https://img.shields.io/badge/INTELLIGENCE-9745F5?style=flat-square&labelColor=111111" alt="Intelligence" />
-    </td>
-    <td align="center" valign="top" width="25%">
-      <img src="https://img.icons8.com/3d-fluency/94/lightning-bolt.png" width="54" alt="Fast Execution" />
-      <h3>High-Velocity Shipping</h3>
-      <p>Compressing the cycle from raw concept to interactive prototype to production release without compromising engineering rigor.</p>
-      <img src="https://img.shields.io/badge/VELOCITY-00D9FF?style=flat-square&labelColor=111111" alt="Velocity" />
-    </td>
-    <td align="center" valign="top" width="25%">
-      <img src="https://img.icons8.com/3d-fluency/94/paint-palette.png" width="54" alt="Visual Polish" />
-      <h3>Obsessive Visual Craft</h3>
-      <p>Sweating every pixel, transition, and micro-interaction to build interfaces that feel alive, intuitive, and unmistakably premium.</p>
-      <img src="https://img.shields.io/badge/AESTHETICS-E100FF?style=flat-square&labelColor=111111" alt="Aesthetics" />
-    </td>
-    <td align="center" valign="top" width="25%">
-      <img src="https://img.icons8.com/3d-fluency/94/shield.png" width="54" alt="System Design" />
-      <h3>Battle-Tested Systems</h3>
-      <p>Designing fault-tolerant backends, clean API contracts, multi-layer caching, and hardened security that scale effortlessly under load.</p>
-      <img src="https://img.shields.io/badge/RESILIENCE-7F00FF?style=flat-square&labelColor=111111" alt="Resilience" />
-    </td>
-  </tr>
-</table>
-
----
-
-<!-- ==================== AI & AUTOMATION LAB ==================== -->
-<div align="center">
-  <img src="https://img.icons8.com/3d-fluency/94/bot.png" width="58" alt="AI Lab Icon" />
-  <h1>AI & Autonomous Systems Lab</h1>
-  <p><b>Bridging frontier AI models with production software engineering to build self-driving workflows and intelligent products.</b></p>
-
-  <p align="center">
-    <img src="https://img.shields.io/badge/LLM%20Orchestration-9745F5?style=for-the-badge&logo=openai&logoColor=white&labelColor=111111" alt="LLM Apps" />
-    <img src="https://img.shields.io/badge/Autonomous%20Agents-7F00FF?style=for-the-badge&logo=probot&logoColor=white&labelColor=111111" alt="AI Agents" />
-    <img src="https://img.shields.io/badge/RAG%20%26%20Vector%20Search-00D9FF?style=for-the-badge&logo=databricks&logoColor=black&labelColor=111111" alt="RAG" />
-    <img src="https://img.shields.io/badge/Process%20Automation-302B63?style=for-the-badge&logo=zapier&logoColor=white&labelColor=111111" alt="Automation" />
-    <img src="https://img.shields.io/badge/AI--Native%20UX-E100FF?style=for-the-badge&logo=figma&logoColor=white&labelColor=111111" alt="AI UX" />
-  </p>
-</div>
-
-<br />
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <img src="https://img.icons8.com/nolan/96/bot.png" width="46" align="left" alt="AI Products" />
-      <h3>&nbsp;AI-Native SaaS & Copilots</h3>
-      <p>Architecting full-stack applications where AI is native to the user journey — context-aware assistants, automated content engines, semantic search, and real-time copilots.</p>
-    </td>
-    <td valign="top" width="50%">
-      <img src="https://img.icons8.com/nolan/96/workflow.png" width="46" align="left" alt="LLM Workflows" />
-      <h3>&nbsp;Multi-Step LLM & RAG Pipelines</h3>
-      <p>Connecting foundation models to proprietary databases, vector stores, tool-calling APIs, and deterministic validation layers for accurate, hallucination-resistant outputs.</p>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <img src="https://img.icons8.com/nolan/96/gear.png" width="46" align="left" alt="Automation" />
-      <h3>&nbsp;Zero-Touch Automation Engines</h3>
-      <p>Building event-driven bots, background job queues, intelligent scrapers, and cross-platform integrations that replace hours of manual operations with autonomous execution.</p>
-    </td>
-    <td valign="top" width="50%">
-      <img src="https://img.icons8.com/nolan/96/combo-chart.png" width="46" align="left" alt="Dashboards" />
-      <h3>&nbsp;Executive Telemetry & Control Panels</h3>
-      <p>Designing high-density command centers and analytics interfaces that synthesize live telemetry, financial metrics, and AI insights into instant operational clarity.</p>
-    </td>
-  </tr>
-</table>
-
----
-
-<!-- ==================== PRODUCT BUILD SYSTEM ==================== -->
-<div align="center">
-  <img src="https://img.icons8.com/3d-fluency/94/workflow.png" width="58" alt="Build System" />
-  <h1>Product Engineering Lifecycle</h1>
-  <p><b>How I take complex ideas from initial blueprint to battle-tested, revenue-generating production systems.</b></p>
-</div>
-
-<br />
-
 <table>
   <tr>
     <td align="center" valign="top" width="20%">
-      <img src="https://img.icons8.com/nolan/96/target.png" width="44" alt="Discover" />
-      <br />
-      <img src="https://img.shields.io/badge/PHASE-01-9745F5?style=flat-square&labelColor=111111" alt="01" />
-      <h3>Discover</h3>
-      <p>Deconstruct the core problem, user psychology, business KPIs, and technical constraints.</p>
+      <img src="https://img.icons8.com/3d-fluency/94/rocket.png" width="38" alt="WEB khooneh" />
+      <h4><a href="https://webkhooneh.com" target="_blank">WEB khooneh</a></h4>
+      <sub>Custom Web, UI/UX & Technical SEO</sub>
     </td>
     <td align="center" valign="top" width="20%">
-      <img src="https://img.icons8.com/nolan/96/mind-map.png" width="44" alt="Architect" />
-      <br />
-      <img src="https://img.shields.io/badge/PHASE-02-7F00FF?style=flat-square&labelColor=111111" alt="02" />
-      <h3>Architect</h3>
-      <p>Blueprint system topology, data models, API contracts, security boundaries, and UX flows.</p>
+      <img src="https://img.icons8.com/3d-fluency/94/server.png" width="38" alt="HOST khooneh" />
+      <h4>HOST khooneh</h4>
+      <sub>NVMe Gen4 Cloud & LiteSpeed Servers</sub>
     </td>
     <td align="center" valign="top" width="20%">
-      <img src="https://img.icons8.com/nolan/96/code.png" width="44" alt="Engineer" />
-      <br />
-      <img src="https://img.shields.io/badge/PHASE-03-00D9FF?style=flat-square&labelColor=111111" alt="03" />
-      <h3>Engineer</h3>
-      <p>Build frontend, backend, AI pipelines, and automation modules with clean, modular code.</p>
+      <img src="https://img.icons8.com/3d-fluency/94/paper-plane.png" width="38" alt="SMS khooneh" />
+      <h4><a href="https://smskhooneh.ir" target="_blank">SMS khooneh</a></h4>
+      <sub>&lt;3s OTP APIs & Service SMS Lines</sub>
     </td>
     <td align="center" valign="top" width="20%">
-      <img src="https://img.icons8.com/nolan/96/cloud.png" width="44" alt="Deploy" />
-      <br />
-      <img src="https://img.shields.io/badge/PHASE-04-E100FF?style=flat-square&labelColor=111111" alt="04" />
-      <h3>Deploy</h3>
-      <p>Ship via automated CI/CD, NVMe/LiteSpeed cloud clusters, edge caching, and live monitoring.</p>
+      <img src="https://img.icons8.com/3d-fluency/94/graduation-cap.png" width="38" alt="LEARN khooneh" />
+      <h4>LEARN khooneh</h4>
+      <sub>Project-Based IT Academy & Mentorship</sub>
     </td>
     <td align="center" valign="top" width="20%">
-      <img src="https://img.icons8.com/nolan/96/combo-chart.png" width="44" alt="Scale" />
-      <br />
-      <img src="https://img.shields.io/badge/PHASE-05-302B63?style=flat-square&labelColor=111111" alt="05" />
-      <h3>Scale</h3>
-      <p>Optimize performance, expand AI capabilities, and accelerate growth via data telemetry.</p>
-    </td>
-  </tr>
-</table>
-
----
-
-<!-- ==================== COMPLETE TECH ARSENAL (BENTO MATRIX) ==================== -->
-<div align="center">
-  <img src="https://img.icons8.com/3d-fluency/94/source-code.png" width="58" alt="Tech Arsenal" />
-  <h1>Complete Tech Arsenal</h1>
-  <p><b>A full-spectrum engineering stack spanning modern UI frameworks, distributed backends, database engines, frontier AI, cloud DevOps, and 3D/creative production.</b></p>
-
-  <p align="center">
-    <img src="https://img.shields.io/badge/OpenAI%20%26%20LLM%20APIs-9745F5?style=flat-square&logo=openai&logoColor=white&labelColor=111111" alt="OpenAI" />
-    <img src="https://img.shields.io/badge/LangChain%20%26%20RAG-7F00FF?style=flat-square&logo=chainlink&logoColor=white&labelColor=111111" alt="LangChain" />
-    <img src="https://img.shields.io/badge/Autonomous%20Agents-00D9FF?style=flat-square&logo=probot&logoColor=white&labelColor=111111" alt="Agents" />
-    <img src="https://img.shields.io/badge/Vector%20Databases-E100FF?style=flat-square&logo=databricks&logoColor=white&labelColor=111111" alt="Vector DBs" />
-    <img src="https://img.shields.io/badge/Microservices%20%26%20REST%2FGraphQL-9745F5?style=flat-square&logo=graphql&logoColor=white&labelColor=111111" alt="Microservices" />
-    <img src="https://img.shields.io/badge/WebSockets%20%26%20Real--Time-00D9FF?style=flat-square&logo=socketdotio&logoColor=white&labelColor=111111" alt="WebSockets" />
-    <img src="https://img.shields.io/badge/CI%2FCD%20%26%20Cloud%20Native-302B63?style=flat-square&logo=docker&logoColor=white&labelColor=111111" alt="Cloud Native" />
-  </p>
-</div>
-
-<br />
-
-<table>
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <h3><img src="https://img.icons8.com/nolan/96/code.png" width="30" align="absmiddle" alt="Frontend" /> Frontend & Interactive UI Architecture</h3>
-      <p>Component-driven SPAs, SSR/ISR web applications, design systems, state management, and WebGL/3D browser experiences.</p>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,nuxtjs,angular,solidjs,redux,tailwind,sass,bootstrap,html,css,threejs,vite&theme=dark&perline=8" alt="Frontend Stack" />
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/SSR%20%26%20ISR-9745F5?style=flat-square&labelColor=111111" alt="SSR" />
-        <img src="https://img.shields.io/badge/Design%20Systems-00D9FF?style=flat-square&labelColor=111111" alt="Design Systems" />
-        <img src="https://img.shields.io/badge/WebGL%20%26%20Motion-E100FF?style=flat-square&labelColor=111111" alt="WebGL" />
-      </p>
-    </td>
-    <td align="center" valign="top" width="50%">
-      <h3><img src="https://img.icons8.com/nolan/96/api-settings.png" width="30" align="absmiddle" alt="Backend" /> Backend Core, APIs & Distributed Systems</h3>
-      <p>High-concurrency servers, modular monoliths & microservices, REST/GraphQL gateways, message brokers, and enterprise auth.</p>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,php,laravel,python,fastapi,django,cs,dotnet,go,graphql,apollo,prisma,rabbitmq,nginx&theme=dark&perline=8" alt="Backend Stack" />
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/REST%20%26%20GraphQL-7F00FF?style=flat-square&labelColor=111111" alt="APIs" />
-        <img src="https://img.shields.io/badge/Event--Driven-00D9FF?style=flat-square&labelColor=111111" alt="Event Driven" />
-        <img src="https://img.shields.io/badge/High%20Throughput-9745F5?style=flat-square&labelColor=111111" alt="High Throughput" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <h3><img src="https://img.icons8.com/nolan/96/database.png" width="30" align="absmiddle" alt="Databases" /> Data Engineering, Caching & Search</h3>
-      <p>Relational schema design, NoSQL document stores, sub-millisecond Redis caching, real-time sync, and full-text search engines.</p>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,supabase,firebase,elasticsearch,dynamodb,cassandra&theme=dark&perline=5" alt="Database Stack" />
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/SQL%20%26%20NoSQL-00D9FF?style=flat-square&labelColor=111111" alt="SQL NoSQL" />
-        <img src="https://img.shields.io/badge/Redis%20Caching-E100FF?style=flat-square&labelColor=111111" alt="Redis" />
-        <img src="https://img.shields.io/badge/Elastic%20Search-9745F5?style=flat-square&labelColor=111111" alt="Elastic" />
-      </p>
-    </td>
-    <td align="center" valign="top" width="50%">
-      <h3><img src="https://img.icons8.com/nolan/96/artificial-intelligence.png" width="30" align="absmiddle" alt="AI & ML" /> AI Engineering, ML & Computer Vision</h3>
-      <p>LLM integration, multi-agent systems, embeddings & RAG pipelines, deep learning models, computer vision, and data automation.</p>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,anaconda,bots,py,r&theme=dark&perline=4" alt="AI Stack" />
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/LLM%20%26%20RAG-9745F5?style=flat-square&labelColor=111111" alt="LLM RAG" />
-        <img src="https://img.shields.io/badge/AI%20Agents-7F00FF?style=flat-square&labelColor=111111" alt="Agents" />
-        <img src="https://img.shields.io/badge/Computer%20Vision-00D9FF?style=flat-square&labelColor=111111" alt="Vision" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <h3><img src="https://img.icons8.com/nolan/96/cloud.png" width="30" align="absmiddle" alt="DevOps" /> Cloud Infrastructure, DevOps & Security</h3>
-      <p>Containerized deployments, NVMe/LiteSpeed Linux server management, automated CI/CD pipelines, Cloudflare WAF, and IaC.</p>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,ubuntu,bash,powershell,aws,gcp,azure,cloudflare,vercel,netlify,githubactions,gitlab,jenkins,terraform&theme=dark&perline=8" alt="DevOps Stack" />
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Docker%20%26%20K8s-00D9FF?style=flat-square&labelColor=111111" alt="Docker" />
-        <img src="https://img.shields.io/badge/CI%2FCD%20Pipelines-9745F5?style=flat-square&labelColor=111111" alt="CI/CD" />
-        <img src="https://img.shields.io/badge/Edge%20Security-E100FF?style=flat-square&labelColor=111111" alt="Security" />
-      </p>
-    </td>
-    <td align="center" valign="top" width="50%">
-      <h3><img src="https://img.icons8.com/nolan/96/design.png" width="30" align="absmiddle" alt="Creative" /> Cross-Platform, 3D Engine & Creative Studio</h3>
-      <p>Cross-platform mobile & desktop apps, real-time 3D engines, UI/UX design systems, motion graphics, and visual production.</p>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=flutter,electron,unity,unreal,blender,figma,ps,ai,ae,pr,au,autocad,wordpress,webflow&theme=dark&perline=7" alt="Creative Stack" />
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Mobile%20%26%20Desktop-E100FF?style=flat-square&labelColor=111111" alt="Cross Platform" />
-        <img src="https://img.shields.io/badge/3D%20%26%20Game%20Engines-7F00FF?style=flat-square&labelColor=111111" alt="3D" />
-        <img src="https://img.shields.io/badge/UI%2FUX%20%26%20Motion-00D9FF?style=flat-square&labelColor=111111" alt="UI UX" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" valign="middle">
-      <h3><img src="https://img.icons8.com/nolan/96/console.png" width="28" align="absmiddle" alt="Workstation" /> Daily Workstation, IDEs & Engineering Environment</h3>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,webstorm,pycharm,postman,insomnia,git,github,notion,discord,obsidian&theme=dark&perline=12" alt="Workstation Tools" />
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-<!-- ==================== WHAT I BUILD ==================== -->
-<div align="center">
-  <img src="https://img.icons8.com/3d-fluency/94/layers.png" width="58" alt="Solutions" />
-  <h1>Systems & Products I Architect</h1>
-  <p><b>High-leverage software solutions engineered for startups, enterprises, and digital brands.</b></p>
-</div>
-
-<br />
-
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      <img src="https://img.icons8.com/3d-fluency/94/brain.png" width="46" alt="AI Web Apps" />
-      <h3>AI-Native Web Platforms</h3>
-      <p>Custom AI SaaS products, intelligent operator panels, RAG-powered knowledge bases, automated content engines, and multi-model workspaces.</p>
-    </td>
-    <td valign="top" width="33%">
-      <img src="https://img.icons8.com/3d-fluency/94/company.png" width="46" alt="Business Platforms" />
-      <h3>Enterprise & E-Commerce Portals</h3>
-      <p>High-conversion online stores, bespoke CRM/ERP systems, multi-tenant admin dashboards, custom CMS platforms, and technical SEO architectures.</p>
-    </td>
-    <td valign="top" width="33%">
-      <img src="https://img.icons8.com/3d-fluency/94/api-settings.png" width="46" alt="API Systems" />
-      <h3>High-Throughput APIs & Gateways</h3>
-      <p>Scalable REST & GraphQL backends, sub-3-second OTP/SMS telecom gateways, payment integrations, SSO auth flows, and tuned database clusters.</p>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="33%">
-      <img src="https://img.icons8.com/3d-fluency/94/gear.png" width="46" alt="Automation" />
-      <h3>Autonomous Bots & Pipelines</h3>
-      <p>Advanced Telegram/Discord bots, distributed background workers, ETL data pipelines, real-time alerting systems, and workflow automation.</p>
-    </td>
-    <td valign="top" width="33%">
-      <img src="https://img.icons8.com/3d-fluency/94/design.png" width="46" alt="Interactive Web" />
-      <h3>Interactive Web, 3D & Media</h3>
-      <p>Flagship brand websites, high-converting landing pages, fluid motion UI, WebGL/Three.js 3D experiences, and growth media campaigns.</p>
-    </td>
-    <td valign="top" width="33%">
-      <img src="https://img.icons8.com/3d-fluency/94/server.png" width="46" alt="Production Systems" />
-      <h3>Cloud & Managed Infrastructure</h3>
-      <p>NVMe Gen4 & LiteSpeed server setups, Dockerized microservices, Nginx reverse proxies, Cloudflare WAF hardening, and CI/CD pipelines.</p>
+      <img src="https://img.icons8.com/3d-fluency/94/clapperboard.png" width="38" alt="MEDIA khooneh" />
+      <h4>MEDIA khooneh</h4>
+      <sub>Motion Graphics & Growth Media</sub>
     </td>
   </tr>
 </table>
@@ -514,107 +128,86 @@ class ArianPashae {
 <!-- ==================== UPSTREAM OPEN-SOURCE CONTRIBUTIONS ==================== -->
 <div align="center">
   <img src="https://img.shields.io/badge/UPSTREAM-Open--Source%20Contributions-9745F5?style=for-the-badge&logo=git&logoColor=white&labelColor=111111" alt="Open-Source Contributions" />
-  <h1>Verified Upstream Contributions</h1>
-  <p><b>Upstream contributor & systems engineer with merged pull requests and active low-level C/C++, Rust, Go, and TypeScript fixes across major open-source ecosystems.</b></p>
+  <h2>Verified Upstream Contributions</h2>
+  <p><b>Merged pull requests and active C/C++, Rust, Go, and TypeScript bug fixes across global open-source software.</b></p>
 </div>
-
-<br />
 
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h3>🦀&nbsp;<a href="https://github.com/storytold/photocraft" target="_blank">Photocraft (GPU Image Editor)</a></h3>
-      <p>Upstream contributor to the GPU-accelerated raster graphics editor. Hardened repository hygiene and build environments by resolving stray test/lint log artifacts and enforcing root ignore policies (Issue <a href="https://github.com/storytold/photocraft/issues/1154" target="_blank">#1154</a>). Reviewed and merged upstream into main.</p>
-      <p>
-        <a href="https://github.com/storytold/photocraft/pull/1155" target="_blank"><img src="https://img.shields.io/badge/PR%20%231155-MERGED-success?style=flat-square&logo=github&labelColor=111111" alt="PR #1155 Merged" /></a>
-        <img src="https://img.shields.io/github/stars/storytold/photocraft?style=flat-square&label=STARS&color=FFB800&logo=github&labelColor=111111" alt="Photocraft Stars" />
-        <img src="https://img.shields.io/badge/STACK-Rust%20%E2%80%A2%20WGPU%20%E2%80%A2%20Graphics-E100FF?style=flat-square&labelColor=111111" alt="Stack" />
-      </p>
+      <h4>🦀&nbsp;<a href="https://github.com/storytold/photocraft" target="_blank">Photocraft (GPU Image Editor)</a></h4>
+      <p>Hardened repository hygiene and build environments by removing stray test/lint log artifacts and enforcing root ignore rules (Issue <a href="https://github.com/storytold/photocraft/issues/1154" target="_blank">#1154</a>).</p>
+      <a href="https://github.com/storytold/photocraft/pull/1155" target="_blank"><img src="https://img.shields.io/badge/PR%20%231155-MERGED-success?style=flat-square&logo=github&labelColor=111111" alt="PR #1155 Merged" /></a>
+      <img src="https://img.shields.io/github/stars/storytold/photocraft?style=flat-square&label=STARS&color=FFB800&logo=github&labelColor=111111" alt="Photocraft Stars" />
+      <img src="https://img.shields.io/badge/Rust%20%E2%80%A2%20WGPU-E100FF?style=flat-square&labelColor=111111" alt="Stack" />
     </td>
     <td valign="top" width="50%">
-      <h3>🧠&nbsp;<a href="https://github.com/morluto/rea" target="_blank">Rea (Agentic Reverse Engineering)</a></h3>
-      <p>Upstream contributor to the agentic binary reverse engineering framework. Patched cross-platform installer execution under <code>set -u</code> on macOS Bash 3.2 environments, eliminating unbound variable aborts. Reviewed and merged upstream into main.</p>
-      <p>
-        <a href="https://github.com/morluto/rea/pull/1061" target="_blank"><img src="https://img.shields.io/badge/PR%20%231061-MERGED-success?style=flat-square&logo=github&labelColor=111111" alt="PR #1061 Merged" /></a>
-        <img src="https://img.shields.io/github/stars/morluto/rea?style=flat-square&label=STARS&color=FFB800&logo=github&labelColor=111111" alt="Rea Stars" />
-        <img src="https://img.shields.io/badge/STACK-Python%20%E2%80%A2%20Reverse%20Eng%20%E2%80%A2%20Agents-7F00FF?style=flat-square&labelColor=111111" alt="Stack" />
-      </p>
+      <h4>🧠&nbsp;<a href="https://github.com/morluto/rea" target="_blank">Rea (Agentic Reverse Engineering)</a></h4>
+      <p>Patched cross-platform installer execution under <code>set -u</code> on macOS Bash 3.2 environments, eliminating unbound variable aborts.</p>
+      <a href="https://github.com/morluto/rea/pull/1061" target="_blank"><img src="https://img.shields.io/badge/PR%20%231061-MERGED-success?style=flat-square&logo=github&labelColor=111111" alt="PR #1061 Merged" /></a>
+      <img src="https://img.shields.io/github/stars/morluto/rea?style=flat-square&label=STARS&color=FFB800&logo=github&labelColor=111111" alt="Rea Stars" />
+      <img src="https://img.shields.io/badge/Python%20%E2%80%A2%20Agents-7F00FF?style=flat-square&labelColor=111111" alt="Stack" />
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <h3>⚡&nbsp;<a href="https://github.com/v2rayA/v2rayA" target="_blank">v2rayA (Universal Linux Routing Engine)</a></h3>
-      <p>Upstream contributor to the universal Linux network proxy GUI. Diagnosed and eliminated critical SQLite foreign key constraint failures (<code>SQLITE_CONSTRAINT_FOREIGNKEY</code> code 787) during batch proxy node deletions (Issue <a href="https://github.com/v2rayA/v2rayA/issues/2065" target="_blank">#2065</a>) by safely dropping obsolete legacy schema tables post-migration.</p>
-      <p>
-        <a href="https://github.com/v2rayA/v2rayA/pull/2080" target="_blank"><img src="https://img.shields.io/badge/PR%20%232080-MERGED-success?style=flat-square&logo=github&labelColor=111111" alt="PR #2080 Merged" /></a>
-        <img src="https://img.shields.io/github/stars/v2rayA/v2rayA?style=flat-square&label=STARS&color=FFB800&logo=github&labelColor=111111" alt="v2rayA Stars" />
-        <img src="https://img.shields.io/badge/STACK-Go%20%E2%80%A2%20SQLite%20%E2%80%A2%20Vue-9745F5?style=flat-square&labelColor=111111" alt="Stack" />
-      </p>
+      <h4>⚡&nbsp;<a href="https://github.com/v2rayA/v2rayA" target="_blank">v2rayA (Universal Linux Routing Engine)</a></h4>
+      <p>Eliminated critical <code>SQLITE_CONSTRAINT_FOREIGNKEY</code> (787) failures during batch proxy node deletions (Issue <a href="https://github.com/v2rayA/v2rayA/issues/2065" target="_blank">#2065</a>) by safely dropping obsolete legacy schema tables.</p>
+      <a href="https://github.com/v2rayA/v2rayA/pull/2080" target="_blank"><img src="https://img.shields.io/badge/PR%20%232080-MERGED-success?style=flat-square&logo=github&labelColor=111111" alt="PR #2080 Merged" /></a>
+      <img src="https://img.shields.io/github/stars/v2rayA/v2rayA?style=flat-square&label=STARS&color=FFB800&logo=github&labelColor=111111" alt="v2rayA Stars" />
+      <img src="https://img.shields.io/badge/Go%20%E2%80%A2%20SQLite-9745F5?style=flat-square&labelColor=111111" alt="Stack" />
     </td>
     <td valign="top" width="50%">
-      <h3>🪶&nbsp;<a href="https://github.com/SalamLang/Salam" target="_blank">Salam Programming Language (Compiler & Runtime)</a></h3>
-      <p>Authored <b>11 merged C runtime & standard library fixes</b> addressing memory safety and parser termination — including self-extension use-after-free (<a href="https://github.com/SalamLang/Salam/pull/3646" target="_blank">#3646</a>), out-of-bounds heap read clamping (<a href="https://github.com/SalamLang/Salam/pull/3048" target="_blank">#3048</a>), JSON/filepath memory leaks (<a href="https://github.com/SalamLang/Salam/pull/3039" target="_blank">#3039</a>, <a href="https://github.com/SalamLang/Salam/pull/3054" target="_blank">#3054</a>), and parser loop progress (<a href="https://github.com/SalamLang/Salam/pull/3042" target="_blank">#3042</a>).</p>
-      <p>
-        <a href="https://github.com/SalamLang/Salam/pulls?q=is%3Apr+author%3AArianPashae+is%3Amerged" target="_blank"><img src="https://img.shields.io/badge/11%20PRs-MERGED-success?style=flat-square&logo=github&labelColor=111111" alt="11 Merged PRs" /></a>
-        <img src="https://img.shields.io/github/stars/SalamLang/Salam?style=flat-square&label=STARS&color=FFB800&logo=github&labelColor=111111" alt="Salam Stars" />
-        <img src="https://img.shields.io/badge/STACK-C%20%E2%80%A2%20Compiler%20%E2%80%A2%20Memory%20Safety-00D9FF?style=flat-square&labelColor=111111" alt="Stack" />
-      </p>
+      <h4>🪶&nbsp;<a href="https://github.com/SalamLang/Salam" target="_blank">Salam Programming Language</a></h4>
+      <p>Authored <b>11 merged C runtime & stdlib fixes</b> covering self-extension UAF (<a href="https://github.com/SalamLang/Salam/pull/3646" target="_blank">#3646</a>), heap read clamping (<a href="https://github.com/SalamLang/Salam/pull/3048" target="_blank">#3048</a>), memory leaks (<a href="https://github.com/SalamLang/Salam/pull/3039" target="_blank">#3039</a>, <a href="https://github.com/SalamLang/Salam/pull/3054" target="_blank">#3054</a>), and parser guarantees (<a href="https://github.com/SalamLang/Salam/pull/3042" target="_blank">#3042</a>).</p>
+      <a href="https://github.com/SalamLang/Salam/pulls?q=is%3Apr+author%3AArianPashae+is%3Amerged" target="_blank"><img src="https://img.shields.io/badge/11%20PRs-MERGED-success?style=flat-square&logo=github&labelColor=111111" alt="11 Merged PRs" /></a>
+      <img src="https://img.shields.io/github/stars/SalamLang/Salam?style=flat-square&label=STARS&color=FFB800&logo=github&labelColor=111111" alt="Salam Stars" />
+      <img src="https://img.shields.io/badge/C%20%E2%80%A2%20Compiler-00D9FF?style=flat-square&labelColor=111111" alt="Stack" />
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <h3>🤖&nbsp;<a href="https://github.com/aiblueprinthq/ai-blueprint" target="_blank">AI Blueprint (by Brad Traversy)</a></h3>
-      <p>Hardened CLI dashboard resilience against Git worktree/index race crashes (Issue <a href="https://github.com/aiblueprinthq/ai-blueprint/issues/33" target="_blank">#33</a>). Designed porcelain error guards and regression test suites across 58 test cases. Reviewed, approved, and merged upstream by maintainer Brad Traversy.</p>
-      <p>
-        <a href="https://github.com/aiblueprinthq/ai-blueprint/pull/34" target="_blank"><img src="https://img.shields.io/badge/PR%20%2334-MERGED-success?style=flat-square&logo=github&labelColor=111111" alt="PR #34 Merged" /></a>
-        <img src="https://img.shields.io/badge/ROLE-Official%20Contributor-00D9FF?style=flat-square&logo=git&labelColor=111111" alt="Official Contributor" />
-        <img src="https://img.shields.io/badge/STACK-TypeScript%20%E2%80%A2%20CLI%20%E2%80%A2%20Git-E100FF?style=flat-square&labelColor=111111" alt="Stack" />
-      </p>
+      <h4>🤖&nbsp;<a href="https://github.com/aiblueprinthq/ai-blueprint" target="_blank">AI Blueprint (by Brad Traversy)</a></h4>
+      <p>Hardened CLI dashboard against Git worktree/index race crashes (Issue <a href="https://github.com/aiblueprinthq/ai-blueprint/issues/33" target="_blank">#33</a>) with porcelain error guards across 58 tests.</p>
+      <a href="https://github.com/aiblueprinthq/ai-blueprint/pull/34" target="_blank"><img src="https://img.shields.io/badge/PR%20%2334-MERGED-success?style=flat-square&logo=github&labelColor=111111" alt="PR #34 Merged" /></a>
+      <img src="https://img.shields.io/badge/TypeScript%20%E2%80%A2%20CLI-E100FF?style=flat-square&labelColor=111111" alt="Stack" />
     </td>
     <td valign="top" width="50%">
-      <h3>🗺️&nbsp;<a href="https://github.com/salehghari/ganjineh-street" target="_blank">Ganjineh Street — Web Platform</a></h3>
-      <p>Official collaborator & core maintainer for the gamified treasure-hunt platform (<b>ganjinehstreet.ir</b>). Fixed Next.js 15 client dynamic routing bugs, hint timer closure leaks, and improved hydration stability (PR <a href="https://github.com/salehghari/ganjineh-street/pull/2" target="_blank">#2</a>).</p>
-      <p>
-        <a href="https://github.com/salehghari/ganjineh-street/pull/2" target="_blank"><img src="https://img.shields.io/badge/PR%20%232-MERGED-success?style=flat-square&logo=github&labelColor=111111" alt="PR #2 Merged" /></a>
-        <img src="https://img.shields.io/badge/ROLE-Collaborator-00D9FF?style=flat-square&logo=git&labelColor=111111" alt="Collaborator" />
-        <img src="https://img.shields.io/badge/STACK-Next.js%2015%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Redux-9745F5?style=flat-square&labelColor=111111" alt="Stack" />
-      </p>
+      <h4>🗺️&nbsp;<a href="https://github.com/salehghari/ganjineh-street" target="_blank">Ganjineh Street — Web Platform</a></h4>
+      <p>Core collaborator for <b>ganjinehstreet.ir</b>. Fixed Next.js 15 dynamic routing bugs, hint timer closure leaks, and hydration stability.</p>
+      <a href="https://github.com/salehghari/ganjineh-street/pull/2" target="_blank"><img src="https://img.shields.io/badge/PR%20%232-MERGED-success?style=flat-square&logo=github&labelColor=111111" alt="PR #2 Merged" /></a>
+      <img src="https://img.shields.io/badge/Next.js%2015%20%E2%80%A2%20TS-9745F5?style=flat-square&labelColor=111111" alt="Stack" />
     </td>
   </tr>
 </table>
 
-<br />
-
 <div align="center">
-  <h3>⚙️ Active Systems & Core Infrastructure PRs (Live Upstream Status)</h3>
+  <h4>⚙️ Active Systems & Core Infrastructure PRs (Live Status)</h4>
 </div>
 
 <table>
   <tr>
     <td valign="top" width="33%">
       <h4>🗄️&nbsp;<a href="https://github.com/redis/redis" target="_blank">Redis</a></h4>
-      <p>Fixed lazy parsing omission in <code>RedisModule_CallReplyAttribute()</code> returning <code>NULL</code> on unparsed RESP3 replies, type-check mismatch in attribute elements, and module context inheritance.</p>
-      <p>
-        <a href="https://github.com/redis/redis/pull/16368" target="_blank"><img src="https://img.shields.io/github/pulls/detail/state/redis/redis/16368?style=flat-square&label=PR%20%2316368&labelColor=111111" alt="Redis PR #16368" /></a>
-        <img src="https://img.shields.io/github/stars/redis/redis?style=flat-square&label=STARS&color=FFB800&labelColor=111111" alt="Redis Stars" />
-      </p>
+      <sub>Fixed lazy parsing omission in <code>RedisModule_CallReplyAttribute()</code>, type mismatch in attribute elements, and context inheritance.</sub>
+      <br /><br />
+      <a href="https://github.com/redis/redis/pull/16368" target="_blank"><img src="https://img.shields.io/github/pulls/detail/state/redis/redis/16368?style=flat-square&label=PR%20%2316368&labelColor=111111" alt="Redis PR #16368" /></a>
+      <img src="https://img.shields.io/github/stars/redis/redis?style=flat-square&label=STARS&color=FFB800&labelColor=111111" alt="Redis Stars" />
     </td>
     <td valign="top" width="33%">
       <h4>⚡&nbsp;<a href="https://github.com/valkey-io/valkey" target="_blank">Valkey</a></h4>
-      <p>Guarded premature IO-thread replication stream writes before replica ACK (<a href="https://github.com/valkey-io/valkey/pull/5509" target="_blank">#5509</a>) and prevented post-rename dirsync errors from unlinking active AOF files (<a href="https://github.com/valkey-io/valkey/pull/5590" target="_blank">#5590</a>).</p>
-      <p>
-        <a href="https://github.com/valkey-io/valkey/pull/5509" target="_blank"><img src="https://img.shields.io/github/pulls/detail/state/valkey-io/valkey/5509?style=flat-square&label=PR%20%235509&labelColor=111111" alt="Valkey PR #5509" /></a>
-        <a href="https://github.com/valkey-io/valkey/pull/5590" target="_blank"><img src="https://img.shields.io/github/pulls/detail/state/valkey-io/valkey/5590?style=flat-square&label=PR%20%235590&labelColor=111111" alt="Valkey PR #5590" /></a>
-        <img src="https://img.shields.io/github/stars/valkey-io/valkey?style=flat-square&label=STARS&color=FFB800&labelColor=111111" alt="Valkey Stars" />
-      </p>
+      <sub>Guarded early IO-thread replication writes before ACK (<a href="https://github.com/valkey-io/valkey/pull/5509" target="_blank">#5509</a>) & protected AOF files on post-rename dirsync failures (<a href="https://github.com/valkey-io/valkey/pull/5590" target="_blank">#5590</a>).</sub>
+      <br /><br />
+      <a href="https://github.com/valkey-io/valkey/pull/5509" target="_blank"><img src="https://img.shields.io/github/pulls/detail/state/valkey-io/valkey/5509?style=flat-square&label=PR%20%235509&labelColor=111111" alt="Valkey PR #5509" /></a>
+      <a href="https://github.com/valkey-io/valkey/pull/5590" target="_blank"><img src="https://img.shields.io/github/pulls/detail/state/valkey-io/valkey/5590?style=flat-square&label=PR%20%235590&labelColor=111111" alt="Valkey PR #5590" /></a>
+      <img src="https://img.shields.io/github/stars/valkey-io/valkey?style=flat-square&label=STARS&color=FFB800&labelColor=111111" alt="Valkey Stars" />
     </td>
     <td valign="top" width="33%">
       <h4>🌐&nbsp;<a href="https://github.com/curl/curl" target="_blank">cURL</a></h4>
-      <p>Fixed Windows <code>--cert</code> parameter parser stripping leading UNC backslashes (<code>\\server\share</code>) and extended device prefixes (<code>\\?\c:\</code>) with unit regression coverage.</p>
-      <p>
-        <a href="https://github.com/curl/curl/pull/24147" target="_blank"><img src="https://img.shields.io/github/pulls/detail/state/curl/curl/24147?style=flat-square&label=PR%20%2324147&labelColor=111111" alt="cURL PR #24147" /></a>
-        <img src="https://img.shields.io/github/stars/curl/curl?style=flat-square&label=STARS&color=FFB800&labelColor=111111" alt="cURL Stars" />
-      </p>
+      <sub>Fixed Windows <code>--cert</code> parser stripping leading UNC backslashes (<code>\\server\share</code>) and extended device paths (<code>\\?\c:\</code>).</sub>
+      <br /><br />
+      <a href="https://github.com/curl/curl/pull/24147" target="_blank"><img src="https://img.shields.io/github/pulls/detail/state/curl/curl/24147?style=flat-square&label=PR%20%2324147&labelColor=111111" alt="cURL PR #24147" /></a>
+      <img src="https://img.shields.io/github/stars/curl/curl?style=flat-square&label=STARS&color=FFB800&labelColor=111111" alt="cURL Stars" />
     </td>
   </tr>
 </table>
@@ -623,43 +216,56 @@ class ArianPashae {
 
 <!-- ==================== FEATURED PERSONAL PROJECTS ==================== -->
 <div align="center">
-  <img src="https://img.icons8.com/3d-fluency/94/rocket.png" width="58" alt="Personal Projects" />
-  <h1>Featured Open-Source Projects</h1>
-  <p><b>Selected public tools, mini-apps, and developer themes maintained under my personal GitHub workspace.</b></p>
+  <img src="https://img.icons8.com/3d-fluency/94/rocket.png" width="50" alt="Personal Projects" />
+  <h2>Featured Personal Projects</h2>
 </div>
-
-<br />
 
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h3>📅&nbsp;<a href="https://github.com/ArianPashae/AzadWeekBot" target="_blank">AzadWeekBot — Academic Calendar Bot & Mini App</a></h3>
-      <p>Smart Telegram Bot and native WebApp / PWA engineered for Islamic Azad University students to track Odd & Even academic weeks in real time.</p>
-      <p>
-        <a href="https://github.com/ArianPashae/AzadWeekBot" target="_blank"><img src="https://img.shields.io/github/stars/ArianPashae/AzadWeekBot?style=flat-square&label=STARS&color=9745F5&logo=github&labelColor=111111" alt="AzadWeekBot Stars" /></a>
-        <img src="https://img.shields.io/badge/Telegram%20Bot%20%26%20PWA-00D9FF?style=flat-square&labelColor=111111" alt="Telegram Mini App" />
-      </p>
+      <h4>📅&nbsp;<a href="https://github.com/ArianPashae/AzadWeekBot" target="_blank">AzadWeekBot — Academic Calendar Bot & Mini App</a></h4>
+      <sub>Smart Telegram Bot and native WebApp / PWA engineered for Islamic Azad University students to track Odd & Even academic weeks.</sub>
+      <br /><br />
+      <a href="https://github.com/ArianPashae/AzadWeekBot" target="_blank"><img src="https://img.shields.io/github/stars/ArianPashae/AzadWeekBot?style=flat-square&label=STARS&color=9745F5&logo=github&labelColor=111111" alt="AzadWeekBot Stars" /></a>
+      <img src="https://img.shields.io/badge/Telegram%20Bot%20%26%20PWA-00D9FF?style=flat-square&labelColor=111111" alt="Telegram Mini App" />
     </td>
     <td valign="top" width="50%">
-      <h3>🎨&nbsp;<a href="https://github.com/ArianPashae/ArianPashae-Discord-Theme" target="_blank">ArianPashae Discord Theme</a></h3>
-      <p>Sleek, high-contrast Obsidian & Cyber-Violet theme tailored for Vencord, BetterDiscord, and Vesktop clients with refined token styling.</p>
-      <p>
-        <a href="https://github.com/ArianPashae/ArianPashae-Discord-Theme" target="_blank"><img src="https://img.shields.io/github/stars/ArianPashae/ArianPashae-Discord-Theme?style=flat-square&label=STARS&color=E100FF&logo=github&labelColor=111111" alt="Discord Theme Stars" /></a>
-        <img src="https://img.shields.io/badge/Obsidian%20%26%20Cyber--Violet-7F00FF?style=flat-square&labelColor=111111" alt="Cyber Violet" />
-      </p>
+      <h4>🎨&nbsp;<a href="https://github.com/ArianPashae/ArianPashae-Discord-Theme" target="_blank">ArianPashae Discord Theme</a></h4>
+      <sub>Sleek Obsidian & Cyber-Violet theme tailored for Vencord, BetterDiscord, and Vesktop clients with refined contrast and token styling.</sub>
+      <br /><br />
+      <a href="https://github.com/ArianPashae/ArianPashae-Discord-Theme" target="_blank"><img src="https://img.shields.io/github/stars/ArianPashae/ArianPashae-Discord-Theme?style=flat-square&label=STARS&color=E100FF&logo=github&labelColor=111111" alt="Discord Theme Stars" /></a>
+      <img src="https://img.shields.io/badge/Obsidian%20%26%20Cyber--Violet-7F00FF?style=flat-square&labelColor=111111" alt="Cyber Violet" />
     </td>
   </tr>
 </table>
 
 ---
 
+<!-- ==================== TECH ARSENAL ==================== -->
+<div align="center">
+  <img src="https://img.icons8.com/3d-fluency/94/source-code.png" width="50" alt="Tech Arsenal" />
+  <h2>Core Tech Arsenal</h2>
+
+  <p><b>Frontend & Interactive UI</b></p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,nuxtjs,angular,solidjs,redux,tailwind,sass,threejs,vite&theme=dark&perline=13" alt="Frontend Stack" />
+
+  <br /><br />
+
+  <p><b>Backend, Systems, Data & AI</b></p>
+  <img src="https://skillicons.dev/icons?i=c,go,rust,nodejs,nestjs,express,php,laravel,python,fastapi,django,dotnet,graphql,prisma,postgres,mysql,mongodb,redis,pytorch,tensorflow,opencv&theme=dark&perline=11" alt="Backend Data AI Stack" />
+
+  <br /><br />
+
+  <p><b>Cloud Infra, DevOps, 3D & Workstation</b></p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,bash,aws,gcp,cloudflare,vercel,nginx,githubactions,git,flutter,electron,unity,blender,figma,vscode&theme=dark&perline=17" alt="DevOps Creative Stack" />
+</div>
+
+---
+
 <!-- ==================== GITHUB COMMAND CENTER ==================== -->
 <div align="center">
-  <img src="https://img.icons8.com/3d-fluency/94/combo-chart.png" width="58" alt="Analytics" />
-  <h1>GitHub Command Center</h1>
-  <p><b>Live repository telemetry, contribution velocity, and language distribution.</b></p>
-
-  <br />
+  <img src="https://img.icons8.com/3d-fluency/94/combo-chart.png" width="50" alt="Analytics" />
+  <h2>GitHub Command Center</h2>
 
   <table>
     <tr>
@@ -680,8 +286,6 @@ class ArianPashae {
     </tr>
   </table>
 
-  <br />
-
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArianPashae&theme=midnight_purple" width="100%" alt="Contribution Signal & Profile Details" />
 </div>
 
@@ -699,8 +303,8 @@ class ArianPashae {
 
 <!-- ==================== CONTRIBUTION STREAM ==================== -->
 <div align="center">
-  <img src="https://img.icons8.com/3d-fluency/94/snake.png" width="58" alt="Contribution Stream" />
-  <h1>Contribution Stream</h1>
+  <img src="https://img.icons8.com/3d-fluency/94/snake.png" width="50" alt="Contribution Stream" />
+  <h2>Contribution Stream</h2>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArianPashae/ArianPashae/output/github-contribution-grid-snake-dark.svg" />
@@ -711,13 +315,11 @@ class ArianPashae {
 
 ---
 
-<!-- ==================== CONNECT WITH ME ==================== -->
+<!-- ==================== CONNECT & SUPPORT ==================== -->
 <div align="center">
-  <img src="https://img.icons8.com/3d-fluency/94/globe.png" width="58" alt="Connect" />
-  <h1>Initiate Collaboration</h1>
-  <h3>Have an ambitious product, AI platform, or enterprise system in mind? Let’s architect and ship it.</h3>
-
-  <br />
+  <img src="https://img.icons8.com/3d-fluency/94/globe.png" width="50" alt="Connect" />
+  <h2>Initiate Collaboration</h2>
+  <p>Have an ambitious product, AI platform, or systems challenge in mind? Let's architect and ship it.</p>
 
   <p align="center">
     <a href="https://arianpashae.com" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-arianpashae.com-9745F5?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=111111" alt="Website" /></a>
@@ -734,25 +336,19 @@ class ArianPashae {
 
   <br />
 
-  <!-- ==================== SUPPORT & SPONSORSHIP ==================== -->
-  <img src="https://img.icons8.com/3d-fluency/94/cafe.png" width="52" alt="Buy Me a Coffee" />
-  <h2>Support My Open-Source Work</h2>
-  <p>If my open-source contributions, tools, or articles helped you, you can fuel the next engineering sprint with a coffee.</p>
+  <!-- ==================== SUPPORT ==================== -->
+  <p><b>Fuel open-source development with a coffee ☕</b></p>
   <p align="center">
-    <a href="https://www.coffeebede.com/arianpashae" target="_blank" rel="noopener"><img src="https://www.coffeebede.com/banner.svg?u=arianpashae&amp;bg=111111&amp;bd=9745F5&amp;bw=2&amp;fg=FFFFFF&amp;sub=00D9FF&amp;mbg=302B63&amp;mfg=FFFFFF&amp;showcta=0" width="468" height="100" alt="برام یه قهوه بخر — Coffeebede" /></a>
+    <a href="https://www.coffeebede.com/arianpashae" target="_blank" rel="noopener"><img src="https://www.coffeebede.com/banner.svg?u=arianpashae&amp;bg=111111&amp;bd=9745F5&amp;bw=2&amp;fg=FFFFFF&amp;sub=00D9FF&amp;mbg=302B63&amp;mfg=FFFFFF&amp;showcta=0" width="281" height="60" alt="برام یه قهوه بخر — Coffeebede" /></a>
   </p>
 
   <br />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=20&duration=2800&pause=900&color=9745F5&center=true&vCenter=true&width=900&lines=Build+smart.+Ship+fast.+Make+it+beautiful.;Code+is+the+engine.+AI+is+the+accelerator.;Landkhooneh+Cloud+%26+Tech+Holding+%2F%2F+Arian+Pashae" width="100%" alt="Footer Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=19&duration=2800&pause=900&color=9745F5&center=true&vCenter=true&width=880&lines=Build+smart.+Ship+fast.+Make+it+beautiful.;Code+is+the+engine.+AI+is+the+accelerator.;Landkhooneh+Cloud+%26+Tech+Holding+%2F%2F+Arian+Pashae" width="100%" alt="Footer Typing" />
 
   <br />
-  <br />
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E100FF,35:7F00FF,65:302B63,100:020024&height=160&section=footer" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E100FF,35:7F00FF,65:302B63,100:020024&height=135&section=footer" width="100%" alt="Footer" />
 </div>
 
-
 <!-- Thanks for visiting! ✨ -->
-
-<!-- profile sync 1791543975091 -->
