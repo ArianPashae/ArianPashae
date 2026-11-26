@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ==================== HERO HEADER ==================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,30:302B63,60:7F00FF,100:E100FF&height=215&section=header&text=Arian%20Pashae&fontSize=64&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=Founder%20%40%20Landkhooneh%20Holding%20%E2%80%A2%20Full-Stack%20Architect%20%E2%80%A2%20AI%20%26%20Systems%20Engineer&descSize=16&descAlignY=57" width="100%" alt="Arian Pashae Header" />
+<img src="https://raw.githubusercontent.com/ArianPashae/ArianPashae/main/assets/header.svg" width="100%" alt="Arian Pashae Header" />
 
 <a href="https://arianpashae.com" target="_blank">
   <img src="https://arianpashae.com/fb611de45b88433d9f4dd604c90e9a2fc1be1843/2024/02/9bc27292880429.5e569ff84e4d0.gif" width="100%" alt="Arian Pashae Animated Banner" />
@@ -24,7 +24,7 @@
   <a href="https://gitstalk.netlify.app/ArianPashae/" target="_blank"><img src="https://img.shields.io/badge/RADAR-LIVE%20ACTIVITY-7F00FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=111111" alt="Live Activity" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="92%" alt="Neon Divider" />
+<img src="https://raw.githubusercontent.com/ArianPashae/ArianPashae/main/assets/divider.svg" width="92%" alt="Neon Divider" />
 
 </div>
 
@@ -348,7 +348,7 @@ class ArianPashae {
 
   <br />
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E100FF,35:7F00FF,65:302B63,100:020024&height=135&section=footer" width="100%" alt="Footer" />
+  <img src="https://raw.githubusercontent.com/ArianPashae/ArianPashae/main/assets/footer.svg" width="100%" alt="Footer" />
 </div>
 
 <!-- Thanks for visiting! ✨ -->
