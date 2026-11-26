@@ -1,5 +1,4 @@
-
-      <svg
+<svg
         width="854"
         height="215"
         xmlns="http://www.w3.org/2000/svg"
@@ -43,7 +42,7 @@
           </animate>
         </path>
       </g>
-         <text text-anchor="middle" dominant-baseline="middle" x="50%" y="35%" class="text" style="fill:#ffffff;" stroke="#none" stroke-width="1" >Arian Pashae</text>
-        <text text-anchor="middle" dominant-baseline="middle" x="50%" y="57%" class="desc" style="fill:#ffffff;">Founder @ Landkhooneh Holding • Full-Stack Architect • AI & Systems Engineer</text>
+         <text text-anchor="middle" dominant-baseline="middle" x="50%" y="35%" class="text" style="fill:#ffffff;" stroke="none" stroke-width="1" >Arian Pashae</text>
+        <text text-anchor="middle" dominant-baseline="middle" x="50%" y="57%" class="desc" style="fill:#ffffff;">Founder @ Landkhooneh Holding • Full-Stack Architect • AI &amp; Systems Engineer</text>
       </svg>
     
