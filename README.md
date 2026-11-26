@@ -739,7 +739,7 @@ class ArianPashae {
   <h2>Support My Open-Source Work</h2>
   <p>If my open-source contributions, tools, or articles helped you, you can fuel the next engineering sprint with a coffee.</p>
   <p align="center">
-    <a href="https://www.coffeebede.com/arianpashae" target="_blank"><img src="https://img.shields.io/badge/SUPPORT%20(IRAN)-Coffeebede%20%E2%98%95-FF813F?style=for-the-badge&logo=buymeacoffee&logoColor=white&labelColor=111111" alt="Buy Me a Coffee on Coffeebede (Iran)" /></a>
+    <a href="https://www.coffeebede.com/arianpashae" target="_blank" rel="noopener"><img src="https://www.coffeebede.com/banner.svg?u=arianpashae&amp;bg=111111&amp;bd=9745F5&amp;bw=2&amp;fg=FFFFFF&amp;sub=00D9FF&amp;mbg=302B63&amp;mfg=FFFFFF&amp;showcta=0" width="468" height="100" alt="برام یه قهوه بخر — Coffeebede" /></a>
   </p>
 
   <br />
