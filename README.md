@@ -41,7 +41,7 @@
 
 ```txt
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║  ARIAN PASHAE  //  CORE SYSTEM ONLINE [v2026.4]                              ║
+║  ARIAN PASHAE  //  CORE SYSTEM ONLINE [v2026.11]                             ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
 ║  IDENTITY     Full-Stack Software Architect x AI Product Builder             ║
 ║  HOLDING      Founder @ Landkhooneh Cloud Innovation & Tech Holding          ║
@@ -111,7 +111,7 @@ class ArianPashae {
       <img src="https://img.icons8.com/nolan/96/rocket.png" width="38" alt="Ecosystem" />
     </td>
     <td valign="middle" width="92%">
-      <b>Holding Leadership:</b> Founder of <a href="https://landkhooneh.com" target="_blank"><b>Landkhooneh Cloud Innovation & Tech Holding</b></a> — leading strategy and architecture across <b><a href="https://webkhooneh.com" target="_blank">WEB khooneh</a>, <a href="https://hostkhooneh.com" target="_blank">HOST khooneh</a>, <a href="https://smskhooneh.ir" target="_blank">SMS khooneh</a>, <a href="https://learnkhooneh.com" target="_blank">LEARN khooneh</a>, and <a href="https://mediakhooneh.com" target="_blank">MEDIA khooneh</a></b>.
+      <b>Holding Leadership:</b> Founder of <a href="https://landkhooneh.com" target="_blank"><b>Landkhooneh Cloud Innovation & Tech Holding</b></a> — leading strategy and architecture across <b><a href="https://webkhooneh.com" target="_blank">WEB khooneh</a>, HOST khooneh, <a href="https://smskhooneh.ir" target="_blank">SMS khooneh</a>, LEARN khooneh, and MEDIA khooneh</b>.
     </td>
   </tr>
   <tr>
@@ -189,9 +189,9 @@ class ArianPashae {
     </td>
     <td align="center" valign="top" width="20%">
       <img src="https://img.icons8.com/3d-fluency/94/server.png" width="48" alt="HOST khooneh" />
-      <h3><a href="https://hostkhooneh.com" target="_blank">HOST khooneh</a></h3>
+      <h3>HOST khooneh</h3>
       <p><b>Cloud & Hosting Infrastructure:</b> High-availability cloud hosting and dedicated servers powered by ultra-fast <b>NVMe Gen4</b> arrays, <b>LiteSpeed</b> web servers, and managed security.</p>
-      <a href="https://hostkhooneh.com" target="_blank"><img src="https://img.shields.io/badge/NVMe%20Gen4%20%26%20LiteSpeed-00D9FF?style=flat-square&labelColor=111111" alt="Hostkhooneh" /></a>
+      <img src="https://img.shields.io/badge/NVMe%20Gen4%20%26%20LiteSpeed-00D9FF?style=flat-square&labelColor=111111" alt="Hostkhooneh" />
     </td>
     <td align="center" valign="top" width="20%">
       <img src="https://img.icons8.com/3d-fluency/94/paper-plane.png" width="48" alt="SMS khooneh" />
@@ -201,15 +201,15 @@ class ArianPashae {
     </td>
     <td align="center" valign="top" width="20%">
       <img src="https://img.icons8.com/3d-fluency/94/graduation-cap.png" width="48" alt="LEARN khooneh" />
-      <h3><a href="https://learnkhooneh.com" target="_blank">LEARN khooneh</a></h3>
+      <h3>LEARN khooneh</h3>
       <p><b>Project-Based Tech Academy:</b> Specialized IT training center focused on hands-on, project-driven bootcamps and direct mentorship to launch job-ready engineers.</p>
-      <a href="https://learnkhooneh.com" target="_blank"><img src="https://img.shields.io/badge/IT%20ACADEMY%20%26%20MENTORSHIP-E100FF?style=flat-square&labelColor=111111" alt="Learnkhooneh" /></a>
+      <img src="https://img.shields.io/badge/IT%20ACADEMY%20%26%20MENTORSHIP-E100FF?style=flat-square&labelColor=111111" alt="Learnkhooneh" />
     </td>
     <td align="center" valign="top" width="20%">
       <img src="https://img.icons8.com/3d-fluency/94/clapperboard.png" width="48" alt="MEDIA khooneh" />
-      <h3><a href="https://mediakhooneh.com" target="_blank">MEDIA khooneh</a></h3>
+      <h3>MEDIA khooneh</h3>
       <p><b>Creative & Growth Studio:</b> Video production, motion graphics, dedicated Instagram management, content SEO, ad campaigns, and influencer marketing.</p>
-      <a href="https://mediakhooneh.com" target="_blank"><img src="https://img.shields.io/badge/MOTION%20%26%20GROWTH%20MEDIA-302B63?style=flat-square&labelColor=111111" alt="Mediakhooneh" /></a>
+      <img src="https://img.shields.io/badge/MOTION%20%26%20GROWTH%20MEDIA-302B63?style=flat-square&labelColor=111111" alt="Mediakhooneh" />
     </td>
   </tr>
 </table>
@@ -515,7 +515,7 @@ class ArianPashae {
 <div align="center">
   <img src="https://img.shields.io/badge/UPSTREAM-Open--Source%20Contributions-9745F5?style=for-the-badge&logo=git&logoColor=white&labelColor=111111" alt="Open-Source Contributions" />
   <h1>Verified Upstream Contributions</h1>
-  <p><b>Official contributor & upstream engineer with merged production pull requests in global software ecosystems.</b></p>
+  <p><b>Upstream contributor & systems engineer with merged pull requests and active low-level C/C++, Rust, Go, and TypeScript fixes across major open-source ecosystems.</b></p>
 </div>
 
 <br />
@@ -523,23 +523,41 @@ class ArianPashae {
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h3>🦀&nbsp;<a href="https://github.com/storytold/photocraft" target="_blank">Photocraft (26k+ ⭐ GPU Image Editor)</a></h3>
+      <h3>🦀&nbsp;<a href="https://github.com/storytold/photocraft" target="_blank">Photocraft (GPU Image Editor)</a></h3>
       <p>Upstream contributor to the GPU-accelerated raster graphics editor. Hardened repository hygiene and build environments by resolving stray test/lint log artifacts and enforcing root ignore policies (Issue <a href="https://github.com/storytold/photocraft/issues/1154" target="_blank">#1154</a>). Reviewed and merged upstream into main.</p>
       <p>
         <a href="https://github.com/storytold/photocraft/pull/1155" target="_blank"><img src="https://img.shields.io/badge/PR%20%231155-MERGED-success?style=flat-square&logo=github&labelColor=111111" alt="PR #1155 Merged" /></a>
-        <img src="https://img.shields.io/badge/STARS-26.1k%2B-FFB800?style=flat-square&logo=github&labelColor=111111" alt="Stars" />
-        <img src="https://img.shields.io/badge/ROLE-Official%20Contributor-00D9FF?style=flat-square&logo=git&labelColor=111111" alt="Official Contributor" />
+        <img src="https://img.shields.io/github/stars/storytold/photocraft?style=flat-square&label=STARS&color=FFB800&logo=github&labelColor=111111" alt="Photocraft Stars" />
         <img src="https://img.shields.io/badge/STACK-Rust%20%E2%80%A2%20WGPU%20%E2%80%A2%20Graphics-E100FF?style=flat-square&labelColor=111111" alt="Stack" />
       </p>
     </td>
     <td valign="top" width="50%">
-      <h3>🧠&nbsp;<a href="https://github.com/morluto/rea" target="_blank">Rea (24k+ ⭐ Agentic Reverse Engineering)</a></h3>
+      <h3>🧠&nbsp;<a href="https://github.com/morluto/rea" target="_blank">Rea (Agentic Reverse Engineering)</a></h3>
       <p>Upstream contributor to the agentic binary reverse engineering framework. Patched cross-platform installer execution under <code>set -u</code> on macOS Bash 3.2 environments, eliminating unbound variable aborts. Reviewed and merged upstream into main.</p>
       <p>
         <a href="https://github.com/morluto/rea/pull/1061" target="_blank"><img src="https://img.shields.io/badge/PR%20%231061-MERGED-success?style=flat-square&logo=github&labelColor=111111" alt="PR #1061 Merged" /></a>
-        <img src="https://img.shields.io/badge/STARS-24.6k%2B-FFB800?style=flat-square&logo=github&labelColor=111111" alt="Stars" />
-        <img src="https://img.shields.io/badge/ROLE-Official%20Contributor-00D9FF?style=flat-square&logo=git&labelColor=111111" alt="Official Contributor" />
+        <img src="https://img.shields.io/github/stars/morluto/rea?style=flat-square&label=STARS&color=FFB800&logo=github&labelColor=111111" alt="Rea Stars" />
         <img src="https://img.shields.io/badge/STACK-Python%20%E2%80%A2%20Reverse%20Eng%20%E2%80%A2%20Agents-7F00FF?style=flat-square&labelColor=111111" alt="Stack" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>⚡&nbsp;<a href="https://github.com/v2rayA/v2rayA" target="_blank">v2rayA (Universal Linux Routing Engine)</a></h3>
+      <p>Upstream contributor to the universal Linux network proxy GUI. Diagnosed and eliminated critical SQLite foreign key constraint failures (<code>SQLITE_CONSTRAINT_FOREIGNKEY</code> code 787) during batch proxy node deletions (Issue <a href="https://github.com/v2rayA/v2rayA/issues/2065" target="_blank">#2065</a>) by safely dropping obsolete legacy schema tables post-migration.</p>
+      <p>
+        <a href="https://github.com/v2rayA/v2rayA/pull/2080" target="_blank"><img src="https://img.shields.io/badge/PR%20%232080-MERGED-success?style=flat-square&logo=github&labelColor=111111" alt="PR #2080 Merged" /></a>
+        <img src="https://img.shields.io/github/stars/v2rayA/v2rayA?style=flat-square&label=STARS&color=FFB800&logo=github&labelColor=111111" alt="v2rayA Stars" />
+        <img src="https://img.shields.io/badge/STACK-Go%20%E2%80%A2%20SQLite%20%E2%80%A2%20Vue-9745F5?style=flat-square&labelColor=111111" alt="Stack" />
+      </p>
+    </td>
+    <td valign="top" width="50%">
+      <h3>🪶&nbsp;<a href="https://github.com/SalamLang/Salam" target="_blank">Salam Programming Language (Compiler & Runtime)</a></h3>
+      <p>Authored <b>11 merged C runtime & standard library fixes</b> addressing memory safety and parser termination — including self-extension use-after-free (<a href="https://github.com/SalamLang/Salam/pull/3646" target="_blank">#3646</a>), out-of-bounds heap read clamping (<a href="https://github.com/SalamLang/Salam/pull/3048" target="_blank">#3048</a>), JSON/filepath memory leaks (<a href="https://github.com/SalamLang/Salam/pull/3039" target="_blank">#3039</a>, <a href="https://github.com/SalamLang/Salam/pull/3054" target="_blank">#3054</a>), and parser loop progress (<a href="https://github.com/SalamLang/Salam/pull/3042" target="_blank">#3042</a>).</p>
+      <p>
+        <a href="https://github.com/SalamLang/Salam/pulls?q=is%3Apr+author%3AArianPashae+is%3Amerged" target="_blank"><img src="https://img.shields.io/badge/11%20PRs-MERGED-success?style=flat-square&logo=github&labelColor=111111" alt="11 Merged PRs" /></a>
+        <img src="https://img.shields.io/github/stars/SalamLang/Salam?style=flat-square&label=STARS&color=FFB800&logo=github&labelColor=111111" alt="Salam Stars" />
+        <img src="https://img.shields.io/badge/STACK-C%20%E2%80%A2%20Compiler%20%E2%80%A2%20Memory%20Safety-00D9FF?style=flat-square&labelColor=111111" alt="Stack" />
       </p>
     </td>
   </tr>
@@ -555,7 +573,7 @@ class ArianPashae {
     </td>
     <td valign="top" width="50%">
       <h3>🗺️&nbsp;<a href="https://github.com/salehghari/ganjineh-street" target="_blank">Ganjineh Street — Web Platform</a></h3>
-      <p>Official collaborator & core maintainer for the gamified treasure-hunt platform (<a href="https://ganjinehstreet.ir" target="_blank"><b>ganjinehstreet.ir</b></a>). Fixed Next.js 15 client dynamic routing bugs, hint timer closure leaks, and improved hydration stability (PR <a href="https://github.com/salehghari/ganjineh-street/pull/2" target="_blank">#2</a>).</p>
+      <p>Official collaborator & core maintainer for the gamified treasure-hunt platform (<b>ganjinehstreet.ir</b>). Fixed Next.js 15 client dynamic routing bugs, hint timer closure leaks, and improved hydration stability (PR <a href="https://github.com/salehghari/ganjineh-street/pull/2" target="_blank">#2</a>).</p>
       <p>
         <a href="https://github.com/salehghari/ganjineh-street/pull/2" target="_blank"><img src="https://img.shields.io/badge/PR%20%232-MERGED-success?style=flat-square&logo=github&labelColor=111111" alt="PR #2 Merged" /></a>
         <img src="https://img.shields.io/badge/ROLE-Collaborator-00D9FF?style=flat-square&logo=git&labelColor=111111" alt="Collaborator" />
@@ -563,15 +581,71 @@ class ArianPashae {
       </p>
     </td>
   </tr>
+</table>
+
+<br />
+
+<div align="center">
+  <h3>⚙️ Active Systems & Core Infrastructure PRs (Live Upstream Status)</h3>
+</div>
+
+<table>
   <tr>
-    <td valign="top" colspan="2">
-      <h3>⚡&nbsp;<a href="https://github.com/v2rayA/v2rayA" target="_blank">v2rayA (15.7k+ ⭐ Linux & Universal Routing Engine)</a></h3>
-      <p>Upstream contributor to the premier universal Linux network proxy GUI (15,700+ ⭐). Diagnosed and eliminated critical SQLite foreign key constraint failures (<code>SQLITE_CONSTRAINT_FOREIGNKEY</code> code 787) during batch proxy node deletions (Issue <a href="https://github.com/v2rayA/v2rayA/issues/2065" target="_blank">#2065</a>) by safely dropping obsolete legacy schema tables post-migration. Reviewed, approved, and merged upstream into master by lead maintainer @MarksonHon.</p>
+    <td valign="top" width="33%">
+      <h4>🗄️&nbsp;<a href="https://github.com/redis/redis" target="_blank">Redis</a></h4>
+      <p>Fixed lazy parsing omission in <code>RedisModule_CallReplyAttribute()</code> returning <code>NULL</code> on unparsed RESP3 replies, type-check mismatch in attribute elements, and module context inheritance.</p>
       <p>
-        <a href="https://github.com/v2rayA/v2rayA/pull/2080" target="_blank"><img src="https://img.shields.io/badge/PR%20%232080-MERGED-success?style=flat-square&logo=github&labelColor=111111" alt="PR #2080 Merged" /></a>
-        <img src="https://img.shields.io/badge/STARS-15.7k%2B-FFB800?style=flat-square&logo=github&labelColor=111111" alt="Stars" />
-        <img src="https://img.shields.io/badge/ROLE-Official%20Contributor-00D9FF?style=flat-square&logo=git&labelColor=111111" alt="Official Contributor" />
-        <img src="https://img.shields.io/badge/STACK-Go%20%E2%80%A2%20SQLite%20%E2%80%A2%20Networking%20%E2%80%A2%20Vue-9745F5?style=flat-square&labelColor=111111" alt="Stack" />
+        <a href="https://github.com/redis/redis/pull/16368" target="_blank"><img src="https://img.shields.io/github/pulls/detail/state/redis/redis/16368?style=flat-square&label=PR%20%2316368&labelColor=111111" alt="Redis PR #16368" /></a>
+        <img src="https://img.shields.io/github/stars/redis/redis?style=flat-square&label=STARS&color=FFB800&labelColor=111111" alt="Redis Stars" />
+      </p>
+    </td>
+    <td valign="top" width="33%">
+      <h4>⚡&nbsp;<a href="https://github.com/valkey-io/valkey" target="_blank">Valkey</a></h4>
+      <p>Guarded premature IO-thread replication stream writes before replica ACK (<a href="https://github.com/valkey-io/valkey/pull/5509" target="_blank">#5509</a>) and prevented post-rename dirsync errors from unlinking active AOF files (<a href="https://github.com/valkey-io/valkey/pull/5590" target="_blank">#5590</a>).</p>
+      <p>
+        <a href="https://github.com/valkey-io/valkey/pull/5509" target="_blank"><img src="https://img.shields.io/github/pulls/detail/state/valkey-io/valkey/5509?style=flat-square&label=PR%20%235509&labelColor=111111" alt="Valkey PR #5509" /></a>
+        <a href="https://github.com/valkey-io/valkey/pull/5590" target="_blank"><img src="https://img.shields.io/github/pulls/detail/state/valkey-io/valkey/5590?style=flat-square&label=PR%20%235590&labelColor=111111" alt="Valkey PR #5590" /></a>
+        <img src="https://img.shields.io/github/stars/valkey-io/valkey?style=flat-square&label=STARS&color=FFB800&labelColor=111111" alt="Valkey Stars" />
+      </p>
+    </td>
+    <td valign="top" width="33%">
+      <h4>🌐&nbsp;<a href="https://github.com/curl/curl" target="_blank">cURL</a></h4>
+      <p>Fixed Windows <code>--cert</code> parameter parser stripping leading UNC backslashes (<code>\\server\share</code>) and extended device prefixes (<code>\\?\c:\</code>) with unit regression coverage.</p>
+      <p>
+        <a href="https://github.com/curl/curl/pull/24147" target="_blank"><img src="https://img.shields.io/github/pulls/detail/state/curl/curl/24147?style=flat-square&label=PR%20%2324147&labelColor=111111" alt="cURL PR #24147" /></a>
+        <img src="https://img.shields.io/github/stars/curl/curl?style=flat-square&label=STARS&color=FFB800&labelColor=111111" alt="cURL Stars" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- ==================== FEATURED PERSONAL PROJECTS ==================== -->
+<div align="center">
+  <img src="https://img.icons8.com/3d-fluency/94/rocket.png" width="58" alt="Personal Projects" />
+  <h1>Featured Open-Source Projects</h1>
+  <p><b>Selected public tools, mini-apps, and developer themes maintained under my personal GitHub workspace.</b></p>
+</div>
+
+<br />
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>📅&nbsp;<a href="https://github.com/ArianPashae/AzadWeekBot" target="_blank">AzadWeekBot — Academic Calendar Bot & Mini App</a></h3>
+      <p>Smart Telegram Bot and native WebApp / PWA engineered for Islamic Azad University students to track Odd & Even academic weeks in real time.</p>
+      <p>
+        <a href="https://github.com/ArianPashae/AzadWeekBot" target="_blank"><img src="https://img.shields.io/github/stars/ArianPashae/AzadWeekBot?style=flat-square&label=STARS&color=9745F5&logo=github&labelColor=111111" alt="AzadWeekBot Stars" /></a>
+        <img src="https://img.shields.io/badge/Telegram%20Bot%20%26%20PWA-00D9FF?style=flat-square&labelColor=111111" alt="Telegram Mini App" />
+      </p>
+    </td>
+    <td valign="top" width="50%">
+      <h3>🎨&nbsp;<a href="https://github.com/ArianPashae/ArianPashae-Discord-Theme" target="_blank">ArianPashae Discord Theme</a></h3>
+      <p>Sleek, high-contrast Obsidian & Cyber-Violet theme tailored for Vencord, BetterDiscord, and Vesktop clients with refined token styling.</p>
+      <p>
+        <a href="https://github.com/ArianPashae/ArianPashae-Discord-Theme" target="_blank"><img src="https://img.shields.io/github/stars/ArianPashae/ArianPashae-Discord-Theme?style=flat-square&label=STARS&color=E100FF&logo=github&labelColor=111111" alt="Discord Theme Stars" /></a>
+        <img src="https://img.shields.io/badge/Obsidian%20%26%20Cyber--Violet-7F00FF?style=flat-square&labelColor=111111" alt="Cyber Violet" />
       </p>
     </td>
   </tr>
@@ -656,6 +730,16 @@ class ArianPashae {
     <a href="https://discordapp.com/users/941442983084040222" target="_blank"><img src="https://img.shields.io/badge/DISCORD-Arian%20Pashae-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=111111" alt="Discord" /></a>
     <a href="https://wa.link/8x8t9x" target="_blank"><img src="https://img.shields.io/badge/WHATSAPP-Direct%20Line-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=111111" alt="WhatsApp" /></a>
     <a href="mailto:info@arianpashae.com"><img src="https://img.shields.io/badge/EMAIL-info%40arianpashae.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111111" alt="Email" /></a>
+  </p>
+
+  <br />
+
+  <!-- ==================== SUPPORT & SPONSORSHIP ==================== -->
+  <img src="https://img.icons8.com/3d-fluency/94/cafe.png" width="52" alt="Buy Me a Coffee" />
+  <h2>Support My Open-Source Work</h2>
+  <p>If my open-source contributions, tools, or articles helped you, you can fuel the next engineering sprint with a coffee.</p>
+  <p align="center">
+    <a href="https://www.coffeebede.com/arianpashae" target="_blank"><img src="https://img.shields.io/badge/SUPPORT%20(IRAN)-Coffeebede%20%E2%98%95-FF813F?style=for-the-badge&logo=buymeacoffee&logoColor=white&labelColor=111111" alt="Buy Me a Coffee on Coffeebede (Iran)" /></a>
   </p>
 
   <br />
